@@ -1,10 +1,10 @@
 # SQL-Befehle eingeben (Verwaltung Werkzeuge)
 
-![SchILD_Werkzeuge_SQL_1.png](../../graphics/SchILD_Werkzeuge_SQL_1.png)
+![SchILD_Werkzeuge_SQL_1.png](../graphics/SchILD_Werkzeuge_SQL_1.png)
 
  
 
-![SchILD_Werkzeuge_SQL_2_Ergebnis.png](../../graphics/SchILD_Werkzeuge_SQL_2_Ergebnis.png)
+![SchILD_Werkzeuge_SQL_2_Ergebnis.png](../graphics/SchILD_Werkzeuge_SQL_2_Ergebnis.png)
 
 Sie haben als *Administrator* die Möglichkeit, beliebige SQL-Befehle in
 der Datenbank auszuführen.

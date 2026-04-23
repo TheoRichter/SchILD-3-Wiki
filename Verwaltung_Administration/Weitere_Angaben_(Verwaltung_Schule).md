@@ -1,6 +1,6 @@
 # Weitere Angaben (Verwaltung Schule)
 
-![Schild_Verwaltung_Schule_WeitereAngaben.png](../../graphics/Schild_Verwaltung_Schule_WeitereAngaben.png)
+![Schild_Verwaltung_Schule_WeitereAngaben.png](../graphics/Schild_Verwaltung_Schule_WeitereAngaben.png)
 
  Unter *Verwaltung Schule Weitere Angaben* lassen sich
 weitere **Teilstandorte** und **Merkmale** festlegen.Bei den **Teilstandorten** ist ein alphabetisch aufsteigender

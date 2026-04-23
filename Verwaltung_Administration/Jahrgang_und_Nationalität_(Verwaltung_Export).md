@@ -1,6 +1,6 @@
 # Jahrgang und Nationalität (Verwaltung Export)
 
-![SchILD_Export_JaNa.png](../../graphics/SchILD_Export_JaNa.png)
+![SchILD_Export_JaNa.png](../graphics/SchILD_Export_JaNa.png)
 
  Der JaNa-Export wird über *Verwaltung ➜ Export* ➜
 **Jahrgang und Nationalität** aufgerufen und ermöglicht die Meldung der

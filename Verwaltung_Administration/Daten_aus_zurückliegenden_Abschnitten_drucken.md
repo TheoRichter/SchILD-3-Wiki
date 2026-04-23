@@ -1,6 +1,6 @@
 # Daten aus zurückliegenden Abschnitten drucken
 
-![SchILD_Reports_Grundlagen_16_VergangeneAbschnitte.png](../../graphics/SchILD_Reports_Grundlagen_16_VergangeneAbschnitte.png)
+![SchILD_Reports_Grundlagen_16_VergangeneAbschnitte.png](../graphics/SchILD_Reports_Grundlagen_16_VergangeneAbschnitte.png)
 
  Als Standard werden über den Reportexplorer Daten des
 aktuellen Abschnitts ausgegeben. Manche Reports sollen jedoch mit Daten

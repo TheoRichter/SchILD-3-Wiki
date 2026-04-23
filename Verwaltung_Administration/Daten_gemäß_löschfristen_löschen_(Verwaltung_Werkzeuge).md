@@ -1,6 +1,6 @@
 # Daten gemäß löschfristen löschen (Verwaltung Werkzeuge)
 
-![SchILD_Verwaltung_Werkzeuge_Löschfristen_1_Programmstart.png](../../graphics/SchILD_Verwaltung_Werkzeuge_Löschfristen_1_Programmstart.png)
+![SchILD_Verwaltung_Werkzeuge_Löschfristen_1_Programmstart.png](../graphics/SchILD_Verwaltung_Werkzeuge_Löschfristen_1_Programmstart.png)
 
  SchILD-NRW unterstützt die Schulleitung dabei,
 datenschutzkonform zu arbeiten.Hierzu wird eine Prüfung der Daten nach den Vorgaben der betreffenden
@@ -13,14 +13,14 @@ setzen des entsprechenden Hakens *die Prüfung beim Programmstart zu
 deaktivieren*.Ein Klick auf **Prüfen, ob Daten, deren Aufbewahrungsfristen abgelaufen
 sind, vorhanden sind** startet die Prüfung.  
 
-![SchILD_Verwaltung_Werkzeuge_Löschfristen_1_Programmstart_2.png](../../graphics/SchILD_Verwaltung_Werkzeuge_Löschfristen_1_Programmstart_2.png)
+![SchILD_Verwaltung_Werkzeuge_Löschfristen_1_Programmstart_2.png](../graphics/SchILD_Verwaltung_Werkzeuge_Löschfristen_1_Programmstart_2.png)
 
  Wurden Daten mit abgelaufenen Löschfristen gefunden, können
 Sie dies im folgenden Dialog über **Nein** zur Kenntnis nehmen und mit
 der geplanten Arbeit fortfahren. Alternativ lassen sich die Daten mit
 **Ja** anzeigen.  
 
-![SchILD_Verwaltung_Werkzeuge_Löschfristen_3_Übersicht.png](../../graphics/SchILD_Verwaltung_Werkzeuge_Löschfristen_3_Übersicht.png)
+![SchILD_Verwaltung_Werkzeuge_Löschfristen_3_Übersicht.png](../graphics/SchILD_Verwaltung_Werkzeuge_Löschfristen_3_Übersicht.png)
 
  Die Prüfung führt im Wesentlichen nach durch drei Fristen
 vorgegebene Prüfungen durch: Ob Aufbewahrungsfristen 5, 10 und 20 Jahre
@@ -42,7 +42,7 @@ fallen.
 
 :::  
 
-![SchILD_Verwaltung_Werkzeuge_Löschfristen_4_Datenliste.png](../../graphics/SchILD_Verwaltung_Werkzeuge_Löschfristen_4_Datenliste.png)
+![SchILD_Verwaltung_Werkzeuge_Löschfristen_4_Datenliste.png](../graphics/SchILD_Verwaltung_Werkzeuge_Löschfristen_4_Datenliste.png)
 
  Die Schaltfläche *Namen anzeigen* zeigt eine Liste der
 betroffenen Personen, aufgelistet je nach Kategorie. Diese Liste kann
@@ -61,7 +61,7 @@ Stelle doch noch beenden.Nach dem Löschvorgang startet SchILD-NRW.
 
 ### Manuelles Prüfen auf abgelaufene Löschfristen anstoßen
 
-![SchILD_Verwaltung_Werkzeuge_Löschfristen_5_ManuellePrüfung.png](../../graphics/SchILD_Verwaltung_Werkzeuge_Löschfristen_5_ManuellePrüfung.png)
+![SchILD_Verwaltung_Werkzeuge_Löschfristen_5_ManuellePrüfung.png](../graphics/SchILD_Verwaltung_Werkzeuge_Löschfristen_5_ManuellePrüfung.png)
 
  Über *Verwaltung ➜ Werkzeuge* ➜ **Löschfristen prüfen**
 lässt sich die Prüfung jederzeit direkt starten.

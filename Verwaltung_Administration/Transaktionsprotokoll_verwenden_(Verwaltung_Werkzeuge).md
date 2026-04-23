@@ -1,6 +1,6 @@
 # Transaktionsprotokoll verwenden (Verwaltung Werkzeuge)
 
-![SchILD_Verwaltung_Werkzeuge_Transaktionsprotokoll_Aktivieren.png](../../graphics/SchILD_Verwaltung_Werkzeuge_Transaktionsprotokoll_Aktivieren.png)
+![SchILD_Verwaltung_Werkzeuge_Transaktionsprotokoll_Aktivieren.png](../graphics/SchILD_Verwaltung_Werkzeuge_Transaktionsprotokoll_Aktivieren.png)
 
  Bei Gruppenprozessen werden i.d.R. SQL-Befehle an die
 Datenbank geschickt.Wenn die aus irgendeinem Grunde nicht erfolgreich ausgeführt werden
@@ -12,7 +12,7 @@ Transaktionsprotokoll verwenden ➜* **Transaktionsprotoll aktivieren**"
 eingeschaltet, werden diese Fehlermeldungen intern gespeichert und
 können über "Transaktionsprotokoll zeigen" sichtbar gemacht werden.  
 
-![SchILD_Verwaltung_Werkzeuge_Transaktionsprotokoll_IstAktiviert.png](../../graphics/SchILD_Verwaltung_Werkzeuge_Transaktionsprotokoll_IstAktiviert.png)
+![SchILD_Verwaltung_Werkzeuge_Transaktionsprotokoll_IstAktiviert.png](../graphics/SchILD_Verwaltung_Werkzeuge_Transaktionsprotokoll_IstAktiviert.png)
 
  Dass das Transaktionsprotokoll aktiviert wurde, ist daran
 ersichtlich, dass vor *Transaktionsprotokoll* nun ein "**+**" steht.Weiterhin wird nun *Transaktionsprotokoll zeigen* zur Verfügung

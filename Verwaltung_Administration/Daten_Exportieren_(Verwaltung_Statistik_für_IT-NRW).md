@@ -10,7 +10,7 @@ bereinigen.
 
 :::
 
-![SchILD_Verwaltung_Statistikexport.png](../../graphics/SchILD_Verwaltung_Statistikexport.png)
+![SchILD_Verwaltung_Statistikexport.png](../graphics/SchILD_Verwaltung_Statistikexport.png)
 
 Rufen Sie das Exportfenster über *Verwaltung ➜ Statistik für IT.NRW* ➜
 **Daten exportieren** auf.Kontrollieren Sie, ob die Schülerzahlen Ihren Erwartungen entsprechen
@@ -22,7 +22,7 @@ und wählen Sie dann die zu exportierenden Datensätze an.-   **SIM.txt**: Diese
 -   **ABI.txt**: Diese Datei enthält die Daten zum Abitur.Nicht in allen Schulen werden je nach Arbeitsweise alle Dateien
 benötigt.  
 
-![SchILD_Verwaltung_Statistik_Export_SIMtxt.png](../../graphics/SchILD_Verwaltung_Statistik_Export_SIMtxt.png)
+![SchILD_Verwaltung_Statistik_Export_SIMtxt.png](../graphics/SchILD_Verwaltung_Statistik_Export_SIMtxt.png)
 
  Bestätigten Sie eventuelle Nachfragen, so dass Sie in den
 Export gelangen.Wählen Sie nun einen Speicherort für die zu erzeugende Datei, hier im
@@ -39,7 +39,7 @@ Klicken Sie dann auf `Speichern`
 
 .  
 
-![SchILD_Verwaltung_Statistik_Export_Nachfragen.png](../../graphics/SchILD_Verwaltung_Statistik_Export_Nachfragen.png)
+![SchILD_Verwaltung_Statistik_Export_Nachfragen.png](../graphics/SchILD_Verwaltung_Statistik_Export_Nachfragen.png)
 
  Weitere Nachfragen wie die im Screenshot sind wieder zu
 bestätigten. Die angezeigte Version und das Datum können zur Kontrolle

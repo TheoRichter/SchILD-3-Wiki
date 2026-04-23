@@ -1,6 +1,6 @@
 # Startklar (Verwaltung Export)
 
-![SchILD_Export_Starklar.png](../../graphics/SchILD_Export_Starklar.png)
+![SchILD_Export_Starklar.png](../graphics/SchILD_Export_Starklar.png)
 
 Über *Verwaltung ➜ Export* ➜ **Startklar** lässt sich eine Datei für
 *Startklar!* exportieren.Wählen Sie ein Verzeichnis, in das exportiert werden soll. Hier im

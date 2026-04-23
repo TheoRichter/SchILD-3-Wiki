@@ -3,7 +3,7 @@ versenden. Ein Beispiel wäre der Versand von erzeugten Reports per
 Email, mitunter bietet aber auch die Oberfläche von SchILD an diversen
 Stellen einen Emailversand an.Hierzu muss SchILD für Emails vorbereitet werden.
 
-![SchILD_Verwaltung_EmailVersand_Standard.png](../../graphics/SchILD_Verwaltung_EmailVersand_Standard.png)
+![SchILD_Verwaltung_EmailVersand_Standard.png](../graphics/SchILD_Verwaltung_EmailVersand_Standard.png)
 
  Gehen Sie über *Verwaltung ➜ Einstellungen ➜
 E-Mail-Versand*, um die notwendigen Konfigurationen vorzunehmen.-   **Simple MAPI verwenden** reduziert die verwendeten API-Aufrufe an

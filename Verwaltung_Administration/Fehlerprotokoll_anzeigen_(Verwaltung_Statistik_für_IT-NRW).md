@@ -2,7 +2,7 @@
 
 ### Das PDF-Fehlerprotokoll
 
-![SchILD_Verwaltung_Statistik_FehlerprotokollAnzeigen.png](../../graphics/SchILD_Verwaltung_Statistik_FehlerprotokollAnzeigen.png)
+![SchILD_Verwaltung_Statistik_FehlerprotokollAnzeigen.png](../graphics/SchILD_Verwaltung_Statistik_FehlerprotokollAnzeigen.png)
 
  Wurde eine Statistikprüfung durchgeführt und wurde das
 Fehlerprotokoll in Form einer PDF-Datei erfolgreich im Ordner
@@ -23,13 +23,13 @@ Fehlerprotokoll aufgeführt.
 
 ### Bearbeiten von Statistikfehlern in SchILD-NRW
 
-![SchILD_Verwaltung_Statistik_SchülerSuchen.png](../../graphics/SchILD_Verwaltung_Statistik_SchülerSuchen.png)
+![SchILD_Verwaltung_Statistik_SchülerSuchen.png](../graphics/SchILD_Verwaltung_Statistik_SchülerSuchen.png)
 
  Diese Schüler kann man nun über das Fernglas *Schüler ➜
 Suchen* finden, indem in dem Suchfenster die **Statistik ID** eingegeben
 wird.  
 
-![SchILD_Verwaltung_Statistik_Gesamtprüfung_Auswahl.png](../../graphics/SchILD_Verwaltung_Statistik_Gesamtprüfung_Auswahl.png)
+![SchILD_Verwaltung_Statistik_Gesamtprüfung_Auswahl.png](../graphics/SchILD_Verwaltung_Statistik_Gesamtprüfung_Auswahl.png)
 
  Komfortabler kann man sich über *Auswahl ➜ Schüler mit
 Statistik-Fehlern zeigen* direkt alle Schüler mit Statistikfehlern und

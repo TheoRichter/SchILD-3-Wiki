@@ -1,12 +1,12 @@
 # Serien-E-Mail-Versand
 
-![Serien-E-Mail.png](../../graphics/Serien-E-Mail.png)
+![Serien-E-Mail.png](../graphics/Serien-E-Mail.png)
 
 In Abhängigkeit des Designs eines Reports können diese als Serien-E-Mail
 versendet werden. Hierbei wird der Report nicht gedruckt, sondern als
 PDF-Anhang an die jeweilige Zielperson per E-Mail versendet.
 
-![Serien-E-Mail-Betreff.png](../../graphics/Serien-E-Mail-Betreff.png)
+![Serien-E-Mail-Betreff.png](../graphics/Serien-E-Mail-Betreff.png)
 
  Wenn Sie die Option "als Serien-E-Mail versenden"
 aktivieren, öffnet sich nach kurzer Zeit ein E-Mail-Fenster, in welchem
@@ -16,7 +16,7 @@ Betreff und dem E-Mail-Text an die jeweilige Zielpersonen versendet.
 
 ## Voraussetzung
 
-![Serien-E-Mail-Gruppen.png](../../graphics/Serien-E-Mail-Gruppen.png)
+![Serien-E-Mail-Gruppen.png](../graphics/Serien-E-Mail-Gruppen.png)
 
 Um das Ergebnis eines Reports als Serien-E-Mail versenden zu können,
 muss dieser eine Gruppe enthalten. Nach jedem Gruppenwechsel wird ein

@@ -1,6 +1,6 @@
 # Datenschutzhinweise (Verwaltung Hilfe)
 
-![SchILD_Datenschutzhinweis.png](../../graphics/SchILD_Datenschutzhinweis.png)
+![SchILD_Datenschutzhinweis.png](../graphics/SchILD_Datenschutzhinweis.png)
 
  Bei jedem Systemstart wird im Loginscreen der
 Datenschutzhinweis angezeigt. Die Kenntnisnahme ist mit **OK** zu
@@ -17,9 +17,9 @@ Die Datenschutzbeauftragen der Schulen, das können auch kommunal
 bestellte Personen sein, sind in der Regel mit der Erstellung eines
 Verfahrensverzeichnisses für die verwendete Software beauftragt.  
 
-![SchILD_Datenschutz_LinksDatenschutzkonzept.png](../../graphics/SchILD_Datenschutz_LinksDatenschutzkonzept.png)
+![SchILD_Datenschutz_LinksDatenschutzkonzept.png](../graphics/SchILD_Datenschutz_LinksDatenschutzkonzept.png)
 
- Auf der Seite für [Schulverwaltungssoftware desMSB](https://www.svws.nrw.de/links/) findet sich unter dem Punkt
+ Auf der Seite für Schulverwaltungssoftware des MSB findet sich unter dem Punkt
 **Links** der Punkt **Datenschutzkonzept**.Unter diesem findet sich eine Zusammenstellung von Informationen und
 Hinweisen wie-   Hinweise zur DSGVO
 -   Links auf die VO-DV-I und VO-DV-II

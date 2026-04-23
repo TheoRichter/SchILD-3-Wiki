@@ -1,6 +1,6 @@
 # Fotos (Verwaltung Export)
 
-![SchILD_Export_Fotos.png](../../graphics/SchILD_Export_Fotos.png)
+![SchILD_Export_Fotos.png](../graphics/SchILD_Export_Fotos.png)
 
  Nach dem Aufruf des Menüpunktes *"Verwaltung ➜ Export ➜
 Fotos"* werden Sie gebeten, einen Zielordner auszuwählen.Weiterhin können Sie das Format des *Foto-Dateinamens* festlegen.  

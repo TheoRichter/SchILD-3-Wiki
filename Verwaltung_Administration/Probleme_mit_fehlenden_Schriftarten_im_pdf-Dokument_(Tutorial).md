@@ -1,6 +1,6 @@
 # Probleme mit fehlenden Schriftarten im pdf-Dokument (Tutorial)
 
-![SchILD_Tutorials_Reporting_SchriftartEinbetten.png](../../graphics/SchILD_Tutorials_Reporting_SchriftartEinbetten.png)
+![SchILD_Tutorials_Reporting_SchriftartEinbetten.png](../graphics/SchILD_Tutorials_Reporting_SchriftartEinbetten.png)
 
  Eine fehlerhafte Darstellung von generierten PDF-Dateien
 kann durch falsche Zeichencodierung im PDF oder durch fehlende

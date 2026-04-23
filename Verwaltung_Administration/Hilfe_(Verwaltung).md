@@ -1,6 +1,6 @@
 # Hilfe (Verwaltung)
 
-![SchILD_Verwaltung_Hilfe.png](../../graphics/SchILD_Verwaltung_Hilfe.png)
+![SchILD_Verwaltung_Hilfe.png](../graphics/SchILD_Verwaltung_Hilfe.png)
 
  Rufen Sie *Verwaltung* auf, findet sich in in der Kopfzeile
 das Menü für *Hilfe*. Hierüber sind folgende Punkte abrufbar:-   **Online-Supportprogramm aufrufen** kann verwendet werden, um eine
@@ -14,7 +14,7 @@ das Menü für *Hilfe*. Hierüber sind folgende Punkte abrufbar:-   **Online-Sup
     weitere Hilfe benötigen, melden Sie sich beim Forum an und stellen
     Sie die Frage im passenden Unterforum.
 
-![SchILD_Verwaltung_Hilfe_Info.png](../../graphics/SchILD_Verwaltung_Hilfe_Info.png)
+![SchILD_Verwaltung_Hilfe_Info.png](../graphics/SchILD_Verwaltung_Hilfe_Info.png)
 
 -   **Info** ruft Informationen zu SchILD-NRW auf, so können Sie sehen,
     welche aktuelle Version mit welchem Kompilierungsdatum genutzt wird.

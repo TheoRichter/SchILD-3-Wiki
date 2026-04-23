@@ -7,13 +7,13 @@ Beispiel. In diesem Arbeitsverzeichnis liegt ein Ordner, der
 "Schild-Reports" heißt. Die Struktur in diesem Ordner mit den darin
 liegenden Reports wird sich genauso auch in SchILD wiederfinden.
 
-![SchILD_Reports_Grundlagen_6.png](../../graphics/SchILD_Reports_Grundlagen_6.png)
+![SchILD_Reports_Grundlagen_6.png](../graphics/SchILD_Reports_Grundlagen_6.png)
 
  Hier im Beispiel wird ein Report heruntergeladen, der als
 Vorlage für eine Zeugniskonferenz dienen soll und wichtige Informationen
 zu einem gewählten Schüler zusammenfasst.  
 
-![SchILD_Reports_Grundlagen_8.png](../../graphics/SchILD_Reports_Grundlagen_8.png)
+![SchILD_Reports_Grundlagen_8.png](../graphics/SchILD_Reports_Grundlagen_8.png)
 
  In diesem Beispiel wurde ein neuer Ordner "Sek I" angelegt,
 in dem alle Reports gesammelt werden sollen, die in irgendeiner Weise
@@ -21,7 +21,7 @@ zur Verwaltung der Sekundarstufe I dienen.Klicken Sie mit der rechten Maustaste 
 *"Hier entpacken"*. Nun wird der Inhalt des Archivs ausgepackt. In dem
 hier verwendeten Archiv finden sich zwei Dateien.  
 
-![SchILD_Reports_Grundlagen_9.png](../../graphics/SchILD_Reports_Grundlagen_9.png)
+![SchILD_Reports_Grundlagen_9.png](../graphics/SchILD_Reports_Grundlagen_9.png)
 
  Zum einen eine .pdf-Datei, die eine schon zuvor erstellte
 Vorschau des Reports enthält, so dass man sich ohne SchILD starten zu
@@ -30,7 +30,7 @@ Dateien sind die tatsächlichen Reports, die, wenn man sie in SchILD
 aufruft, den tatsächlichen Report aus der konkret vorliegenden Datenbank
 erzeugen.
 
-![SchILD_Reports_Grundlagen_10.png](../../graphics/SchILD_Reports_Grundlagen_10.png)
+![SchILD_Reports_Grundlagen_10.png](../graphics/SchILD_Reports_Grundlagen_10.png)
 
  Der nun installierte Report als .rtm-Datei findet sich in
 SchILD im neu angelegten Ordner in der Reportverwaltung und kann nun

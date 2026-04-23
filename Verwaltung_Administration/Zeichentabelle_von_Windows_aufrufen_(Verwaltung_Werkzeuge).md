@@ -1,6 +1,6 @@
 # Zeichentabelle von Windows aufrufen (Verwaltung Werkzeuge)
 
-![SchILD_Verwaltung_Werkzeuge_Zeichentabelle.png](../../graphics/SchILD_Verwaltung_Werkzeuge_Zeichentabelle.png)
+![SchILD_Verwaltung_Werkzeuge_Zeichentabelle.png](../graphics/SchILD_Verwaltung_Werkzeuge_Zeichentabelle.png)
 
  Sollte ein Symbold benötigt werden, das nicht direkt über
 die Tastatur abrufbar ist, lässt sich von SchILD-NRW aus die

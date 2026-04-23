@@ -1,6 +1,6 @@
 # Globale Einstellungen (Verwaltung Einstellungen)
 
-![SchILD_Einstellungen_GlobaleEinstellungen_1_AllgemeinEinstellungen.png](../../graphics/SchILD_Einstellungen_GlobaleEinstellungen_1_AllgemeinEinstellungen.png)
+![SchILD_Einstellungen_GlobaleEinstellungen_1_AllgemeinEinstellungen.png](../graphics/SchILD_Einstellungen_GlobaleEinstellungen_1_AllgemeinEinstellungen.png)
 
  Unter dieser Punkt finden sich Allgemeine Einstellungen zu
 SchILD, die global für alle Nutzer von der Administration eingestellt
@@ -36,7 +36,7 @@ sind hier nicht weiter ausgeführt werden. Zu den weiteren Einträgen:-   Die **
 
 ## Ansicht
 
-![SchILD_Einstellungen_GlobaleEinstellungen_Ansicht.png](../../graphics/SchILD_Einstellungen_GlobaleEinstellungen_Ansicht.png)
+![SchILD_Einstellungen_GlobaleEinstellungen_Ansicht.png](../graphics/SchILD_Einstellungen_GlobaleEinstellungen_Ansicht.png)
 
  Steuert, wie SchILD aussehen soll.-   **Schuljahr korrekt**: Diese Option führt dazu, dass Schild-NRW ab
     dem 1.2. (Halbjahr) oder dem 1.8. (Schuljahr) prüft, ob sich die

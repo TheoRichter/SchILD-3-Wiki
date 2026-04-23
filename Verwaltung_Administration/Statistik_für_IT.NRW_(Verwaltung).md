@@ -1,6 +1,6 @@
 # Statistik für IT.NRW (Verwaltung)
 
-![SchILD_Verwaltung_Statistik.png](../../graphics/SchILD_Verwaltung_Statistik.png)
+![SchILD_Verwaltung_Statistik.png](../graphics/SchILD_Verwaltung_Statistik.png)
 
  SchILD unterstützt Sie bei der Erstellung der Statistik,
 indem im Vorfeld Daten geprüft und dann exportiert werden können.-   **Gesamtprüfung der Daten** führt eine Prüfung der Daten auf und

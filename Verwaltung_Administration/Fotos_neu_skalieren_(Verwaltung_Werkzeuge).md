@@ -1,6 +1,6 @@
 # Fotos neu skalieren (Verwaltung Werkzeuge)
 
-![SchILD_Werkzeuge_FotosSkalieren.png](../../graphics/SchILD_Werkzeuge_FotosSkalieren.png)
+![SchILD_Werkzeuge_FotosSkalieren.png](../graphics/SchILD_Werkzeuge_FotosSkalieren.png)
 
 SchILD speichert per Standard, dies ist in den Einstellungen zu ändern,
 Fotos mit einer maximalen Breite oder Höhe von 160 Pixeln. Die dient
@@ -13,6 +13,6 @@ werden.Sollen schon existierende Fotos an diese in den Einstellungen gesetzte
 Größe angepasst werden sollen, kann dies mit diesem Werkzeug vorgenommen
 werden.  
 
-![SchILD_Einstellungen_GlobaleEinstellungen_1_AllgemeinEinstellungen.png](../../graphics/SchILD_Einstellungen_GlobaleEinstellungen_1_AllgemeinEinstellungen.png)
+![SchILD_Einstellungen_GlobaleEinstellungen_1_AllgemeinEinstellungen.png](../graphics/SchILD_Einstellungen_GlobaleEinstellungen_1_AllgemeinEinstellungen.png)
 
  Anpassen der Standardgröße für Fotos in den Einstellungen.

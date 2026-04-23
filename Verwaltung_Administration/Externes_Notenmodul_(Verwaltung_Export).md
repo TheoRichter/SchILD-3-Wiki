@@ -2,7 +2,7 @@
 
 ## Initialkennwörter erstellen & verteilen
 
-![SchILD_Export_ExternesNotenmodul_Initialkennwörter.png](../../graphics/SchILD_Export_ExternesNotenmodul_Initialkennwörter.png)
+![SchILD_Export_ExternesNotenmodul_Initialkennwörter.png](../graphics/SchILD_Export_ExternesNotenmodul_Initialkennwörter.png)
 
 Die Notenmoduldaten im ENM3 sind immer verschlüsselt.Erstellen Sie zuerst über den Reiter **Lehrkräfte** die
 *Initialkennwörter* für das Externe Notenmodul.Klicken Sie zuerst mit der `rechten Maustaste` auf die Liste der
@@ -15,7 +15,7 @@ Emailadressen der Lehrkräfte erfasst und SchILD-NRW 3 für den
 Emailversand konfiguriert, lassen sich die Kennwörter per Email
 versenden.  
 
-![SchILD_Export_ExternesNotenmodul_Initialkennwörter_Liste.png](../../graphics/SchILD_Export_ExternesNotenmodul_Initialkennwörter_Liste.png)
+![SchILD_Export_ExternesNotenmodul_Initialkennwörter_Liste.png](../graphics/SchILD_Export_ExternesNotenmodul_Initialkennwörter_Liste.png)
 
 Im Anschluss an die Passwortgeneration wird eine Liste der Zugänge
 angezeigt.Existierende Kennwörter wurden überschrieben.
@@ -33,12 +33,12 @@ generiert werden.
 
 ## Notendateien exportieren
 
-![SchILD_Export_ExternesNotenmodul.png](../../graphics/SchILD_Export_ExternesNotenmodul.png)
+![SchILD_Export_ExternesNotenmodul.png](../graphics/SchILD_Export_ExternesNotenmodul.png)
 
 Notendateien für das Externe Notenmodul 3 können über **Verwaltung ➜
 Export ➜ Externes Notenmodul** erzeugt werden.  
 
-![SchILD_Export_ExternesNotenmodul_Details.png](../../graphics/SchILD_Export_ExternesNotenmodul_Details.png)
+![SchILD_Export_ExternesNotenmodul_Details.png](../graphics/SchILD_Export_ExternesNotenmodul_Details.png)
 
 In der folgenden Maske wählen Sie nun die Lehrkräfte aus, für die
 exportiert werden soll. Mit einem Rechtsklick öffnet sich ein

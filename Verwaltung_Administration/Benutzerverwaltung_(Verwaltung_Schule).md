@@ -2,7 +2,7 @@
 
 ## Überblick
 
-![Schid_Verwaltung_Benutzer_Benutzerverwaltung_Anmeldung.png](../../graphics/Schid_Verwaltung_Benutzer_Benutzerverwaltung_Anmeldung.png)
+![Schid_Verwaltung_Benutzer_Benutzerverwaltung_Anmeldung.png](../graphics/Schid_Verwaltung_Benutzer_Benutzerverwaltung_Anmeldung.png)
 
 Über den Menüpunkt **Benutzerverwaltung** können Benutzer und zugehörige
 Zugriffsberechtigungen verwaltet werden.Soweit dies nicht anders eingerichtet wurde, liegen diese Rechte dazu
@@ -10,7 +10,7 @@ bei den Administratoren. Bei einem Klick auf die Benutzerverwaltung
 müssen die Zugangsdaten aus Sicherheitsgründen erneut eingegeben
 werden.  
 
-![Schild_Verwalung_Benutzer_Benutzerverwaltung_Uebersicht.png](../../graphics/Schild_Verwalung_Benutzer_Benutzerverwaltung_Uebersicht.png)
+![Schild_Verwalung_Benutzer_Benutzerverwaltung_Uebersicht.png](../graphics/Schild_Verwalung_Benutzer_Benutzerverwaltung_Uebersicht.png)
 
  In der Übersicht sind alle bereits angelegten Personen
 aufgelistet. Neben den als Namen der Anmeldung dienenden *Benutzernamen*
@@ -26,12 +26,12 @@ wurde.
 
 ## Bearbeitung
 
-![Schild_Verwaltung_Benutzer_Benutzerverwaltung_Rechtsklick.png](../../graphics/Schild_Verwaltung_Benutzer_Benutzerverwaltung_Rechtsklick.png)
+![Schild_Verwaltung_Benutzer_Benutzerverwaltung_Rechtsklick.png](../graphics/Schild_Verwaltung_Benutzer_Benutzerverwaltung_Rechtsklick.png)
 
  Über einen Rechtsklick in die freie Liste oder auf einen
 bestehenden Datensatz können Bearbeitungen vorgenommen werden.
 
-![Schild_Verwaltung_Benutzer_Benutzerverwaltung_NeuePerson.png](../../graphics/Schild_Verwaltung_Benutzer_Benutzerverwaltung_NeuePerson.png)
+![Schild_Verwaltung_Benutzer_Benutzerverwaltung_NeuePerson.png](../graphics/Schild_Verwaltung_Benutzer_Benutzerverwaltung_NeuePerson.png)
 
 -   **Passwort ändern**: Das Passwort kann neu gesetzt werden, ohne dass
     das bisherige Passwort benötigt wird.
@@ -49,7 +49,7 @@ eingestellten Berechtigungen erteilt.
 
 ## Benutzergruppen
 
-![Schild_Verwaltung_Benutzer_Benutzerverwaltung_Benutzergruppen.png](../../graphics/Schild_Verwaltung_Benutzer_Benutzerverwaltung_Benutzergruppen.png)
+![Schild_Verwaltung_Benutzer_Benutzerverwaltung_Benutzergruppen.png](../graphics/Schild_Verwaltung_Benutzer_Benutzerverwaltung_Benutzergruppen.png)
 
  Über den Reiter **Benutzergruppen bearbeiten** können diese
 angelegt, definiert oder bearbeitet werden.So kann sichergestellt werden, dass einzelne Gruppen in bestimmten

@@ -1,6 +1,6 @@
 # Export für Logineo LMS (CSV) (Verwaltung Export)
 
-![Schild_Verwaltung_Export_Logineo_LMS_CSV.png](../../graphics/Schild_Verwaltung_Export_Logineo_LMS_CSV.png)
+![Schild_Verwaltung_Export_Logineo_LMS_CSV.png](../graphics/Schild_Verwaltung_Export_Logineo_LMS_CSV.png)
 
 Das Logineo LMS lässt sich über *Verwaltung ➜ Export* ➜ **Logineo LMS
 (CSV)** aus SchILD-NRW exportierte Daten befüllen.Wählen Sie über **Status** und **Klassen** die Schülermenge aus, die

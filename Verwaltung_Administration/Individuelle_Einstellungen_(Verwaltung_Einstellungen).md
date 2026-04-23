@@ -2,11 +2,11 @@
 
 ## Allgemeines
 
-![SchILD_Verwaltung_Einstellungen_individualEinstellungen_Allgemeines.png](../../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_Allgemeines.png)
+![SchILD_Verwaltung_Einstellungen_individualEinstellungen_Allgemeines.png](../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_Allgemeines.png)
 
  
 
-![SchILD_Verwaltung_Einstellungen_individualEinstellungen_BearbeitenGesperrt.png](../../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_BearbeitenGesperrt.png)
+![SchILD_Verwaltung_Einstellungen_individualEinstellungen_BearbeitenGesperrt.png](../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_BearbeitenGesperrt.png)
 
 Unter *Verwaltung ➜ Einstellungen ➜ Individuelle Einstellungen* lassen
 sich Optionen setzen, wie die Anzeige und Bedienung von SchILD-NRW für
@@ -51,14 +51,14 @@ den jeweilig eingeloggten Benutzer ausfällt.Unter **Allgemeines** finden sich f
 
 ### Benutzeroberfläche
 
-![SchILD_Verwaltung_Einstellungen_individualEinstellungen_SilverGUI.png](../../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_SilverGUI.png)
+![SchILD_Verwaltung_Einstellungen_individualEinstellungen_SilverGUI.png](../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_SilverGUI.png)
 
  SchILD-NRW unterstützt unterschiedliche
 *Benutzeroberflächen* und *Icons*.Per Standard ist die Oberfläche *Luna* mit den Symbolen *Blue*
 eingestellt und daran richten sich auch alle Screenshots in diesem Wiki
 aus.Zum Ändern der Oberfläche muss das Programm neu gestartet werden.  
 
-![SchILD_Verwaltung_Einstellungen_individualEinstellungen_FarbeStatistik.png](../../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_FarbeStatistik.png)
+![SchILD_Verwaltung_Einstellungen_individualEinstellungen_FarbeStatistik.png](../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_FarbeStatistik.png)
 
 In SchILD-NRW werden *statistikrelevante Felder* mit Fettdruck und
 Sternchen, also etwa **Geburtsdatum\*** kenntlich gemacht.Über *Verwaltung ➜ Einstellungen ➜ Individuelle Einstellungen ➜
@@ -66,13 +66,13 @@ Benutzeroberfläche* ➜ **Farbe für statistikrelevante Felder** lassen
 sich diese Überschriften zusätzlich noch einfärben.Nach einem Neustart von SchILD-NRW wird die gewählte Farbe bei den
 statistikrelevanten Feldern verwendet.  
 
-![SchILD_Verwaltung_Einstellungen_individualEinstellungen_FarbeStatistik_Ergebnis.png](../../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_FarbeStatistik_Ergebnis.png)
+![SchILD_Verwaltung_Einstellungen_individualEinstellungen_FarbeStatistik_Ergebnis.png](../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_FarbeStatistik_Ergebnis.png)
 
   
 
 ### Andere
 
-![SchILD_Verwaltung_Einstellungen_individualEinstellungen_Andere.png](../../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_Andere.png)
+![SchILD_Verwaltung_Einstellungen_individualEinstellungen_Andere.png](../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_Andere.png)
 
  Unter diesem Punkt finden sich zwei Einstellungen:**Individuelle Einstellungen zurücksetzen**: Sollte es nötig werden,
 individuell vorgenommene, von den Standardeinstellungen rückgängig zu
@@ -89,7 +89,7 @@ Email-Versand*).
 
 ### Sichtbare Spalten
 
-![SchILD_Verwaltung_Einstellungen_individualEinstellungen_SichtbareSpalten.png](../../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_SichtbareSpalten.png)
+![SchILD_Verwaltung_Einstellungen_individualEinstellungen_SichtbareSpalten.png](../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_SichtbareSpalten.png)
 
  Über die Haken bei *Sichtbare Spalten* lässt sich für den
 eigenen Benutzer einstellen, welche Spalten im Schülercontainer
@@ -98,7 +98,7 @@ eventuell nützlich sein, weitere Felder zu aktivieren.Standardmäßig sind *Nam
 
 ## Report-Schnellzugriff konfigurieren
 
-![SchILD_Einstellungen_GlobaleEinstellungen_Schnellzugriff_Ausschnitt.png](../../graphics/SchILD_Einstellungen_GlobaleEinstellungen_Schnellzugriff_Ausschnitt.png)
+![SchILD_Einstellungen_GlobaleEinstellungen_Schnellzugriff_Ausschnitt.png](../graphics/SchILD_Einstellungen_GlobaleEinstellungen_Schnellzugriff_Ausschnitt.png)
 
 ::: warning
 
@@ -110,17 +110,17 @@ Schnellzugriff mit Reports befüllt werden.
 
 :::  
 
-![SchILD_Einstellungen_IndividuelleEinstellungen_Schnellzugriff_Reiter.png](../../graphics/SchILD_Einstellungen_IndividuelleEinstellungen_Schnellzugriff_Reiter.png)
+![SchILD_Einstellungen_IndividuelleEinstellungen_Schnellzugriff_Reiter.png](../graphics/SchILD_Einstellungen_IndividuelleEinstellungen_Schnellzugriff_Reiter.png)
 
 Unter *Verwaltung ➜ Einstellungen* ➜ **Individuelle Einstellungen**
 findet sich nun der Reiter für den **Report-Schnellzugriff**.  
 
-![SchILD_Einstellungen_IndividuelleEinstellungen_Schnellzugriff_ReportsAuswählen.png](../../graphics/SchILD_Einstellungen_IndividuelleEinstellungen_Schnellzugriff_ReportsAuswählen.png)
+![SchILD_Einstellungen_IndividuelleEinstellungen_Schnellzugriff_ReportsAuswählen.png](../graphics/SchILD_Einstellungen_IndividuelleEinstellungen_Schnellzugriff_ReportsAuswählen.png)
 
 In der folgenden Liste lassen sich bis zu zehn Reports auswählen.Vergeben Sie eine frei wählbare **Schalterbezeichnung**, dann wählen Sie
 die **Reportvorlage** aus.  
 
-![SchILD_Verwaltung_Einstellungen_individualEinstellungen_BearbeitenGesperrt.png](../../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_BearbeitenGesperrt.png)
+![SchILD_Verwaltung_Einstellungen_individualEinstellungen_BearbeitenGesperrt.png](../graphics/SchILD_Verwaltung_Einstellungen_individualEinstellungen_BearbeitenGesperrt.png)
 
 0Nach einem `Neustart` von SchILD-NRW 3 steht der Reportschnellzugriff
 mit den eingestellten Reportvorlagen zur Verfügung.Ein Klick auf den Report öffnet den gewohnten Druckdialog.

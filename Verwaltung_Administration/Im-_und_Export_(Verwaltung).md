@@ -1,8 +1,8 @@
 # Im- und Export (Verwaltung)
 
-![SchILD_Import_Uebersicht.png](../../graphics/SchILD_Import_Uebersicht.png)
+![SchILD_Import_Uebersicht.png](../graphics/SchILD_Import_Uebersicht.png)
 
-![SchILD_Export_Uebersicht.png](../../graphics/SchILD_Export_Uebersicht.png)
+![SchILD_Export_Uebersicht.png](../graphics/SchILD_Export_Uebersicht.png)
 
 SchILD NRW stellt sehr vielseitige und flexible Im- und
 Exportmöglichkeiten zur Verfügung.Grundsätzlich handelt es sich bei allen Importdateien im .csv-Format,

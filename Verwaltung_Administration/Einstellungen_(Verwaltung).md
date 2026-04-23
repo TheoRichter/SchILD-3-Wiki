@@ -1,6 +1,6 @@
 # Einstellungen (Verwaltung)
 
-![SchILD_Verwaltung_Einstellungen_Hauptmenu.png](../../graphics/SchILD_Verwaltung_Einstellungen_Hauptmenu.png)
+![SchILD_Verwaltung_Einstellungen_Hauptmenu.png](../graphics/SchILD_Verwaltung_Einstellungen_Hauptmenu.png)
 
  Öffnen Sie über *Verwaltung* die **Einstellungen**, werden
 per Standard die-   **Individuellen Einstellungen** angezeigt, mit denen sich SchILD-NRW

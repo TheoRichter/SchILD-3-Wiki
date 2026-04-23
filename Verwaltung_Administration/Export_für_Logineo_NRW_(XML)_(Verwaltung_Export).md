@@ -4,7 +4,7 @@ NRW importiert werden können.
 
 ## Export aus SchILD
 
-![Schild_Verwaltung_Export_Logineo_XML_01.png](../../graphics/Schild_Verwaltung_Export_Logineo_XML_01.png)
+![Schild_Verwaltung_Export_Logineo_XML_01.png](../graphics/Schild_Verwaltung_Export_Logineo_XML_01.png)
 
  Bei Aufruf des Exportfensters können einige Auswahlen
 vorgenommen werden:-   **Aktuelle Auswahl für Export verwenden**: Hier werden nur Daten der
@@ -33,7 +33,7 @@ muss daher das Kennwort eingegeben und wiederholt werden.
 Das Passwort wird erneut in Logineo NRW verwendet, um die dort wieder
 benötigte Exportdatei zu entschlüsseln.
 
-![Schild_Verwaltung_Export_Logineo_XML_02.png](../../graphics/Schild_Verwaltung_Export_Logineo_XML_02.png)
+![Schild_Verwaltung_Export_Logineo_XML_02.png](../graphics/Schild_Verwaltung_Export_Logineo_XML_02.png)
 
  Während des Exports kann es unter Umständen zu Fehlern
 kommen, beispielsweise auf Grund von nicht oder falsch angelegter
@@ -58,17 +58,17 @@ von SchILD-NRW ein.
 
 ## Import in Logineo NRW
 
-![Schild_Verwaltung_Export_Logineo_XML_03.png](../../graphics/Schild_Verwaltung_Export_Logineo_XML_03.png)
+![Schild_Verwaltung_Export_Logineo_XML_03.png](../graphics/Schild_Verwaltung_Export_Logineo_XML_03.png)
 
  Nach dem Login muss in der Sidebar die Schaltfläche
 **Administration** ausgewählt werden.  
 
-![Schild_Verwaltung_Export_Logineo_XML_04.png](../../graphics/Schild_Verwaltung_Export_Logineo_XML_04.png)
+![Schild_Verwaltung_Export_Logineo_XML_04.png](../graphics/Schild_Verwaltung_Export_Logineo_XML_04.png)
 
  Im folgenden Fenster kann durch Klick auf den
 Werkzeugkoffer der **Import** ausgewählt werden.  
 
-![Schild_Verwaltung_Export_Logineo_XML_05.png](../../graphics/Schild_Verwaltung_Export_Logineo_XML_05.png)
+![Schild_Verwaltung_Export_Logineo_XML_05.png](../graphics/Schild_Verwaltung_Export_Logineo_XML_05.png)
 
  Für den Import in Logineo NRW ist ein Administratorzugang
 erforderlich.Nun können die vorher *exportierte Zip-Datei* über `Datei auswählen`

@@ -1,6 +1,6 @@
 # Vorschau (Verwaltung Schule)
 
-![Schild_Verwaltung_Schule_Vorschau.png](../../graphics/Schild_Verwaltung_Schule_Vorschau.png)
+![Schild_Verwaltung_Schule_Vorschau.png](../graphics/Schild_Verwaltung_Schule_Vorschau.png)
 
 Diese Seite wird immer direkt auch geöffnet, wenn der Reiter Verwaltung
 oder im Reiter Verwaltung der Menüpunkt Schule aufgerufen wird.In diesem Fenster können keinerlei Änderungen vorgenommen werden. Hier

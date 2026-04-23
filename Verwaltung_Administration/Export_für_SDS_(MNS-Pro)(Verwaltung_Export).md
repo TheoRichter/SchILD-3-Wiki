@@ -4,7 +4,7 @@ werden und in MS Teams verwendet werden können.
 
 ## Export aus SchILD-NRW
 
-![Schild_Verwaltung_Export_SDS_01.png](../../graphics/Schild_Verwaltung_Export_SDS_01.png)
+![Schild_Verwaltung_Export_SDS_01.png](../graphics/Schild_Verwaltung_Export_SDS_01.png)
 
  Bei Aufruf des Exportfensters können einige Auswahlen
 vorgenommen werden. Unter **Status** und **Klassen** ist anzugeben,

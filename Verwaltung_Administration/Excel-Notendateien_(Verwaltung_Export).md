@@ -2,15 +2,15 @@
 
 ### Export
 
-![SchILD_ExcelNotendateien_Export_1.png](../../graphics/SchILD_ExcelNotendateien_Export_1.png)
+![SchILD_ExcelNotendateien_Export_1.png](../graphics/SchILD_ExcelNotendateien_Export_1.png)
 
  
 
-![SchILD_ExcelNotendateien_Export_2.png](../../graphics/SchILD_ExcelNotendateien_Export_2.png)
+![SchILD_ExcelNotendateien_Export_2.png](../graphics/SchILD_ExcelNotendateien_Export_2.png)
 
  
 
-![SchILD_ExcelNotendateien_Export_3_Beispiel.png](../../graphics/SchILD_ExcelNotendateien_Export_3_Beispiel.png)
+![SchILD_ExcelNotendateien_Export_3_Beispiel.png](../graphics/SchILD_ExcelNotendateien_Export_3_Beispiel.png)
 
 Hierzu steht ein Menüpunkt *"Verwaltung Export Excel-Notendateien"* zur
 Verfügung. Es öffnet sich ein Auswahlfenster, in dem der Abschnitt zu
@@ -51,11 +51,11 @@ Die Dateien haben folgenden Spalten-Aufbau:`| Name | Vorname | Geburtsdatum
 
 ### Import
 
-![SchILD_ExcelNotendateien_Import_1.png](../../graphics/SchILD_ExcelNotendateien_Import_1.png)
+![SchILD_ExcelNotendateien_Import_1.png](../graphics/SchILD_ExcelNotendateien_Import_1.png)
 
  
 
-![SchILD_ExcelNotendateien_Import_2.png](../../graphics/SchILD_ExcelNotendateien_Import_2.png)
+![SchILD_ExcelNotendateien_Import_2.png](../graphics/SchILD_ExcelNotendateien_Import_2.png)
 
 Gehen Sie über *"Verwaltung ➜ Import ➜ Excel-Notendateien"* um den
 Import ausgefüllter Dateien einzuleiten.Wie beim Export ist ein **Lernabschnitt** zu wählen, für den die

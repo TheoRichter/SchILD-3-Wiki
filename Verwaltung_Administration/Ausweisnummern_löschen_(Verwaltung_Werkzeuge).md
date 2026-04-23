@@ -1,6 +1,6 @@
 # Ausweisnummern löschen (Verwaltung Werkzeuge)
 
-![SchILD_Verwaltung_Werkzeuge_AusweisnummernLöschen.png](../../graphics/SchILD_Verwaltung_Werkzeuge_AusweisnummernLöschen.png)
+![SchILD_Verwaltung_Werkzeuge_AusweisnummernLöschen.png](../graphics/SchILD_Verwaltung_Werkzeuge_AusweisnummernLöschen.png)
 
 Mit dem Werkzeug *Verwaltung ➜ Werkzeuge* ➜ **Ausweisnummern löschen**
 lassen sich alle Ausweisnummern löschen.Sollte das Feld nicht genutzt werden, wäre dieses dann frei. Die

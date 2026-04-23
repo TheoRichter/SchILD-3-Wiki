@@ -1,6 +1,6 @@
 # Klassengruppen/Abteilungen (Schulbezogene Kataloge)
 
-![SchILD_Kataloge_Schulbez_Abteilungen_1.png](../../graphics/SchILD_Kataloge_Schulbez_Abteilungen_1.png)
+![SchILD_Kataloge_Schulbez_Abteilungen_1.png](../graphics/SchILD_Kataloge_Schulbez_Abteilungen_1.png)
 
 Sie können Abteilungen und Koordinatoren definieren, die für bestimmte
 Klassen oder Jahrgangsstufen zuständig sind. Dies kann nützlich sein, um
@@ -14,7 +14,7 @@ die sie nun benennen können. Fügen Sie eine *koordinierende Person*
 hinzu und bei Wunsch auch den *Raum*, die *Durchwahl* und eine
 *Email*-Adresse.  
 
-![SchILD_Kataloge_Schulbez_Abteilungen_2.png](../../graphics/SchILD_Kataloge_Schulbez_Abteilungen_2.png)
+![SchILD_Kataloge_Schulbez_Abteilungen_2.png](../graphics/SchILD_Kataloge_Schulbez_Abteilungen_2.png)
 
 Klicken Sie dann auf das kleine "**+**" vor der Abteilung und fügen Sie
 Klassen zu dieser hinzu. Diese sind ab nun mit der Abteilung

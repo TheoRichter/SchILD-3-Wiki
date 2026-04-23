@@ -1,11 +1,11 @@
 # Menüband (Reportverwaltung)
 
-![SchILD_Reports_Menüband_Übersicht.png](../../graphics/SchILD_Reports_Menüband_Übersicht.png)
+![SchILD_Reports_Menüband_Übersicht.png](../graphics/SchILD_Reports_Menüband_Übersicht.png)
 
  Über das Menüband werden für die Reporterzeugung einige
 grundsätzliche Funktionen gesteuert.  
 
-![SchILD_Reports_Menüband_Bearbeiten.png](../../graphics/SchILD_Reports_Menüband_Bearbeiten.png)
+![SchILD_Reports_Menüband_Bearbeiten.png](../graphics/SchILD_Reports_Menüband_Bearbeiten.png)
 
  Der Bereich **Reportbearbeitung** bietet auf von Windows
 gewohnte Funktionen zum verwalten von Dateien im Reportexplorer.-   **Neuen Report erzeugen** erstellt einen neuen, leeren Report im
@@ -20,7 +20,7 @@ gewohnte Funktionen zum verwalten von Dateien im Reportexplorer.-   **Neuen Repo
 -   **Einfügen** dient dazu, einen als *kopieren* oder *ausschneiden*
     markierten Report an der aktuellen Stelle einzufügen.  
 
-![SchILD_Reports_Menüband_AllgFkt.png](../../graphics/SchILD_Reports_Menüband_AllgFkt.png)
+![SchILD_Reports_Menüband_AllgFkt.png](../graphics/SchILD_Reports_Menüband_AllgFkt.png)
 
  Der Bereich *Allgemeine Reportfunktionen* stellt technische
 Funktionen und Informationen zur Verfügung.-   **Verzeichnisbaum** aktualisieren liest die Verzeichnisstruktur im
@@ -46,7 +46,7 @@ Funktionen und Informationen zur Verfügung.-   **Verzeichnisbaum** aktualisiere
     zur Verfügung stehenden Datenquellen, deren Struktur und welche
     Datenbankfelder in ihnen bereitgestellt werden aus.  
 
-![SchILD_Reports_Menüband_AnsichtundAbschnitt.png](../../graphics/SchILD_Reports_Menüband_AnsichtundAbschnitt.png)
+![SchILD_Reports_Menüband_AnsichtundAbschnitt.png](../graphics/SchILD_Reports_Menüband_AnsichtundAbschnitt.png)
 
  Im Bereich *Ansicht* lässt sich umschalten, ob die
 Dateinamen oder noch weitere Details angezeigt werden sollen.-   **Details** zeigt bei Reports den *Dateinamen*, die *Dateigröße* in

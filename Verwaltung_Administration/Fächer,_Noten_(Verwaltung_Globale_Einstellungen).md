@@ -1,6 +1,6 @@
 # Fächer, Noten (Verwaltung Globale Einstellungen)
 
-![SchILD_Verwaltung_Einstellungen_FächerNoten_Aufrufen.png](../../graphics/SchILD_Verwaltung_Einstellungen_FächerNoten_Aufrufen.png)
+![SchILD_Verwaltung_Einstellungen_FächerNoten_Aufrufen.png](../graphics/SchILD_Verwaltung_Einstellungen_FächerNoten_Aufrufen.png)
 
 Die für SchILD-NRW global geltenden Optionen für Fächer und Noten finden
 sich unter *Einstellungen ➜ Fächer, Noten*.Unter diesem Menü finden sich Einstellungen zu-   Fächern und Noten
@@ -10,7 +10,7 @@ sich unter *Einstellungen ➜ Fächer, Noten*.Unter diesem Menü finden sich Ein
 
 ## Fächer, Noten
 
-![SchILD_Verwaltung_Einstellungen_FächerNoten_FächerNoten.png](../../graphics/SchILD_Verwaltung_Einstellungen_FächerNoten_FächerNoten.png)
+![SchILD_Verwaltung_Einstellungen_FächerNoten_FächerNoten.png](../graphics/SchILD_Verwaltung_Einstellungen_FächerNoten_FächerNoten.png)
 
 -   **Beim Holen abgeschlossener Fächer auch solche ohne numerische Note
     berücksichtigen** steuert, ob auch qualifizierendeBemerkungen, also zum Beispiel *E1* = *mit besonderem Erfolg
@@ -63,7 +63,7 @@ r
 
 ## Eingabemodus
 
-![SchILD_Verwaltung_Einstellungen_FächerNoten_Eingabemodus.png](../../graphics/SchILD_Verwaltung_Einstellungen_FächerNoten_Eingabemodus.png)
+![SchILD_Verwaltung_Einstellungen_FächerNoten_Eingabemodus.png](../graphics/SchILD_Verwaltung_Einstellungen_FächerNoten_Eingabemodus.png)
 
 **Eingabemodus für Teilleistungen**: Hier kann zwischen zwei Modellen
 gewählt werden.-   Teilleistungen können *individuell von allen eingebenden Personen
@@ -86,7 +86,7 @@ Noten zu importieren.
 
 ## Maximale Zeichenzahl für Bemerkungen
 
-![SchILD_Verwaltung_Einstellungen_FächerNoten_MaxBemerkungen.png](../../graphics/SchILD_Verwaltung_Einstellungen_FächerNoten_MaxBemerkungen.png)
+![SchILD_Verwaltung_Einstellungen_FächerNoten_MaxBemerkungen.png](../graphics/SchILD_Verwaltung_Einstellungen_FächerNoten_MaxBemerkungen.png)
 
  Sollen die Längen der Bemerkungsfelder begrenzt werden,
 lassen sich hier für die unterschiedlichen Bemerkungen diese Grenzen
@@ -96,7 +96,7 @@ setzen.-   Zeugnisbemerkungen
 
 ## Farbeinstellungen für Fächergruppen
 
-![SchILD_Verwaltung_Einstellungen_FächerNoten_Farben.png](../../graphics/SchILD_Verwaltung_Einstellungen_FächerNoten_Farben.png)
+![SchILD_Verwaltung_Einstellungen_FächerNoten_Farben.png](../graphics/SchILD_Verwaltung_Einstellungen_FächerNoten_Farben.png)
 
  Unter dieser Einstellungen lassen sich Einfärbungen der
 Fächergruppen setzen.

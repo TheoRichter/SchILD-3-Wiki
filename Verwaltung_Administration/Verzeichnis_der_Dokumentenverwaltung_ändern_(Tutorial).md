@@ -2,7 +2,7 @@
 
 ## Dokumentenverzeichnis ändern
 
-![SchILD_Tutorials_Dokumentenablage_OrdnerÄndern.png](../../graphics/SchILD_Tutorials_Dokumentenablage_OrdnerÄndern.png)
+![SchILD_Tutorials_Dokumentenablage_OrdnerÄndern.png](../graphics/SchILD_Tutorials_Dokumentenablage_OrdnerÄndern.png)
 
  Um das Verzeichnis der Dokumentenablage nachträglich zu
 ändern, muss zuerst der Pfad des Ordners über *Verwaltung ➜
@@ -23,7 +23,7 @@ Schüler gelten zu lassen.Arbeiten Sie in diesem Fall wie gewohnt weiter.
 
 ### Anpassen des neuen Verzeichnisses bei den Schülern
 
-![SchILD_Tutorials_Dokumentenablage_OrdnerÄndern_Gruppenprozess.png](../../graphics/SchILD_Tutorials_Dokumentenablage_OrdnerÄndern_Gruppenprozess.png)
+![SchILD_Tutorials_Dokumentenablage_OrdnerÄndern_Gruppenprozess.png](../graphics/SchILD_Tutorials_Dokumentenablage_OrdnerÄndern_Gruppenprozess.png)
 
  Soll nun das neue Verzeichnis auch für alte Schüler genutzt
 werden, müssen die individuellen Pfade in der Datenbank geändert werden.Wählen Sie die Schülergruppe im Schülercontainer an, für die das neue

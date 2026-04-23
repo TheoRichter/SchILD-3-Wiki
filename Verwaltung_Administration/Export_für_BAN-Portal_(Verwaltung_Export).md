@@ -1,6 +1,6 @@
 # Export für BAN-Portal (Verwaltung Export)Zu KAoA gehört das *Belegungs-, Abrechnungs- und Nachweisportal*, das
-[*BAN-Portal*](https://banportal-kaoa.de). Nehmen Sie hier auch die
-[Information zum Portal und zumSupportkontakt](https://banportal-kaoa.de/Home/About) zur Kenntnis.Hierbei sollen die Schüler identifiziert werden, die über keine konkrete
+*BAN-Portal*. Nehmen Sie hier auch die
+Information zum Portal und zumSupportkontakt zur Kenntnis. Hierbei sollen die Schüler identifiziert werden, die über keine konkrete
 Anschlussperspektive wie eine Ausbildung, Schulplatz, ein freiwilliges
 Jahr, Praktikum für den FHR und so weiter verfügen. Aus SchILD-NRW
 lassen sich die im Portal einzulesenden Daten exportieren. In der Regel
@@ -8,7 +8,7 @@ sollte dies nur wenige Schüler betreffen.
 
 ## Schüler vorbereiten
 
-![SchILD-NRW_Export_BAN-Portal_Markieren.png](../../graphics/SchILD-NRW_Export_BAN-Portal_Markieren.png)
+![SchILD-NRW_Export_BAN-Portal_Markieren.png](../graphics/SchILD-NRW_Export_BAN-Portal_Markieren.png)
 
  Damit Schülerdaten exportiert werden, müssen die Schüler
 als zu exportieren markiert werden.  
@@ -32,7 +32,7 @@ gesetzt werden sollen und starten Sie den Gruppenprozess
 
 ## BAN-Export
 
-![SchILD-NRW_Export_ExportBAN.png](../../graphics/SchILD-NRW_Export_ExportBAN.png)
+![SchILD-NRW_Export_ExportBAN.png](../graphics/SchILD-NRW_Export_ExportBAN.png)
 
  In der Regel muss beim Export keine Schülergruppe
 ausgewählt werden, da die zu exportierenden Schüler schon im aktuellen
@@ -42,7 +42,7 @@ arbeiten.Sollten Sie nur ausgewählte Schülermengen exportieren wollen, wählen
 diese wie beim beim Gruppenprozess oben zuvor aus.Im Anschluss gehen Sie über *Verwaltung ➜ Exporte* ➜ **Export für
 BAN-Portal**.  
 
-![SchILD-NRW_Export_ExportBAN_Datei.png](../../graphics/SchILD-NRW_Export_ExportBAN_Datei.png)
+![SchILD-NRW_Export_ExportBAN_Datei.png](../graphics/SchILD-NRW_Export_ExportBAN_Datei.png)
 
  Im folgenden Fenster ist der **Speicherort** für die Datei
 zu wählen.Hier im Beispiel wird im *SVWS-Arbeitsverzeichnis* der Unterordner

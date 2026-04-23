@@ -9,7 +9,7 @@ weit man Schuljahre mit den Daten löscht.
 
 :::
 
-![SchILD_Verwaltung_Werkzeuge_Aufräumen.png](../../graphics/SchILD_Verwaltung_Werkzeuge_Aufräumen.png)
+![SchILD_Verwaltung_Werkzeuge_Aufräumen.png](../graphics/SchILD_Verwaltung_Werkzeuge_Aufräumen.png)
 
 Nach dem Aufruf von *Verwaltung ➜ Werkzeuge* ➜ **Aufräumen** kann man
 das **Schuljahr, in dem aufgeräumt werden soll** auswählen.Nach Anklicken des Schalters "**Jetzt aufräumen**" gibt es eine

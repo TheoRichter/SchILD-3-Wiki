@@ -2,7 +2,7 @@
 
 ## Import
 
-![SchILD_Import_Unterrichtsdaten_1.png](../../graphics/SchILD_Import_Unterrichtsdaten_1.png)
+![SchILD_Import_Unterrichtsdaten_1.png](../graphics/SchILD_Import_Unterrichtsdaten_1.png)
 
  Über *"Verwaltung ➜ Import ➜ Unterrichts-Daten (als
 Excel-Daten)"* können Sie Unterrichts- bzw. Leistungsdaten über eine
@@ -71,7 +71,7 @@ grundsätzlichen Aufbau haben.-   Spalte 1 **Kursbezeichnung** (optional): Der E
 
 ## Beispiele
 
-![SchILD_Import_Unterrichtsdaten_2_Beispiel.png](../../graphics/SchILD_Import_Unterrichtsdaten_2_Beispiel.png)
+![SchILD_Import_Unterrichtsdaten_2_Beispiel.png](../graphics/SchILD_Import_Unterrichtsdaten_2_Beispiel.png)
 
   
 In der Exceltabelle werden folgende fünf Unterrichte als Beispiel

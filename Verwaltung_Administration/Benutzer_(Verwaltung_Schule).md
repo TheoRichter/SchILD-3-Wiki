@@ -1,6 +1,6 @@
 # Benutzer (Verwaltung Schule)
 
-![SchILD_Verwaltung_Benutzer.png](../../graphics/SchILD_Verwaltung_Benutzer.png)
+![SchILD_Verwaltung_Benutzer.png](../graphics/SchILD_Verwaltung_Benutzer.png)
 
 Über *Verwaltung Benutzer* stehen drei Untermenüs zur Verfügung:-   **Benutzerverwaltung**: Hier werden die Benutzer von SchILD-NRW und
     ihre Berechtigungen durch Zuordnung zu *Benutzergruppen*

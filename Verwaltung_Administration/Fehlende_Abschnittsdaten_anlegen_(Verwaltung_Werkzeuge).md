@@ -1,6 +1,6 @@
 # Fehlende Abschnittsdaten anlegen (Verwaltung Werkzeuge)
 
-![SchILD_Werkzeuge_FehlendeAbschnittsdaten.png](../../graphics/SchILD_Werkzeuge_FehlendeAbschnittsdaten.png)
+![SchILD_Werkzeuge_FehlendeAbschnittsdaten.png](../graphics/SchILD_Werkzeuge_FehlendeAbschnittsdaten.png)
 
  Sucht bei Lernenden nach in der Vergangenheit und für den
 aktuellen Abschnitt fehlende Abschnittsdaten und legt diese

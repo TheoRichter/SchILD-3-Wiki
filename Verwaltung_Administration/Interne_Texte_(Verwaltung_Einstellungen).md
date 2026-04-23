@@ -1,6 +1,6 @@
 # Interne Texte (Verwaltung Einstellungen)
 
-![SchILD_Verwaltung_Einstellungen_InterneText.png](../../graphics/SchILD_Verwaltung_Einstellungen_InterneText.png)
+![SchILD_Verwaltung_Einstellungen_InterneText.png](../graphics/SchILD_Verwaltung_Einstellungen_InterneText.png)
 
 SchILD-NRW erlaubt an unterschiedlichen Stellen das automatische
 generieren von Emails. Dies bezieht generierte Reports ein.Unter *Verwaltung ➜ Einstellungen* lassen sich in den Feldern bei

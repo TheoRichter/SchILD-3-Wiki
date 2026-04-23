@@ -1,6 +1,6 @@
 # Externes Notenmodul (Verwaltung Import)
 
-![SchILD_Einstellungen_IndividuelleEinstellungen_ImportExternesNotenmodul.png](../../graphics/SchILD_Einstellungen_IndividuelleEinstellungen_ImportExternesNotenmodul.png)
+![SchILD_Einstellungen_IndividuelleEinstellungen_ImportExternesNotenmodul.png](../graphics/SchILD_Einstellungen_IndividuelleEinstellungen_ImportExternesNotenmodul.png)
 
 Nachdem die Notendateien wieder eingesammelt wurden, werden diese wieder
 in SchILD-NRW-3 importiert.Wählen Sie über *Verwaltung ➜ Import* ➜ **Externes Notenmodul** die

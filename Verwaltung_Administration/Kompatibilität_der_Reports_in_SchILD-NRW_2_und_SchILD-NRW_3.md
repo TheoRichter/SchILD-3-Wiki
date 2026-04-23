@@ -43,7 +43,7 @@ Datenquellen auf andere Art und Weise definiert werden.
 
 ## Konsequenzen
 
-![FehlermeldungInkompatibilitaetReportdesigner.png](../../graphics/FehlermeldungInkompatibilitaetReportdesigner.png)
+![FehlermeldungInkompatibilitaetReportdesigner.png](../graphics/FehlermeldungInkompatibilitaetReportdesigner.png)
 
 Sollen Reports aus SchILD-NRW 2 in SchILD-NRW 3 verwendet werden, so ist
 vorab zu untersuchen, ob diese Komponenten aus dem GridPack oder eigene

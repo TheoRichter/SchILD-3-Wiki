@@ -1,6 +1,6 @@
 # ZK-Daten (Verwaltung Export)
 
-![SchILD_Export_ZK-Daten_Exportfenster.png](../../graphics/SchILD_Export_ZK-Daten_Exportfenster.png)
+![SchILD_Export_ZK-Daten_Exportfenster.png](../graphics/SchILD_Export_ZK-Daten_Exportfenster.png)
 
 Über *Verwaltung ➜ Export* ➜ **ZK-Daten** lässt sich eine Datei
 erzeugen, in der die Daten für eine Zentrale Klausur enthalten sind.Nach dem Aufruf der Funktion öffnet sich ein Fenster, in dem das zu

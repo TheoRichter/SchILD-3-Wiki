@@ -4,7 +4,7 @@ weiterer Reiter **Dokumentenverwaltung** bei den Schülern zur Verfügung.Konsul
 
 WIKILINK: Dokumentenverwaltung_und_Zeugnisarchivierung.
 
-![SchILD_Schüler_Dokumentenverwaltung_DruckAuswahl.png](../../graphics/SchILD_Schüler_Dokumentenverwaltung_DruckAuswahl.png)
+![SchILD_Schüler_Dokumentenverwaltung_DruckAuswahl.png](../graphics/SchILD_Schüler_Dokumentenverwaltung_DruckAuswahl.png)
 
 Wenn Sie einen Report mit der **Datenquelle** *Schueler* in dem auch
 eine **Gruppe** *Schueler.ID* existiert, erzeugt wird, werden die
@@ -15,13 +15,13 @@ Optionen der Dokumentenablage eingeblendet.-   **Drucker mit Archivierung** send
     So lässt sich zum Beispiel auch ein schon gedruckter Report noch
     einmal nach-archivieren.  
 
-![SchILD_Schüler_Dokumentenverwaltung_Reiter.png](../../graphics/SchILD_Schüler_Dokumentenverwaltung_Reiter.png)
+![SchILD_Schüler_Dokumentenverwaltung_Reiter.png](../graphics/SchILD_Schüler_Dokumentenverwaltung_Reiter.png)
 
  Über den Reiter *Schüler* **Dokumentenverwaltung**
 erreichen Sie den Unterordner des Schülers und sehen die dort abgelegten
 Dokumente.  
 
-![SchILD_Schüler_Dokumentenverwaltung_Dokumente.png](../../graphics/SchILD_Schüler_Dokumentenverwaltung_Dokumente.png)
+![SchILD_Schüler_Dokumentenverwaltung_Dokumente.png](../graphics/SchILD_Schüler_Dokumentenverwaltung_Dokumente.png)
 
  Über diesen Explorer lassen sich wie in Windows alle
 abgelegten Dokumente direkt aufrufen.Mit der `Rechten Maustaste` kann das übliche Kontextmenü von Windows

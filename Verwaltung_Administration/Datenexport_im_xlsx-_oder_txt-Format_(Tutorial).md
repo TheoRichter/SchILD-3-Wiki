@@ -6,11 +6,11 @@ Formate zu erzeugen, die von anderen Programmen erwartet werden.
 
 ### Export von Daten in Excel oder Textdateien (.csv)
 
-![SchILD_Verwaltung_Export_1_Verlauf.png](../../graphics/SchILD_Verwaltung_Export_1_Verlauf.png)
+![SchILD_Verwaltung_Export_1_Verlauf.png](../graphics/SchILD_Verwaltung_Export_1_Verlauf.png)
 
  
 
-![SchILD_Verwaltung_Export_2_Pfeile.png](../../graphics/SchILD_Verwaltung_Export_2_Pfeile.png)
+![SchILD_Verwaltung_Export_2_Pfeile.png](../graphics/SchILD_Verwaltung_Export_2_Pfeile.png)
 
  Der Weg des Exports für
 Tabellenkalkulationsprogramme wie MS Excel oder Open Office Calc wird

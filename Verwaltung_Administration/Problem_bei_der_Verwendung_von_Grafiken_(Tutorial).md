@@ -1,6 +1,6 @@
 # Problem bei der Verwendung von Grafiken (Tutorial)
 
-![SchILD_Tutorials_Reporting_FehlerGrafik.png](../../graphics/SchILD_Tutorials_Reporting_FehlerGrafik.png)
+![SchILD_Tutorials_Reporting_FehlerGrafik.png](../graphics/SchILD_Tutorials_Reporting_FehlerGrafik.png)
 
 Bei der Verwendung von Grafiken kann es zu einem Problem bei der
 Generierung von Reports kommen.SchILD-NRW erzeugt folgende Fehlermeldung:` Fehler bei der Ausgabe:`  

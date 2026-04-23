@@ -2,19 +2,19 @@
 
 ## Durchführen der Prüfung
 
-![SchILD_Verwaltung_Statistik_Gesamtprüfung.png](../../graphics/SchILD_Verwaltung_Statistik_Gesamtprüfung.png)
+![SchILD_Verwaltung_Statistik_Gesamtprüfung.png](../graphics/SchILD_Verwaltung_Statistik_Gesamtprüfung.png)
 
  Die Option *Verwaltung ➜ Statistik für IT.NRW* ➜
 **Gesamtprüfung der Daten** bewirkt zwei Abläufe in Schild-NRW.  
 
-![SchILD_Verwaltung_Statistik_Gesamtprüfung_StartModul.png](../../graphics/SchILD_Verwaltung_Statistik_Gesamtprüfung_StartModul.png)
+![SchILD_Verwaltung_Statistik_Gesamtprüfung_StartModul.png](../graphics/SchILD_Verwaltung_Statistik_Gesamtprüfung_StartModul.png)
 
 Zunächst werden alle relevanten Daten in die StatistikDB.mdb geladen.
 Danach werden die Module von IT.NRW aufgerufen, die eine erste
 Fehlerprüfung über die Daten laufen lassen.Bestätigen Sie das Textfeld mit `OK`.  
 Es öffnet sich ein weiteres Textfeld:` Es wird jetzt die Gesamtprüfung aufgerufen`Bestätigen Sie ebenfalls mit `OK`.  
 
-![SchILD_Verwaltung_Statistik_Gesamtprüfung_PrüfungStarten.png](../../graphics/SchILD_Verwaltung_Statistik_Gesamtprüfung_PrüfungStarten.png)
+![SchILD_Verwaltung_Statistik_Gesamtprüfung_PrüfungStarten.png](../graphics/SchILD_Verwaltung_Statistik_Gesamtprüfung_PrüfungStarten.png)
 
  Das folgende Fenster gehört zum Statistikmodul.Hier wird die Prüfung mit `Prüfung starten` angestoßen.
 
@@ -27,9 +27,9 @@ Fehleinträge schon in SchILD auflösen.
 
 ### Das PDF-Fehlerprotokoll
 
-![SchILD_Verwaltung_Statistik_Gesamtprüfung_Fehlerprotokoll.png](../../graphics/SchILD_Verwaltung_Statistik_Gesamtprüfung_Fehlerprotokoll.png)
+![SchILD_Verwaltung_Statistik_Gesamtprüfung_Fehlerprotokoll.png](../graphics/SchILD_Verwaltung_Statistik_Gesamtprüfung_Fehlerprotokoll.png)
 
-![SchILD_Verwaltung_Statistik_Gesamtprüfung_FehlerprotokollPDF.png](../../graphics/SchILD_Verwaltung_Statistik_Gesamtprüfung_FehlerprotokollPDF.png)
+![SchILD_Verwaltung_Statistik_Gesamtprüfung_FehlerprotokollPDF.png](../graphics/SchILD_Verwaltung_Statistik_Gesamtprüfung_FehlerprotokollPDF.png)
 
  Am Ende der Prüfung können Sie sich das Fehlerprotokoll als
 PDF ansehen.
@@ -46,20 +46,20 @@ besprochen.
 
 ### Auswahl ➜ Schüler mit Statistikfehlern anzeigen
 
-![SchILD_Verwaltung_Statistik_Gesamtprüfung_Auswahl.png](../../graphics/SchILD_Verwaltung_Statistik_Gesamtprüfung_Auswahl.png)
+![SchILD_Verwaltung_Statistik_Gesamtprüfung_Auswahl.png](../graphics/SchILD_Verwaltung_Statistik_Gesamtprüfung_Auswahl.png)
 
  Weiterhin lassen sich nach einer ausgeführten Gesamtprüfung
 über *Auswahl* alle gefundenen **Schüler mit Statistik-Fehlern**
 anzeigen und abarbeiten.  
 
-![SchILD_Verwaltung_Statistik_Gesamtprüfung_Auswahl_FehlerBearbeiten.png](../../graphics/SchILD_Verwaltung_Statistik_Gesamtprüfung_Auswahl_FehlerBearbeiten.png)
+![SchILD_Verwaltung_Statistik_Gesamtprüfung_Auswahl_FehlerBearbeiten.png](../graphics/SchILD_Verwaltung_Statistik_Gesamtprüfung_Auswahl_FehlerBearbeiten.png)
 
 Im Schülercontainer finden sich nun alle Schüler mit Statistikfehlern.Im schwebenden Fenster sind alle Fehler zu diesem Schüler zu sehen,
 diese können nun in SchILD behoben werden. Wurde ein Fehler bearbeitet,
 lässt sich der Haken bei **Erledigt** setzen.Um diesen Modus, in dem die Statistikfehler bearbeitet werden, wieder zu
 verlassen, klicken Sie oben auf `Standard-Auswahl`.  
 
-![SchILD_Verwaltung_Statistik_Gesamtprüfung_Auswahl_Verlassen.png](../../graphics/SchILD_Verwaltung_Statistik_Gesamtprüfung_Auswahl_Verlassen.png)
+![SchILD_Verwaltung_Statistik_Gesamtprüfung_Auswahl_Verlassen.png](../graphics/SchILD_Verwaltung_Statistik_Gesamtprüfung_Auswahl_Verlassen.png)
 
  Es öffnet sich nun die Frage, ob alle als *Erledigt*
 markierten Einträge gelöscht werden sollen. Diese Frage kann mit `Ja`

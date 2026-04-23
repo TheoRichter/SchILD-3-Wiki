@@ -4,7 +4,7 @@ hierbei eine Sonderstellung ein
 
 ## Besondere Ordner
 
-![SchILD_Reports_Grundlagen_7.png](../../graphics/SchILD_Reports_Grundlagen_7.png)
+![SchILD_Reports_Grundlagen_7.png](../graphics/SchILD_Reports_Grundlagen_7.png)
 
 -   **Subreports**: In Reports können wiederum Unterreports eingebunden
     werden. Nutzt man Reports, die auf allgemeine nützliche Unterreports

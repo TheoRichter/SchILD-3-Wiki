@@ -11,7 +11,7 @@ in einigen Schulen in NRW eingesetzt.
 
 ## Export aus SchILD
 
-![Schild_Verwaltung_Export_iServ.png](../../graphics/Schild_Verwaltung_Export_iServ.png)
+![Schild_Verwaltung_Export_iServ.png](../graphics/Schild_Verwaltung_Export_iServ.png)
 
  Bei Aufruf des Exportfensters können einige Auswahlen
 vorgenommen werden. Unter **Status** und **Klassen** ist anzugeben,

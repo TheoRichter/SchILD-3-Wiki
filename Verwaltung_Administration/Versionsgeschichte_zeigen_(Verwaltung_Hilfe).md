@@ -1,6 +1,6 @@
 # Versionsgeschichte zeigen (Verwaltung Hilfe)
 
-![SchILD_Verwaltung_Hilfe_Versionsgeschichte.png](../../graphics/SchILD_Verwaltung_Hilfe_Versionsgeschichte.png)
+![SchILD_Verwaltung_Hilfe_Versionsgeschichte.png](../graphics/SchILD_Verwaltung_Hilfe_Versionsgeschichte.png)
 
 Ein Klick auf *Verwaltung ➜ Hilfe* ➜ **Versionsgeschichte zeigen**
 öffnet den Link auf die Seite mit der Versionsgeschichte von SchILD-NRW.Hier können Anmerkungen zu Features und Fixes zu neuen und vergangenen

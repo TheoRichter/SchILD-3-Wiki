@@ -1,6 +1,6 @@
 # Automatische Prozesse ausführen (Verwaltung Werkzeuge)
 
-![SchILD_Einstellungen_AutomatischeProzesse_1.png](../../graphics/SchILD_Einstellungen_AutomatischeProzesse_1.png)
+![SchILD_Einstellungen_AutomatischeProzesse_1.png](../graphics/SchILD_Einstellungen_AutomatischeProzesse_1.png)
 
  Diese Prozesse werden einmal pro Woche von SchILD-NRW beim
 Start automatisch angestoßen.Sie können diese aber auch manuell mit diesem Menüpunkt ablaufen lassen.

@@ -1,6 +1,6 @@
 # ZP10-Daten (Verwaltung Import)
 
-![Schild_Verwaltung_Import_ZP10Noten.png](../../graphics/Schild_Verwaltung_Import_ZP10Noten.png)
+![Schild_Verwaltung_Import_ZP10Noten.png](../graphics/Schild_Verwaltung_Import_ZP10Noten.png)
 
  Bei der Import-Datei handelt es sich um eine einfache
 Textdatei, die auf die Endung ".txt" lauten muss, zum Beispiel

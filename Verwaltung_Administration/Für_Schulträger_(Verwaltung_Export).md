@@ -1,11 +1,11 @@
 # Für Schulträger (Verwaltung Export)
 
-![SchILD_Export_Schulträger_1.png](../../graphics/SchILD_Export_Schulträger_1.png)
+![SchILD_Export_Schulträger_1.png](../graphics/SchILD_Export_Schulträger_1.png)
 
  Über *Verwaltung ➜ Export* ➜ **Für Schulträger** können Sie
 einen Export für Daten an den Schulträger anstoßen.  
 
-![SchILD_Export_Schulträger_2_Optionen.png](../../graphics/SchILD_Export_Schulträger_2_Optionen.png)
+![SchILD_Export_Schulträger_2_Optionen.png](../graphics/SchILD_Export_Schulträger_2_Optionen.png)
 
  Wählen Sie zuerst ein **Ausgabeverzeichnis**.Anschließend können unterschiedliche *Optionen* festgelegt werden.Wählen Sie die Art der Verschlüsselung.-   **Daten verschlüsselt mit Standardkenntwort** sorgt dafür, dass die
     Daten mit dem Schulträgermodul entschlüsselt werden können. In

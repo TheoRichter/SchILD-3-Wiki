@@ -6,7 +6,7 @@
 
  
 
-![SchILD_Export_Schnittstellendateien_2_Auswahlfenster.png](../../graphics/SchILD_Export_Schnittstellendateien_2_Auswahlfenster.png)
+![SchILD_Export_Schnittstellendateien_2_Auswahlfenster.png](../graphics/SchILD_Export_Schnittstellendateien_2_Auswahlfenster.png)
 
  Über *"Export ➜ Allgemeine Exporte ➜
 Schnittstelle SchILD-NRW"* öffnet sich ein Fenster, in dem festgelegt
@@ -46,7 +46,7 @@ mit den gewünschten Inhalten ausgewählt.
 
 ### Import
 
-![SchILD_Import_Schnittstellendateien.png](../../graphics/SchILD_Import_Schnittstellendateien.png)
+![SchILD_Import_Schnittstellendateien.png](../graphics/SchILD_Import_Schnittstellendateien.png)
 
 Über *Verwaltung ➜ Import ➜ Schnittstelle SchILD-NRW* wird der
 Importprozess gestartet.Zuerst ist ein **Importverzeichnis** zu wählen, in dem sich mit
@@ -72,7 +72,7 @@ zu setzen.-   Unter **Importart** kann zwischen zwei Varianten gewählt werden:
 
 #### Fehlerprotokoll
 
-![SchILD_Import_Schnittstellendateien_Fehlerprotokoll.png](../../graphics/SchILD_Import_Schnittstellendateien_Fehlerprotokoll.png)
+![SchILD_Import_Schnittstellendateien_Fehlerprotokoll.png](../graphics/SchILD_Import_Schnittstellendateien_Fehlerprotokoll.png)
 
  Tauchen beim Import bei einzelnen Datensätzen Fehler auf,
 werden diese nun in einem Fehlerprotokoll angezeigt.

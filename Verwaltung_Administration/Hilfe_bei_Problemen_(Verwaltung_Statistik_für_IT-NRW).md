@@ -6,7 +6,7 @@ kann es je nachdem, wie und auf welchem Rechner SchILD-Installiert
 wurde, dazu kommen, dass bestimmte Programmteile nicht korrekt
 registriert wurden.
 
-![Hilfe_bei_Problemen.jpg](../../graphics/Hilfe_bei_Problemen.jpg)
+![Hilfe_bei_Problemen.jpg](../graphics/Hilfe_bei_Problemen.jpg)
 
  Wird dieser Menüpunkt aufgerufen, bietet das Fenster eine
 umfangreiche Erklärung.Sollte beim Aufrufen der Gesamtprüfung von SChILD-NRW oder der
@@ -27,7 +27,7 @@ SchILD-Admin, sondern der Admin für Windows, als lokaler Admin
 einloggen.Ohne lokale Admin-Rechte auf dem Windows-Rechner bleibt die Schaltfläche
 ausgegraut und kann nicht angeklickt werden. 
 
-![Dateien_registrieren.jpg](../../graphics/Dateien_registrieren.jpg)
+![Dateien_registrieren.jpg](../graphics/Dateien_registrieren.jpg)
 
 Wird **Dateien registrieren** angeklickt, führt SchILD-NRW diese
 Operation aus.Es öffnen sich mehrere Fenster, die jeweils mit **Ok** geschlossen
@@ -35,7 +35,7 @@ werden können.
 
 ### SchILD-NRW als Windows-Administrator starten
 
-![SchILD_Verwaltung_Statistik_DLLsRegistrieren_AdminWin.png](../../graphics/SchILD_Verwaltung_Statistik_DLLsRegistrieren_AdminWin.png)
+![SchILD_Verwaltung_Statistik_DLLsRegistrieren_AdminWin.png](../graphics/SchILD_Verwaltung_Statistik_DLLsRegistrieren_AdminWin.png)
 
  Das Starten von SchILD-NRW als Windows-Administrator
 erfolgt durch das Anklicken des SchILD-Icons der *SchILD30.exe* mit der

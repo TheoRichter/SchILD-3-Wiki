@@ -1,6 +1,6 @@
 # Schule (Verwaltung)
 
-![Schild_Verwaltung_Schule_Vorschau.png](../../graphics/Schild_Verwaltung_Schule_Vorschau.png)
+![Schild_Verwaltung_Schule_Vorschau.png](../graphics/Schild_Verwaltung_Schule_Vorschau.png)
 
  Unter dem Menüpunkt *Verwaltung* ➜ **Schule** sind die
 Programmpunkte zusammengefasst, die eher dem Aufgabenbereich der

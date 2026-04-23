@@ -1,6 +1,6 @@
 # Unterrichts-Daten als UVD-TXT (Verwaltung Import)
 
-![SchILD_Import_UVD.png](../../graphics/SchILD_Import_UVD.png)
+![SchILD_Import_UVD.png](../graphics/SchILD_Import_UVD.png)
 
  Bei einem Einsatz eines Stundenplanprogramms (WinPlan,
 Untis...) können die klassenrelevanten Daten der Unterrichtsverteilung

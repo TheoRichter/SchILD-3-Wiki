@@ -3,7 +3,7 @@ vorgenommen.
 
 ## Allgemeine Informationen
 
-![Schild_Verwaltung_Schule_AllgemeineAngaben.png](../../graphics/Schild_Verwaltung_Schule_AllgemeineAngaben.png)
+![Schild_Verwaltung_Schule_AllgemeineAngaben.png](../graphics/Schild_Verwaltung_Schule_AllgemeineAngaben.png)
 
  Nach dem Anlegen der Datenbank werden die Angaben aus dem
 mit installierten Katalog der Schulen von IT.NRW übernommen. Diese
@@ -18,7 +18,7 @@ Das Fenster ist gegliedert in 5 Bereiche-   Allgemeine Angaben (links oben)
 
 ## Überblick
 
-![Schild_Verwaltung_Schule_AllgemeineAngaben_AllgemeineAngaben.png](../../graphics/Schild_Verwaltung_Schule_AllgemeineAngaben_AllgemeineAngaben.png)
+![Schild_Verwaltung_Schule_AllgemeineAngaben_AllgemeineAngaben.png](../graphics/Schild_Verwaltung_Schule_AllgemeineAngaben_AllgemeineAngaben.png)
 
  Die hier eingetragenen Informationen werden bei den Reports
 zur Verfügung stehen und in der Regel in Briefköpfen genutzt. Sie
@@ -50,7 +50,7 @@ Die drei oberen Eingabebereiche können über den Reportdesigner über
 
 #### Schullogo
 
-![Schild_Verwaltung_Schule_AllgemeineAngaben_Logo_Löschdialog.png](../../graphics/Schild_Verwaltung_Schule_AllgemeineAngaben_Logo_Löschdialog.png)
+![Schild_Verwaltung_Schule_AllgemeineAngaben_Logo_Löschdialog.png](../graphics/Schild_Verwaltung_Schule_AllgemeineAngaben_Logo_Löschdialog.png)
 
  Neben der Schulnummer wird das Logo der Schule angezeigt.
 Dieses Logo wird in vielen Report-Vorlagen verwendet.Es kann über das **Ordnersymbol** hinzugefügt werden. Damit kann eine
@@ -65,7 +65,7 @@ folgen Sie bitte diesem Link und teilen die Änderungen mit.
 
 ## Organisatorische Angaben
 
-![Schild_Verwaltung_Schule_AllgemeineAngaben_OrganisatorischeAngaben.png](../../graphics/Schild_Verwaltung_Schule_AllgemeineAngaben_OrganisatorischeAngaben.png)
+![Schild_Verwaltung_Schule_AllgemeineAngaben_OrganisatorischeAngaben.png](../graphics/Schild_Verwaltung_Schule_AllgemeineAngaben_OrganisatorischeAngaben.png)
 
  **Aktuelles Schuljahr und Abschnitt** Hier können Sie
 beeinflussen, in welchem Jahr und Abschnitt sich die Schild-Datenbank
@@ -86,7 +86,7 @@ Unterrichtseinheit hat.
 
 ## Gliederungen
 
-![Schild_Verwaltung_Schule_AllgemeineAngaben_Gliederungen_leer.png](../../graphics/Schild_Verwaltung_Schule_AllgemeineAngaben_Gliederungen_leer.png)
+![Schild_Verwaltung_Schule_AllgemeineAngaben_Gliederungen_leer.png](../graphics/Schild_Verwaltung_Schule_AllgemeineAngaben_Gliederungen_leer.png)
 
  Hier werden alle Gliederungen (Bildungsgänge) einer Schule
 aufgeführt.An den meisten Schulformen gibt es nur den Bildungsgang
@@ -96,7 +96,7 @@ eingetragen, für die es Fachklassen an der Schule gibt. SchILD-NRW
 richtet sich dabei nach den Bezeichnungen der Statistik.An einigen Schulen gibt es auch mehrere Gliederungen, die dann in diesem
 Fenster aufgeführt sein müssen. 
 
-![Schild_Verwaltung_Schule_AllgemeineAngaben_Gliederungen_Gymnasium_neueGliederung.png](../../graphics/Schild_Verwaltung_Schule_AllgemeineAngaben_Gliederungen_Gymnasium_neueGliederung.png)
+![Schild_Verwaltung_Schule_AllgemeineAngaben_Gliederungen_Gymnasium_neueGliederung.png](../graphics/Schild_Verwaltung_Schule_AllgemeineAngaben_Gliederungen_Gymnasium_neueGliederung.png)
 
  Einige Beispiele sind:-   *Wiedereinrichter Gymnasium G9*
 -   *auslaufende Bildungsgänge*, z.B. Hauptschule an der Sekundarschule
@@ -106,7 +106,7 @@ aufgeführt sein müssen.Um eine neue Gliederung anzulegen, klicken Sie zunächs
 und wählen Sie dann die passende Bezeichnung über das Aufklappmenü aus.Anschließend wird das Kürzel automatisch eingetragen.Im Bild sehen Sie exemplarisch die Eintragungsmöglichkeiten an einem
 Gymnasium.  
 
-![SchILD_Verwaltung_Schule_AllgemeineAngaben_GliederungBK.png](../../graphics/SchILD_Verwaltung_Schule_AllgemeineAngaben_GliederungBK.png)
+![SchILD_Verwaltung_Schule_AllgemeineAngaben_GliederungBK.png](../graphics/SchILD_Verwaltung_Schule_AllgemeineAngaben_GliederungBK.png)
 
  Ein Berufskolleg bietet hier viel mehr Gliederungen für die
 unterschiedliche Bildungsgänge und Abschlüsse an.Der Screenshot zeigt ungefähr die Hälfte der eingerichteten
@@ -114,7 +114,7 @@ Gliederungen.
 
 ## Angaben zu Abschnitten
 
-![Schild_Verwaltung_Schule_AllgemeineAngaben_AngabenzuAbschnitten.png](../../graphics/Schild_Verwaltung_Schule_AllgemeineAngaben_AngabenzuAbschnitten.png)
+![Schild_Verwaltung_Schule_AllgemeineAngaben_AngabenzuAbschnitten.png](../graphics/Schild_Verwaltung_Schule_AllgemeineAngaben_AngabenzuAbschnitten.png)
 
  Legen Sie hier fest, wie die Abschnitte und Abkürzungen
 benannt werden sollen.
@@ -124,7 +124,7 @@ verwendet.
 
 ## Schulleitung
 
-![Schild_Verwaltung_Schule_AllgemeineAngaben_Schulleitung.png](../../graphics/Schild_Verwaltung_Schule_AllgemeineAngaben_Schulleitung.png)
+![Schild_Verwaltung_Schule_AllgemeineAngaben_Schulleitung.png](../graphics/Schild_Verwaltung_Schule_AllgemeineAngaben_Schulleitung.png)
 
  Geben Sie hier die Informationen zur *Schulleitung* und zur
 *stellvertretenden* Schulleitung ein.Über das **+** oberhalb der Tabelle können Sie eine neue Zeile anlegen.
