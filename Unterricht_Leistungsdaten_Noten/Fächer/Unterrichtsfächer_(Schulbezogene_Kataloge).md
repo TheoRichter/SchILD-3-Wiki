@@ -12,22 +12,16 @@ in den Dropdown-Menüs in SchILD über die Indizes oder die roten Pfeile
 links festgelegt werden.Weiterhin kann mit "**auf Zeugnis**" angewählt werden, ob ein Fach auf
 Zeugnisse gedruckt werden soll.
 
-::: Hinweis
-
 In der Liste werden lediglich die auf "*Sichtbar*"
 gestellten Fächer angezeigt. Sollten Sie aktuell nicht sichtbare Fächer
 bearbeiten wollen, etwa, um diese in Ihren Katalog aufzunehmen, müssen
 sie den Haken oben links bei "*Nur sichtbare Datensätze anzeigen*"
 entfernen.
 
-::: Hinweis
-
 Fächer, die grün hinterlegt sind, wurden als "*Fach der Oberstufe*"
 angewählt. Zu jedem Eintrag eines Faches gehören rechts die *Detailansicht*, in der
 die konkreten Einstellungen zu diesem Fach vorgenommen werden. Weitere
 Einstellungen werden in "*Sonstige Einstellungen*" vorgenommen.
-
-::: Hinweis
 
 Bei den Sprachen ist zu beachten, dass die Fachkennung
 aus Buchstaben und einer Zahl besteht, wobei die Zahl den Beginn dieser
@@ -40,13 +34,9 @@ Sprachenfolge für Abschlusszeugnisse relevant.
 
 ### Zusätzliche Unterrichtsveranstaltungen und andere Fächer
 
-::: Hinweis
-
 Es können hier auch Fächer angelegt werden, die kein
 Fach im klassischen Sinne sind, wie zum Beispiel
 Arbeitsgemeinschaften.
-
-:::  
 
 ![SchILD_Kataloge_Schulbez_UFaecher_10.png](../../graphics/SchILD_Kataloge_Schulbez_UFaecher_10.png)
 
@@ -91,7 +81,7 @@ usw. Wenn Sie diese Funktion ausgeführt haben, sollte sich das geänderte
 Fach danach löschen lassen, weil es bei den Schülern nicht mehr
 vorkommt.
 
-::: Hinweis
+
 
 Diese Funktion ist zur Bereinigung der Datenbank zum
 Beispiel nach einem Import aus Fremddaten gedacht.
@@ -137,7 +127,7 @@ Teilleistungen sind nun dem Fach zugeordnet und Sie können das
 Teilleistungs-Auswahlfenster schließen.Wurden Teilleistungen für konfiguriert, können diese bei der Benotung
 durch die Fachlehrkräfte gesondert eingetragen werden.
 
-::: Hinweis
+
 
 Je nach Schulform, zum Beispiel BKs, können weitere
 Einstellungen in Details vorgenommen werden.
@@ -162,7 +152,6 @@ ob das Fach auf einem Abschlusszeugnis berücksichtigt werden soll,
 obwohl es im Abschluss-Lernabschnitt nicht mehr belegt ist und schon in
 einem vorherigen Lernabschnitt abgeschlossen wurde.
 
-::: Hinweis
 
 Vertiefungskurse und Projektkurse in der gymnasialen
 Oberstufe werden entsprechend mit den Fachkürzeln "VX.." und "PX.."
