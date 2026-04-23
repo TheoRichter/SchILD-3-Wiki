@@ -41,7 +41,7 @@ dieser Liste:1.  **Auswahl der Schüler**: Soll nicht der komplette Schülerbest
 
 #### Zeugnisdaten
 
-![SchILD_Verwaltung_Export_3_Zeugnisdaten.png](../../graphics/SchILD_Verwaltung_Export_3_Zeugnisdaten.png)
+![SchILD_Verwaltung_Export_3_Zeugnisdaten.png](../graphics/SchILD_Verwaltung_Export_3_Zeugnisdaten.png)
 
  Sollen mit der Leistung verbundene Daten exportiert werden,
 ist in der Datenart *Schüler* der Reiter *Zeugnisdaten* anzuwählen.Dort wird der Haken bei **Zeugnisdaten exportieren** gesetzt.Weiterhin ist das passende **Halbjahr** auszuwählen. Somit lassen sich
@@ -58,7 +58,7 @@ etwa die zu einer Note gehörende *Kursart*.
 
 #### Export-Optionen
 
-![SchILD_Verwaltung_Export_4_ExportOptionen.png](../../graphics/SchILD_Verwaltung_Export_4_ExportOptionen.png)
+![SchILD_Verwaltung_Export_4_ExportOptionen.png](../graphics/SchILD_Verwaltung_Export_4_ExportOptionen.png)
 
 -   **Feld-Trennzeichen**: Dieses Zeichen trennt die unterschiedlichen
     Datenfelder. Um lediglich eine Excel-Tabelle oder eine generische
@@ -89,7 +89,7 @@ etwa die zu einer Note gehörende *Kursart*.
 
 #### Vorlagen speichern und laden
 
-![SchILD_Verwaltung_Export_5_Export_VorlageSpeichern.png](../../graphics/SchILD_Verwaltung_Export_5_Export_VorlageSpeichern.png)
+![SchILD_Verwaltung_Export_5_Export_VorlageSpeichern.png](../graphics/SchILD_Verwaltung_Export_5_Export_VorlageSpeichern.png)
 
  Wurde für einen Zweck ein passender Export eingestellt,
 können alle diese Einstellungen zur erneuten Verwendung gespeichert und
@@ -112,7 +112,7 @@ ausgegeben worden, stattdessen stünde *"SName"* in der Serienbriefdatei.
 
 #### Word Seriendruck
 
-![SchILD_Verwaltung_Export_6_Export_WordSerienbrief.png](../../graphics/SchILD_Verwaltung_Export_6_Export_WordSerienbrief.png)
+![SchILD_Verwaltung_Export_6_Export_WordSerienbrief.png](../graphics/SchILD_Verwaltung_Export_6_Export_WordSerienbrief.png)
 
  Eine Exportdatei im txt-Format kann auch genutzt werden, um
 einen Serienbriefdruck in MS Word anzustoßen. Dies kann sinnvoll sein,
@@ -133,7 +133,7 @@ eine Worddatei, *.docx* anzuwählen ist. Wählen Sie Ihren Serienbrief an.Es öf
     Serienbrieffelder gesetzt, wird der Serienbrief natürlich schon
     ausgefüllt sein.  
 
-![SchILD_Verwaltung_Export_7_Export_WordSerienbrief_WordSerienbrief.png](../../graphics/SchILD_Verwaltung_Export_7_Export_WordSerienbrief_WordSerienbrief.png)
+![SchILD_Verwaltung_Export_7_Export_WordSerienbrief_WordSerienbrief.png](../graphics/SchILD_Verwaltung_Export_7_Export_WordSerienbrief_WordSerienbrief.png)
 
  In Ihrer Word-Serienbriefvorlage steht nun ein neuer Reiter
 zur Verfügung. Wählen Sie **Sendungen** an.Nun können über **Seriendruckfeld einfügen** alle von SchILD
