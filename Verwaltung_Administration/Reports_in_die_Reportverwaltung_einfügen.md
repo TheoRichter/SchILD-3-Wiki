@@ -39,16 +39,16 @@ ausgewählten SuS generiert. Beim Aufruf des Reports kann gewählt werden,
 ob der Report nur für die ausgewählte Person, alle markierten Personen
 oder die ganze Gruppe generiert werden soll.
 
-![SchILD_Reports_Grundlagen_13.png](../../graphics/SchILD_Reports_Grundlagen_13.png)
+![SchILD_Reports_Grundlagen_13.png](../graphics/SchILD_Reports_Grundlagen_13.png)
 
   
 
-![SchILD_Reports_Grundlagen_3.png](../../graphics/SchILD_Reports_Grundlagen_3.png)
+![SchILD_Reports_Grundlagen_3.png](../graphics/SchILD_Reports_Grundlagen_3.png)
 
  Nach einem Doppelklick und der Wahl, für wen der Report
 erzeugt werden soll...  
 
-![SchILD_Reports_Grundlagen_11.png](../../graphics/SchILD_Reports_Grundlagen_11.png)
+![SchILD_Reports_Grundlagen_11.png](../graphics/SchILD_Reports_Grundlagen_11.png)
 
  ... erscheint bei diesem Report eine Nachfrage, ob
 "Bemerkungen", "Arbeits- und Sozialverhalten" und "Außerunterrichtliches
@@ -57,7 +57,7 @@ nach Report auftauchen. Ist unbekannt, was die Optionen bedeuten, kann
 man sie über die Vorschau einfach ausprobieren. Hier im Beispiel wird
 "Ja" gewählt...  
 
-![SchILD_Reports_Grundlagen_12.png](../../graphics/SchILD_Reports_Grundlagen_12.png)
+![SchILD_Reports_Grundlagen_12.png](../graphics/SchILD_Reports_Grundlagen_12.png)
 
  ... und nun sehen Sie das Ergebnis und können entscheiden,
 ob der Report in Ihrem konkreten System verwendbar ist, ob Sie ihn noch
