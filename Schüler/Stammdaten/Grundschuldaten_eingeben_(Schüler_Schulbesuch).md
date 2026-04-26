@@ -1,6 +1,6 @@
 # Grundschuldaten eingeben (Schüler Schulbesuch)
 
-![Schild_Schüler_Schulbesuch_Grundschuldaten.png](../../graphics/Schild_Schüler_Schulbesuch_Grundschuldaten.png)
+![SchILD_Schüler_Schulbesuch_Grundschuldaten.png](../../graphics/SchILD_Schüler_Schulbesuch_Grundschuldaten.png)
 
  Diese Maske wird aufgerufen durch die Schaltfläche
 "Grundschuldaten eingeben" auf dem Reiter *Schulbesuch* im Bereich *Vor
