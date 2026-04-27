@@ -22,7 +22,7 @@ die Eintragungsmöglichkeiten den Schlüsselverzeichnissen von IT.NRW.
 
 ![SchILD_Lehrkräfte_StundenZusfBerechnen.png](../../graphics/SchILD_Lehrkräfte_StundenZusfBerechnen.png)
 
-::: warning
+
 
 Denken Sie nach Änderungen daran, den Knopf **Neu
 berechnen** anzuklicken, damit sich die Änderungen auch bei den
@@ -30,7 +30,7 @@ berechnen** anzuklicken, damit sich die Änderungen auch bei den
 Menüleiste von *Lehrkräfte* können Sie die Neuberechnung der Stunden
 über alle Lehrkräfte starten.
 
-:::
+
 
 Der Reiter *Schulinterne Funktionen* bietet Ihnen zusätzlich bei den
 
@@ -40,13 +40,13 @@ schulinternen Funktionen bearbeiten" zunächst die gewünschten Funktionen
 definieren, wobei Sie die gewünschten Bezeichnungen frei wählen können.
 Dieser Katalog ist nicht relevant für die Statistik.
 
-::: warning
+
 
 In einem Report können Sie über die Datenquelle
 "Lehrerfunktionen" als Unterdatenquelle auf diese Werte
 zugreifen.
 
-:::  
+  
 
 ## Unterricht zeigen
 

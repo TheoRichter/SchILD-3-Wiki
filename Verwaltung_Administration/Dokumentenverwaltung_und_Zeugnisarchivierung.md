@@ -15,11 +15,11 @@ Die Dokumentenablage kann zum Beispiel genutzt werden, um Warnbriefe wegen Nicht
 Das bedeutet im Klartext: Es wird für jede Person ein Verzeichnis angelegt, das aus Name, Vorname und Geburtsdatum besteht (z. B. `Müller, Hans, 30_09_2013`). In diesem Verzeichnis werden die Dokumente abgelegt:* `<f>` steht für den Dateinamen (file).
 * `<d>` steht für das Datum der Generierung (date).
 
-::: tip Konfiguration per Menü
+ tip Konfiguration per Menü
 
 Sie müssen diese kryptische Schreibweise nicht selbst eintippen. Über **Dateimaske bearbeiten** können Sie die Merkmale bequem per Drag & Drop in den Verzeichnisnamen oder Dateinamen ziehen. Die Reihenfolge lässt sich mit den roten Pfeilen anpassen.
 
-:::
+
 
 In diesem Beispiel wurde zusätzlich die Uhrzeit hinzugefügt, was am Schalter `<z>` (Zeit) in der Maske erkennbar ist
 

@@ -26,14 +26,14 @@ Die Teilleistungen der Schule können vom Namen der beliebig gewählt
 werden, daher ist hier diese Zuordnung manuell vorzunehmen.Hier im Beispiel entspricht die ZP-10-Note *Schriftliche Note* der
 eindeutig gewählten Bezeichnung *"ZP 10 Schriftliche Note"*.
 
-::: warning
+
 
 Hier ist es technisch möglich, falsche Zuordnungen
 vorzunehmen, also zum Beispiel die *Vornoten* als die *schriftlichen
 Noten* der Prüfung oder direkt als die *Abschlussnoten* zu
 importieren.
 
-:::
+
 
 Es kann der Haken bei **Vorhandene Noten überschreiben** gesetzt werden,
 

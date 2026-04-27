@@ -6,12 +6,12 @@ jede Lehrkraft ihre Noten unabhängig von einem SchILD-NRW-Zugang
 einzutragen. Das Externe Notenmodul kann ebenfalls für Floskeln,
 Teilleistungen, Fehlstunden und so weiter verwendet werden.
 
-::: warning
+
 
 Derzeit ist das Externe Notenmodul 3 als Betaversion
 markiert.
 
-:::
+
 
 ## Übersicht (für die Artikelplanung)1.  Zuerst müssen die in **Schüler ➜ Akt. Halbjahr ➜ Leistungsdaten**
     (ohne die Noten) der Schüler korrekt befüllt werden, daher es müssen

@@ -42,12 +42,12 @@ bis 10 und der neuen **Sek.-Stufe**, der *SI*, an.
 
 In der *Klassen-/Versetzungstabelle* werden die Klassen definiert.
 
-::: warning
+
 
 Schauen Sie hierzu grundsätzlich in den Artikel zu
 dieser in der Rubrik *Kataloge* dieses Wikis.
 
-:::
+
 
 In diesem Tutorial ist die Hauptansicht relevant, in der tabellarisch
 

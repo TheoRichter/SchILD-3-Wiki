@@ -2,12 +2,12 @@
 Unterrichtsdaten so exportieren, dass sie von iServ wieder importiert
 werden und dort verwendet werden können.
 
-::: warning
+
 
 iServ das Produkt eines kommerziellen Anbieters und wird
 in einigen Schulen in NRW eingesetzt.
 
-:::
+
 
 ## Export aus SchILD
 
@@ -27,13 +27,13 @@ Die betrifft besonders die anzulegenden Gruppen.Schlussendlich ist jeweils das *
 **Schülerdaten** und die **Lehrerdaten** anzugeben.Beide Exporte werden getrennt durch jeweils einen Klick auf
 `Export starten` angestoßen.
 
-::: warning
+
 
 Während des Exports kann es unter Umständen zu Fehlern
 kommen, zum Beispiel auf Grund von nicht oder falsch angelegter
 E-Mail-Adressen der Personen der Schule.
 
-:::  
+  
 
 ## Import in iServBitte nutzen Sie die Dokumentation und den Support Ihrer Lernplattform
 für den Import. Klären Sie bitte ebenfalls mit dem Anbieter, welche

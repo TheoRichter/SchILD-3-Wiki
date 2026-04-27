@@ -9,7 +9,7 @@ Nummern beibehalten und nur leere Felder werden befüllt.**Nicht mehr benötigte
 vorhandenen oder abgegangenen Schülern die Nummern erneut, so dass ein
 Nummernbereich ausreichend ist, welcher der Schülerzahl entspricht.
 
-::: warning
+
 
 Beachten Sie hierzu, dass die Startnummer für die
 Ausweise über ''Verwaltung ➜ Einstellungen ➜ Allgemeines ➜ Sonstiges"
@@ -18,4 +18,3 @@ werden kann.Somit ließen sich zum Beispiel Schülerausweisnummern mit "30000"
 beginnen, so dass alle "30.000er-Nummern" klar Schülern zugeordnet
 wären.
 
-:::

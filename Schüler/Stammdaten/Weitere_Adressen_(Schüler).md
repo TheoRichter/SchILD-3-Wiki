@@ -46,13 +46,13 @@ DEADLINK: `Kategorie: BETA` - Kategorie:_BETA.md
 Feld **Neueintrag** unten möglich.Es öffnet sich ein neues Fenster, in dem auf der rechten Seite alle
 Details einer neuen Adresse eingetragen werden kann.
 
-::: warning
+
 
 Achten Sie darauf, dass als "Adressart" nur Adressarten
 eingeben werden können, die in *Kataloge ➜ Adressarten* zuvor schon
 angelegt wurden.
 
-:::
+
 
 Neben den zu erwartenden Daten zu *Name*, *Adresse* und *Kontakten*
 

@@ -50,7 +50,7 @@ An gleicher Stelle finden Sie ebenfalls eine leere Excel-Datei, die für
 das Befüllen mit eigenen Einträgen vorbereitet wird.Entsprechend können Floskeln zur Weitergabe und -verarbeitung auch
 **exportiert** werden.Klicken Sie hierzu auf `Export` und wählen Sie einen Dateispeicherort.
 
-::: warning
+
 
 Um Ankreuzkompetenzen beziehungsweise Textbausteine für
 einen anderen Jahrgang einzugeben, können Sie die Arbeit sparen, indem
@@ -59,9 +59,9 @@ und in einem Tabellenverarbeitungsprogramm ihrer Wahl die Zeilen
 kopieren beziehungsweise den Jahrgang ändern. Dann nehmen Sie einen
 erneuten Export vor.
 
-:::
 
-::: warning
+
+
 
 \* Fachfloskeln werden für den Jahrgang *E3* nicht
 eingegeben. Hier werden die Floskeln des Jahrgangs *E2* verwendet.-   Sie können Floskeln mit einem Doppelklick direkt in das Textfenster
@@ -73,7 +73,7 @@ eingegeben. Hier werden die Floskeln des Jahrgangs *E2* verwendet.-   Sie könne
     Platzhalters *$Vorname$* wird dann zum Vornamen, folgende Nennungen
     werden zu *er* oder *sie*.
 
-:::
+
 
 ## Zeugnisse herunterladenLaden Sie die Textzeugnisse herunter und legen Sie diese im
 SVWS-Arbeitsverzeichnis ab, wie es im Wiki-Artikel zur Vorbereitung des
@@ -81,14 +81,14 @@ Zeugnisdrucks beschrieben ist.
 
 ![SchILD_Tutorials_GS_Floskelzeugnisse_ZieldifferentesLernen.png](../../graphics/SchILD_Tutorials_GS_Floskelzeugnisse_ZieldifferentesLernen.png)
 
-::: warning
+
 
 Das Hybridzeugnis kann für Schülerinnen und Schüler aus
 der Jahrgangsstufe 4, die zieldifferent unterrichtet werden, genutzt
 werden.Dazu muss in SchILD die Auswahl **zieldifferentes Lernen** unter
 *Schüler* ➜ **Individual-Daten II** aktiviert sein.
 
-:::  
+  
 
 ## Eingabe von Floskeln
 
@@ -99,12 +99,12 @@ werden.Dazu muss in SchILD die Auswahl **zieldifferentes Lernen** unter
  Gehen Sie über *Schüler ➜ Akt. Halbjahr ➜ Leistungsdaten*
 zu der Tabelle mit den Fächern der Schüler.Tragen Sie nun, sofern es diese gibt, die Noten ein.
 
-::: warning
+
 
 Diese Eintragungen werden in der Regel durch die
 Fachlehrkräfte vorgenommen.
 
-:::
+
 
 Klicken Sie dann mit einem Doppelklick in der Spalte **Fachbez.
 
@@ -115,12 +115,12 @@ Leistungsentw.** auf *(WideMemo)* des entsprechenden Faches.Es öffnet sich der 
     *Texteingabe automatisch auf Floskeln überprüfen* gesetzt ist).Nutzen Sie auch die Filteroptionen, um die angezeigten Floskeln
 einzuschränken.
 
-::: warning
+
 
 \* Einen Zeilenumbruch erzeugen Sie mit `Shift + Enter`.-   Einen fehlerhaften Eintrag entfernen Sie im Editorfenster, indem er
     markiert wird, dann drücken Sie `Entf`.
 
-:::
+
 
 Wurden Floskeln definiert, können diese auch in externen Tools verwendet
 
@@ -140,7 +140,7 @@ Jahrgang 4 weitere Bemerkungen für das Zeugnis aufgenommen-   **Zeugnisbemerkun
 -   **Bemerkungen zur Versetzung**
 -   **Empfehlung für Fortsetzung der Schullaufbahn**
 
-::: warning
+
 
 **Lern- und Leistunggstand**: Eingaben bei den
 grundsätzlichen Angaben zur *Lernentwicklung und zum Leistungsstand*
@@ -153,7 +153,7 @@ lassen und die Zusammenfassung wird über *Lern- und
 Leistungsfortschritt* erfasst. Hier lassen sich natürlich auch passende
 Floskeln definieren und verwenden.
 
-:::
+
 
 Weiterhin wird der Bereich zum **Arbeits- und Sozialverhalten** auf dem
 

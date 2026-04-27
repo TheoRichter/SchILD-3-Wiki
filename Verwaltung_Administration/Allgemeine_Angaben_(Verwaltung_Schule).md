@@ -25,20 +25,20 @@ zur Verfügung stehen und in der Regel in Briefköpfen genutzt. Sie
 sollten hier die Angaben einsetzen, die für Ihre Schule am sinnvollsten
 erscheinen.
 
-::: warning
+
 
 Änderungen der Adress- und Kontaktdaten der Schule
 müssen an IT.NRW gemeldet werden.
 
-:::
 
-::: warning
+
+
 
 Der Link hier im Fenster kann angeklickt werden und
 öffnet die angezeigte URL des Bildungsportals im
 Internetbrowser.
 
-:::  
+  
 
 #### Mehrzeiliger SchulnameBitte beachten Sie, dass Sie den Namen der Schule in 3 Zeilen eintragen
 können. Zu lange Namen in einer Zeile lassen sich in Briefköpfen nicht

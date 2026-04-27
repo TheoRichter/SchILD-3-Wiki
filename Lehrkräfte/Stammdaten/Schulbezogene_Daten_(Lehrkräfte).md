@@ -8,15 +8,15 @@ Eintragungen benötigen Sie, wenn Sie die Lehrerdaten per *Lehrer.txt*
 nach ASDPC32 bringen wollen.Für die Schule kann es nützlich sein, hier die Lehrbefähigungen zu
 erfassen.
 
-::: warning
+
 
 Die zur Auswahl stehenden *Lehrämter*, *-befähigungen*
 und *Anerkennungen* werden dabei über den SVWS-Server
 geliefert.
 
-:::
 
-::: warning
+
+
 
 Führen Sie regelmäßig SchILD- und SVWS-Server-Updates
 aus, um die aktuellen Option zur Wahl zu haben. Updaten Sie auf jeden
@@ -24,7 +24,7 @@ Fall im zeitnahen Vorfeld der Statistik und halten Sie im Zuge der
 Statistik auch nach kurzfristig verfügbaren Hotfixes
 Ausschau.
 
-:::
+
 
 Die möglichen und nötigen Eintragungen in den vorgesehenen Weisen in
 

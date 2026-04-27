@@ -25,14 +25,14 @@ soll.
 Die Einträge in der Spalte **Sortierung** legen wie bei allen Katalogen
 die Sortierung fest.
 
-::: warnin
+ warnin
 
 g
  Bei Anlage einer neuen Einwilligungsart wird diese
 unmittelbar für alle Schülerinnen und Schüler im Reiter "Einwilligungen"
 angelegt. Dieser Prozess kann einige Zeit dauern.
 
-:::
+
 
 ## Sortierung der DSGVO-EinwilligungenBei Verwendung der **Sortierung** "Bezeichnung" sortiert das Programm
 alphabetisch, wobei alle Großbuchstaben vor den Kleinbuchstaben

@@ -7,13 +7,13 @@ entlassenden Schülerinnen und Schülern der aktuellen Auswahl die eigene
 Schule in die Liste *Alle bisher besuchten Schulen* unter dem
 Karteireiter *Schüler ➜ Schulbesuch*.
 
-::: warning
+
 
 Die Voraussetzung dafür ist, dass bei den Schülern vor
 der Ausführung des Gruppenprozesses ein **Entlassdatum** eingetragen
 ist.
 
-:::  
+  
 
 ![SchILD_Gruppenprozesse_Entlassdatum_GP.png](../../graphics/SchILD_Gruppenprozesse_Entlassdatum_GP.png)
 

@@ -28,7 +28,7 @@ Diese Dateien können auch mit Tabellenkalkulationsprogrammen erzeugt
 werden, hierbei sind die Datenfelder als Textdatei mit einem Semikolon
 "**;**" als Separator zu speichern.
 
-::: warning
+
 
 Damit die Noten aus der Datei eingelesen werden können,
 müssen die Fächer zuvor im Reiter *Schüler ➜ ZP 10/ZK* hinzugefügt
@@ -36,4 +36,3 @@ worden sein.Mehr hierzu findet sich im Wikiartikel zu diesem Reiter beziehungswe
 in dem Artikel zum ZP-10-Gruppenprozess *Leistungsdaten
 holen*.
 
-:::

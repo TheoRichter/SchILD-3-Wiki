@@ -1,12 +1,12 @@
 # ZP10 ZK (Schüler)
 
-::: warning
+
 
 Beachten Sie bitte den Abschnitt zur *Einrichtung von
 Teilleistungen für die ZP 10* im *Tutorial zu den
 Teilleistungen*.
 
-:::
+
 
 ![SchILD_Schüler_ZP_Reiter.png](../../graphics/SchILD_Schüler_ZP_Reiter.png)
 
@@ -46,14 +46,14 @@ eine automatische Prüfung aus, nach der aufgrund der zugeordneten
 Bedarf gesetzt wird.Ein Klick auf `Schließen` schließt das Zusammenfassungsfenster und setzt
 im Anschluss den Haken.
 
-::: warning
+
 
 Beachten Sie bitte, dass der Algorithmus keine Prüfung
 auf ein (vollständiges) Vorliegen der Noten vornimmt. Liegen keine Noten
 vor, gibt es keinen Fehler, der hierauf Aufmerksam macht, sondern die
 Anzeige, es wäre keine Nachprüfung notwendig.
 
-:::  
+  
 
 In der Spalte **Mdl. freiw. Prüfung** wird angehakt, wenn sich ein
 Schüler zu einer freiwilligen Mündlichen Prüfung meldet.
@@ -65,7 +65,7 @@ Noten automatisch berechnet.Hier im Screenshot ist zu sehen, dass der Algorithmu
 Englisch keine automatische Übernahme vornehmen kann und auf die
 Notwendigkeit der händischen Eingabe hinweist.
 
-::: warning
+
 
 Beachten Sie, dass die automatischen Werkzeuge in
 SchILD-NRW wie die Festlegung der mündlichen Prüfungen oder automatische
@@ -73,20 +73,20 @@ Notenberechnungen lediglich als Unterstützung ohne Gewähr dienen. Die
 Prüfung auf Korrektheit obliegt den Fachlehrern und/oder anderen
 Verantwortlichen der Schule.
 
-:::  
+  
 
 Wurden die Noten der Zentralen Prüfung erfasst und die Abschlussnote
 festgelegt, wird diese über **Abschlussnoten in Leistungsdaten** im
 aktuellen Lernabschnitt bei den jeweiligen Fächern als *Note*
 eingetragen.
 
-::: warning
+
 
 Beachten Sie, dass damit die alte Vornote überschrieben
 dort wird und nicht mehr vorliegt, falls sie nicht als *Teilleistung*
 gesondert erfasst wurde.
 
-:::  
+  
 
 ![SchILD_Gruppenprozesse_ZK_GPs.png](../../graphics/SchILD_Gruppenprozesse_ZK_GPs.png)
 

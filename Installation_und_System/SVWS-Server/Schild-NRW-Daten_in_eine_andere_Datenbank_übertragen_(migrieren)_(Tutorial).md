@@ -1,6 +1,6 @@
 # Schild-NRW-Daten in eine andere Datenbank übertragen (migrieren) (Tutorial)
 
-::: warning
+
 
 Starten Sie die Datenbank vor einer Migration mit einer
 aktuellen Version von SchILD2, damit das technische Datenbankschema bei
@@ -8,11 +8,11 @@ Bedarf auf den aktuellsten Stand gebracht werden kann.Weitere Möglichkeiten zur
 SVWS-Webclients. Dessen Dokumentation finden Sie auf
 <https://doku.svws-nrw.de.
 
-:::
+
 
 >
 
-::: warning
+
 
 Eine Migration dauert je nach verwendeter CPU und Umfang
 der Datenbank "einige mitunter lange Minuten". Wenn Sie eine Schule
@@ -27,7 +27,7 @@ aufzubewahrende Schuljahre mit den Leistungsdaten löschen zu lassen.Über die D
 In diesem Verzeichnis finden sich noch weitere logs, z.B. zu Fehlern des
 Servers.
 
-:::
+
 
 ## Migration über die externe MigrateDB.exe
 
@@ -44,13 +44,13 @@ Menüpunkt nicht angewählt werden kann.
 
 Wählen Sie den Expertenmodus an, dann klicken Sie auf `Weiter`.
 
-::: warning
+
 
 Um aus anderen Quellen zu migrieren, schauen Sie bitte
 in die [Dokumentation zum SVWS-Client undSVWS-Server](https://doku.svws-nrw.de), wie mit dem AdminClient aus
 laufenden Datenbankservern migriert werden kann.
 
-:::
+
 
 ![SchILD_Tutorials_DB-migrieren_Daten.png](../../graphics/SchILD_Tutorials_DB-migrieren_Daten.png)
 
@@ -117,14 +117,14 @@ Hier kann auch die existierende Datenbank mit einer Neumigration
 
 ![SchILD_Datenbank_RootPasswort.png](../../graphics/SchILD_Datenbank_RootPasswort.png)
 
-::: warning
+
 
 An dieser Stelle ist nun zwingend das *Root-Kennwort des
 Datenbankservers* anzugeben. Es handelt sich hier nicht um ein
 Admin-Kennwort von SchILD oder das Kennwort als
 Schema-Admin.
 
-:::  
+  
 
 ![SchILD_Datenbank_Migrieren_Einstellungen.png](../../graphics/SchILD_Datenbank_Migrieren_Einstellungen.png)
 
@@ -136,7 +136,7 @@ verwendete *svwsadmin* genutzt mit dem existierenden Kennwort genutzt.
 Sie können auch für jedes Schema, also für jede Datenbank, einen neuen
 Namen mit neuen Kennwörtern vergeben.
 
-::: warning
+
 
 **Zur Erklärung**SchILD und der SVWS-Server kennen drei Typen von Kennwörtern: Zuerst der
 Root-Zugriff auf den kompletten Datenbankserver. Zweitens wird jedes
@@ -145,18 +145,18 @@ des SchILD-NRW-Programms hinterlegt wird. Schlussendlich gibt es die
 unterschiedlichen Nutzer in SchILD-NRW selbst mit ihren jeweiligen
 Berechtigungen.
 
-:::
+
 
 Klicken sie anschließend auf `Übernehmen`
 
 .
 
-::: warning
+
 
 Migrieren Sie in ein existierendes Schema, wird die dort
 vorhandene Datenbank überschrieben!
 
-:::
+
 
 ![SchILD_Datenbank_Migrieren_Warten.png](../../graphics/SchILD_Datenbank_Migrieren_Warten.png)
 
@@ -172,10 +172,9 @@ Warten angehalten wird.
 0 Nach einem Neustart von SchILD-NRW steht die migrierte
 Datenbank zur Verfügung.
 
-::: warning
+
 
 Beachten Sie, dass in diesem Modus kein Fenster mit
 weiteren Informationen und eventuellen Fehlern zum Migrationsprozess
 anzeigt wird.
 
-:::

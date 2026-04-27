@@ -4,7 +4,7 @@ der ausgewählten Schülergruppe abhängt und die Berechnung nur für
 Schülergruppen durchgeführt wird, bei denen die Abschlussberechnung
 sinnvoll ist.
 
-::: warning
+
 
 Am BK wird für eine Klasse des beruflichen Gymnasiums
 noch der Reiter *Schüler ➜ FHR* eingeblendet. Über diesen kann im ersten
@@ -19,7 +19,7 @@ Die anderen Abschlussberechnungen, auch von der vollen
 Fachhochschulreife, finden über den Reiter BK-Abschluss
 statt.
 
-:::
+
 
 Bei der Berechnung des Abschlusses greift SchILD-NRW auf die beim
 
@@ -34,7 +34,7 @@ Klicken Sie im Reiter **BK-Abschluss** auf `Leistungsdaten holen`.Es werden die 
 Vornote aus dem aktuellen Lernabschnitt im Reiter *BK-Abschluss*
 eingetragen.
 
-::: warning
+
 
 Hierbei ist zu beachten, ob Prüfungsordnungen vorsehen,
 dass die Vornote eine *Ganzjahresnote* ist. Die Note, die geholt wird,
@@ -42,7 +42,7 @@ ist die des letzten Halbjahres. Wird die Vornote sinnvoll über eine
 Teilleistung erfasst, müssen die geholten Noten noch mit der
 Teilleistungs-Vornote überschrieben werden.
 
-:::
+
 
 ### Teilleistungen und Prüfungsnoten
 
@@ -108,11 +108,10 @@ aus diesem Reiter zurück in den Bereich *Note* des aktuellen Abschnitts
 geschrieben.Hierbei wird die alte Halbjahresnote nun mit der Abschlussnote
 überschrieben.
 
-::: warning
+
 
 Beachten Sie, dass die automatischen Werkzeuge als
 Unterstützung ohne Gewähr zu verstehen sind. Die Schule mit ihren
 jeweils Verantwortlichen trägt die Verantwortung für die Korrektheit im
 Rahmen der geltenden Prüfungsordnung aller Ergebnisse.
 
-:::

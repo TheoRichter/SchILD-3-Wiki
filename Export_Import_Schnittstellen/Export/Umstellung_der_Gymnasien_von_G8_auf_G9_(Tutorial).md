@@ -37,7 +37,7 @@ und 32 eingetragen werden, also jeweils 4 mehr.Ändern Sie anschließend auf gle
 Klartext" mit Hilfe des Auswahlmenüs die Einträge der *Jahrgangsstufen 7
 bis Q2* von "**\*\*\***" auf "**GY8**".Bestätigen Sie eventuelle Änderungen mit dem Haken ✔.
 
-::: warning
+
 
 Der Schritt, dass schrittweise G9 und die Restabschnitte
 angepasst werden, ist jedes Schuljahr zu wiederholen, bis der erste
@@ -45,7 +45,7 @@ G9-Jahrgang komplett bis zum Abitur durchgewandert ist. Fügen Sie bei
 Bedarf den *Jahrgang 10* als *GY9-Jahrgang* hinzu, in den der erste
 *GY9-Jahrgang 9* hineinwachsen wird.
 
-:::  
+  
 
 ### 5. Anpassen der Klassen- und Versetzungstabelle
 

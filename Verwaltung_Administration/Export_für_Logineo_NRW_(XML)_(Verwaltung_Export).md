@@ -48,13 +48,13 @@ Zip-Datei. Deren Inhalt, eine XML-Datei, kann nicht geöffnet oder
 entpackt werden. Logineo NRW verwendet die Zip-Datei direkt, ohne dass
 diese entpackt werden muss.
 
-::: warning
+
 
 Beachten Sie den Unterschied von *Logineo NRW LMS* und
 *Logineo NRW*. Diese Angebote lesen jeweils unterschiedliche Exportdaten
 von SchILD-NRW ein.
 
-:::
+
 
 ## Import in Logineo NRW
 

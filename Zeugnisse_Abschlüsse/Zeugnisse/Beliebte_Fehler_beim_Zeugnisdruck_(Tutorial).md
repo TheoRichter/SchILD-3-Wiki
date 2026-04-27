@@ -51,7 +51,7 @@
     nicht mehr zu SchILD2 kompatibel. Dies gilt auch für zugeschickte
     oder heruntergeladene Reports.
 
-::: warning
+
 
 Wenn Sie einen Report aus SchILD2 weiterverwenden
 möchten ist dies möglich. Es kann aber aus technischen Gründen notwendig
@@ -65,7 +65,7 @@ Dies betrifft zum Beispiel die interne Verarbeitung von manchen Grafiken
 für Logos.Beachten Sie, dass der Report im Anschluss nicht mehr zu SchILD-NRW2
 kompatibel ist.
 
-:::
+
 
 ## Druck-   Falsches Wenden beim Druck bei mehrseitigen Zeugnissen:
     -   A4-Zeugnisse werden über die *lange* Seite des Blatts gewendet

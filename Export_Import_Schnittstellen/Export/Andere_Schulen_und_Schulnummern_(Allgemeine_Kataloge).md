@@ -23,7 +23,7 @@ Die **Kurzbezeichnung** und **Offizielle Bezeichnung** kann direkt
 weiteren Felder (Kürzel, Schulform sowie weitere Adressdaten, ...) frei
 bleiben.
 
-::: warning
+
 
 Haben Schüler vor dem Besuch der Schulform *BK* oder
 *WBK* keine Schule besucht, ist dies über die Herkunftsart
@@ -33,4 +33,3 @@ Gleiches gilt unter Verwendung dieser Schulnummer für die Herkunft aus
 Wehr-, Zivil- oder Bundesfreiwilligendienst mit dem Statistikkürzel
 *WZ*.
 
-:::

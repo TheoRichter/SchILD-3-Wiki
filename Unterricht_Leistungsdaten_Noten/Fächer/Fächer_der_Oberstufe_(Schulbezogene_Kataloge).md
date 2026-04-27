@@ -57,7 +57,7 @@ sich der LK in Mathe und der LK in Physik gegenseitig. Zum anderen muss
 zusammen mit einem Deutsch LK auch ein Literatur GK belegt werden, bzw.
 wer Literatur belegen möchte, muss auch den Deutsch LK wählen.
 
-::: warning
+
 
 Bei den "Nicht möglichen Fächerkombinationen" und den
 "Fächerprofilen" ist zu beachten, dass in ihnen *so wenig wie möglich*
@@ -66,4 +66,3 @@ der APO GoST hinterlegt. Die beiden hier besprochenen Reiter erlauben es
 Schulen, *so knapp wie möglich* eine weitere Ausdifferenzierung in Bezug
 auf das spezifische Angebot vorzunehmen.
 
-:::

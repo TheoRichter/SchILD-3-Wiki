@@ -61,7 +61,7 @@ Berechtigungen gesetzt werden müssen.Werden einzelne Berechtigungen nicht ertei
 diese Benutzergruppe Datensätze, Schaltflächen, Funktionen oder
 Übersichten nicht angezeigt werden.Der Haken für die Admin-Gruppe setzt sofort alle Berechtigungen.
 
-::: warning
+
 
 Über SchILD-NRW lassen sich Benutzergruppen mit Rechten
 definieren und SchILD-Nutzern zuweisen. Hierüber lassen sich auch sehr
@@ -69,14 +69,14 @@ hohe Rechte vergeben. Achten Sie bitte darauf, dass Sie auch über
 Benutzergruppen nur Rechte an Nutzer vergeben, die diese benötigen und
 haben sollen!
 
-:::  
+  
 
 Der Button **Alle Lehrkräfte** übernehmen ermöglicht nach einer
 Bestätigung, dass für alle Lehrkräfte ein Benutzer angelegt wird,
 welcher die Berechtigungen der Benutzergruppe Lehrer erhält.Dabei wird als Passwort der Benutzername eingesetzt, sodass bei der
 ersten Anmeldung dieses Passwort durch ein neues ersetzt werden soll.
 
-::: warnin
+ warnin
 
 g
  Es empfiehlt sich nur dann Benutzer für das gesamte
@@ -85,4 +85,3 @@ und eine entsprechende Infrastruktur zum Zugriff im Haus vorliegt.
 Noten- und Fehlzeiteneintragungen können auch über ein externes Modul
 bearbeitet werden.
 
-:::

@@ -22,12 +22,12 @@ WIKILINK: Schülerdaten_verwalten
 
 WIKILINK: Tägliche_Arbeiten_mit_SchILD-NRW
 
-::: warning
+
 
 Viele Arbeitsschritte lassen sich automatisieren oder
 als Gruppenprozess durchführen.
 
-:::
+
 
 ## Orientierung – Was finde ich wo?
 
@@ -55,13 +55,13 @@ DEADLINK: Verwaltung - Verwaltung.md
 
 DEADLINK: Kataloge - Kataloge.md
 
-::: warning
+
 
 Viele Funktionen in SchILD-NRW 3 stehen erst zur
 Verfügung, wenn die zugehörigen Kataloge korrekt eingerichtet
 sind.
 
-:::
+
 
 ### Suchen, filtern und auswählen-   Schüler, Lehrkräfte oder Klassen gezielt auswählen
 -   Filter kombinieren und speichern

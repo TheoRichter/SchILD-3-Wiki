@@ -1,12 +1,12 @@
 # Installation SVWS-Server
 
-::: warning
+
 
 Die Versionen des SVWS-Servers und von SchILD-NRW 3
 müssen zusammenpassen. Kontrollieren Sie vor Beginn der Installation,
 dass Sie die korrekten Installer vorliegen haben.
 
-:::
+
 
 Der folgenden Artikel beinhaltet Hinweise zur Installation des
 
@@ -110,14 +110,14 @@ sich das Kennwort.Der Installer schlägt Ihnen bereits ein sehr sicheres Kennwor
 welches von einem Zufallsgenerator erzeugt wurde. Verwahren Sie dieses
 Kennwort an einem sichern Ort.
 
-::: warning
+
 
 **Sollte das Kennwort verloren gehen, ist kein
 Master-Zugriff mehr auf die Datenbank möglich! Der Zugriff kann in
 diesem Fall nicht wiederhergestellt werden!**Jede Person mit Kenntnis des root-Kennworts kann sich als Super-Admin an
 allen Datenbanken anmelden.
 
-:::
+
 
 Sie können zudem den Port für den Zugriff auf die MariaDB eingeben. Der
 

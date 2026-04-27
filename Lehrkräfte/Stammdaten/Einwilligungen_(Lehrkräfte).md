@@ -10,7 +10,7 @@ Nutzung von Lernplattformen verwaltet wird.
 Die Einträge werden über *Kataloge ➜ DSGVO-Einwilligungen*
 beziehungsweise *Kataloge ➜Lernplattformen* angelegt und bearbeitet.
 
-::: warning
+
 
 Sie können Einwilligungen für mehrere Lehrkräfte
 gleichzeitig erteilen, indem Sie die gewünschten Lehrkräfte markieren
@@ -18,4 +18,3 @@ und dann mit der rechten Maustaste auf eine der Lehrkräfte klicken. Sie
 gelangen so in das Kontextmenü, in welchem Sie Einwilligungen für die
 markierten Lehrkräfte setzen können.
 
-:::

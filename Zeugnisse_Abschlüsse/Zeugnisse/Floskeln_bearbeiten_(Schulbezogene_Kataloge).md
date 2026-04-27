@@ -28,7 +28,7 @@ unterteilt und gesteuert werden, welche Floskeln dort erscheinen.Floskeln der Ob
 Bemerkungsfeldern.Für die Bezeichnung können maximal vier Buchstaben/Ziffern verwendet
 werden. Das Feld "Bezeichnung" muss ebenfalls ausgefüllt sein.
 
-::: warnin
+ warnin
 
 g
  Wenn keine Obergruppe eingegeben ist, kann die
@@ -36,7 +36,7 @@ angelegte Floskelgruppe und alle darin angelegten Floskeln nur dann
 gefunden werden, wenn in den Zeugnis-Bemerkungsfeldern die Filterung
 ausgeestellt ist.
 
-:::
+
 
 ### FloskelnIn der Grundansicht des Katalogs "Floskeln bearbeiten" können über die
 Schaltflächen am oberen Rand neue Floskeln angelegt bzw. bestehende
@@ -46,7 +46,7 @@ wenn keine Eingabe erfolgt.Es empfiehlt sich aber, hier ein einfach zu merkendes
 einzustellen, da dieses bei der Eingabe der Zeugnisbemerkungen
 automatisch ersetzt werden kann.
 
-::: warnin
+ warnin
 
 g
  Damit Daten bei Änderung oder Neuanlage einer Floskel
@@ -54,7 +54,7 @@ g
 gewechselt werden oder die Haken-Schaltfläche am oberen Rand geklickt
 werden.
 
-:::
+
 
 ### PlatzhalterIn den Floskeln können drei Platzhalter verwendet werden, die dann vom
 Programm automatisch ersetzt werden. Diese Platzhalter müssen exakt so
@@ -94,12 +94,12 @@ ausgewählt.Natürlich kann auch jedes andere Verzeichnis auf dem Datenträger, 
 Serveradresse (bei entsprechender Berechtigung) oder einem externen
 Datenträger gewählt werden.
 
-::: warning
+
 
 Beachten Sie, die auf Zeugnissen verwendeten Floskeln
 endgültig auf der Schulkonferenz beschlossen werden.
 
-:::
+
 
 ## Verwendung von Floskeln
 
@@ -120,14 +120,14 @@ geändert werden. Zusätzlich kann für eine bessere Lesbarkeit z. B. auf
 Zeugnissen angewählt werden, dass Vornamen nicht mehrfach genannt
 werden.
 
-::: warnin
+ warnin
 
 g
  Die fachbezogene Leistungsentwicklung steht erst zur
 Verfügung, wenn sie unter Verwaltung ➜ Einstellungen ➜ Globale
 Einstellungen: Allgemeines ➜ Ansicht aktiviert wurde.
 
-:::
+
 
 Der Editor ermöglicht es außerdem, die Tastatureingabe automatisch auf
 
@@ -137,7 +137,7 @@ besonders dann an, wenn Floskeln häufig verwendet werden.Bei der fachbezogenen 
 Niveau vergeben werden. So können die Kategorien für den Zeugnisdruck
 bei Textzeugnissen aufgebaut werden.
 
-::: warnin
+ warnin
 
 g
  Sollen Floskeln zum Beispiel als Zeugnisbemerkungen für
@@ -147,4 +147,3 @@ entsprechende Gruppenprozess verwendet werden. Verwenden Sie
 *Gruppenprozesse ➜ Noten, Zeugnisvorbereitung* ➜ **Zeugnisbemerkungen
 eintragen**.
 
-:::

@@ -13,7 +13,7 @@ der rechten Seite des Feldes bedeuten, dass diese hier in der Übersicht
 lediglich nur gelesen werden können. Die Daten werden im Reiter
 *Aktuelles Halbjahr* gesetzt.
 
-::: warning
+
 
 Die statistisch relevanten Daten werden mit einem
 Sternchen hinter der Feldbezeichnung gekennzeichnet. Diese Felder müssen
@@ -22,7 +22,7 @@ korrekte Befüllung entlastet das jährliche Erstellen der Statistik. Hier
 wurden die Felder über die *Verwaltung ➜ Einstellungen* blau
 eingefärbt.
 
-:::
+
 
 ## BasisdatenIn diesem Bereich werden die grundsätzlichen Daten zur Person erfasst,
 wie der *Name*, *Vorname* und das *Geburtsdatum*.Über die drei "**...**" neben dem Feld *Name* kann ein Namenszusatz

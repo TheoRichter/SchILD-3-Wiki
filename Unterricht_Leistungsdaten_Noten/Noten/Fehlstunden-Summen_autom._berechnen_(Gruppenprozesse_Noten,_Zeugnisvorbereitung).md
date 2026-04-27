@@ -18,7 +18,7 @@ fachbezogen erfasst werden.
 Fächer, Noten* im Feld *Eingabemodus* für Fehlstundenerfassung in
 jeweils der Sek I und der Sek II gewählt.
 
-::: warning
+
 
 Achten Sie darauf, dass1.  eine erneute Ausführung des Gruppenprozesses alle individuell
     vorgenommenen Änderungen bei den Gesamtfehlstunden bei den gewählten
@@ -28,4 +28,3 @@ Achten Sie darauf, dass1.  eine erneute Ausführung des Gruppenprozesses alle in
     Zeugniskonferenzen und auf auf den Zeugnissen die korrekten
     Fehlstunden vorliegen zu haben.
 
-:::

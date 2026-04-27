@@ -19,7 +19,7 @@ Bildungsgängen zur Verfügung stehen und wie diese an die Statistik
     angezeigt, die unter "Verwaltung" ➜ "Schule" ➜ "Allgemeine Angaben"
     eingetragen sind.
 
-::: warning
+
 
 An Grundschulen kann es z.B. die Gliederung für kath.
 oder ev. Bekenntnisschulen oder die Gemeinschaftsschule geben, während
@@ -32,7 +32,7 @@ nicht sicher sind. An Berufskollegs müssen hier alle vorhandenen
 Bildungsgänge eingetragen werden, so dass für jeden Jahrgang in jeder
 Gliederung ein Statistikjahrgang zur Verfügung steht.
 
-:::
+
 
 -   **Gliederung (Kürzel)**: Hier steht ein dreistellige
 
@@ -44,14 +44,14 @@ s
 -   **Sek.-Stufe**: Hier werden die Jahrgänge der Primarstufe (Pr), der
     Sekundarstufe I oder der Sekundarstufe II zugeordnet.
 
-::: warning
+
 
 Bei der Sek-II sind in der gymnasialen Oberstufe und bei
 den BKs "SII-1" bis "SII-3" einzutragen, so dass SchILD bei Bedarf die
 Karteireiter "Abitur" und "FHR" einblenden kann. Alle weiteren Jahrgänge
 am BK werden mit SII-BK gekennzeichnet.
 
-:::
+
 
 -   **Restabschn.**: Dies sind die Abschnitte bis zum Abschluss de
 
@@ -64,14 +64,14 @@ r
     jedes Schuljahr jeweils zwei Halbjahre oder vier Quartale als
     Restabschnitte.
 
-::: warning
+
 
 Diese Spalte sollte ausgefüllt werden, denn mit diesen
 Angaben wird das Datum des voraussichtlichen Abschlusses berechnet. Im
 Nachhinein kann die Berechnung über einen Gruppenprozess angestoßen
 werden.
 
-:::
+
 
 -   **Folgejahrgang**: In dieser Spalte können Sie für jeden Jahrgan
 
@@ -83,14 +83,14 @@ g
     gewechselt werden muss, so können Sie diese Spalte verwenden. Bei
     Abschlussjahrgängen bleibt die Spalte leer.
 
-::: warning
+
 
 Wenn ein Folgejahrgang eingetragen ist, dann muss dies
 für alle bestehenden Jahrgänge gemacht werden. Sind alle Folgejahrgänge
 leer, richtet sich Schild-NRW nach der Klassen-/Versetzungstabelle.
 Diese Spalte ist also optional.
 
-:::
+
 
 -   **Chronol.**: Hier wird festgelegt, ob die Jahrgänge in eine
 

@@ -7,11 +7,10 @@ ausgegeben werden. Auch bei fehlenden Noten wird dieser Eintrag erzeugt.
 
 Das Protokoll kann *gedruckt* oder als Textdatei *gespeichert* werden.
 
-::: warning
+
 
 Beachten Sie, dass die automatischen Werkzeuge als
 Unterstützung ohne Gewähr zu verstehen sind. Die Schule mit ihren
 jeweils Verantwortlichen trägt die Verantwortung für die Korrektheit im
 Rahmen der geltenden Prüfungsordnung aller Ergebnisse.
 
-:::

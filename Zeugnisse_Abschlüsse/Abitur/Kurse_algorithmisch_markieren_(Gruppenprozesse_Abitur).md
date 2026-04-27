@@ -14,7 +14,7 @@ optimalere Variante zu wählen.Fallen bei der Überprüfung Belegungsfehler an, 
 Textdatei ausgebeben. Diese Datei kann ausgedruckt oder abgespeichert
 werden.
 
-::: warning
+
 
 Über die Gesamtqualifikation und damit über die
 Abiturzulassung entscheidet ausschließlich der zentrale Abiturausschuss
@@ -22,7 +22,7 @@ Abiturzulassung entscheidet ausschließlich der zentrale Abiturausschuss
 Beratung des ZAA.Der gleiche Vorschlagcharakter ist bei der Schnitt-Optimierung der
 einzubringenden Kurse anzunehmen.
 
-:::
+
 
 ![SchILD_Gruppenprozesse_Abitur_KurseAlgoMarkieren_Ergebnis_ReiterAbitur.png](../../graphics/SchILD_Gruppenprozesse_Abitur_KurseAlgoMarkieren_Ergebnis_ReiterAbitur.png)
 

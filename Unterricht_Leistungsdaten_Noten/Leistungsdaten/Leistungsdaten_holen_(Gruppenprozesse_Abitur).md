@@ -13,12 +13,12 @@ Verfügung stehen.
 
 ![SchILD_Gruppenprozesse_Abitur_LeistungsdatenHolen_2.png](../../graphics/SchILD_Gruppenprozesse_Abitur_LeistungsdatenHolen_2.png)
 
-::: warning
+
 
 Dort schon vorhandene Daten werden
 überschrieben.
 
-:::  ::: warning
+  
 
 Sollten nach Durchführung des Prozesses noch Änderungen
 der Daten bei einzelnen Schülern vorgenommen werden, so kann man die
@@ -26,4 +26,3 @@ Aktualisierung der Daten für einen einzelnen Schüler auch unter dem
 Karteireiter *Abitur* durch Klicken auf die Schaltfläche
 `Leistungsdaten holen` durchführen.
 
-:::

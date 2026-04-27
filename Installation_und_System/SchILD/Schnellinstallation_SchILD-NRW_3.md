@@ -1,6 +1,6 @@
 # Schnellinstallation SchILD-NRW 3
 
-::: warning
+
 
 **SchILD-NRW 3 und der SVWS-Servermüssen zusammen
 installiert werden.**
@@ -12,7 +12,7 @@ die korrekten Installer vorliegen haben.**
 Die Dokumentation des SVWS-Servers inklusive der Installation finden
 Sie auf <https://doku.svws-nrw.de>**.
 
-:::
+
 
 Der folgenden Artikel beinhaltet Hinweise zur Installation von
 

@@ -12,12 +12,12 @@ Jehovas Zeugen, Neuapostolische Kirche, Buddhisten und weitere. Dies hat
 den Vorteil, dass der Export der Schülerdaten zur Erstellung der
 Schulstatistik problemlos verläuft.
 
-::: warning
+
 
 Konsultieren Sie die jeweils aktuellen Hilfen zur
 Statistik von IT.NRW, wie Konfessionen zu erfassen sind.
 
-:::
+
 
 Sie sind in der Wahl der Konfessions- und auch der Zeugnisbezeichnung
 
@@ -29,7 +29,7 @@ Klammern gesetzt hinter dem Namen des Schülers ausgegeben.Eine benutzerdefinier
 Verschieben Sie hierzu mit Hilfe der Pfeile am linken Rand Ihre
 'Favoriten' nach vorne. (siehe Foto)
 
-::: warning
+
 
 Innerhalb Ihrer Schule sollten Sie sich einigen, welche
 Bezeichnungen Sie für die Konfessionen eintragen wollen:
@@ -41,4 +41,3 @@ die nicht gewünschten Bezeichnungen aus, indem sie diese auf
 **nicht-sichtbar** stellen. Die Verwendung von Suchfunktionen, wie zum
 Beispiel im Filter I, wird so deutlich effektiver.
 
-:::

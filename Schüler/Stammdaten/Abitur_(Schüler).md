@@ -5,14 +5,14 @@
 Wurden Schüler aus der Q-Phase ausgewählt, steht der Reiter **Abitur**
 unter *Schüler* zur Verfügung.
 
-::: warning
+
 
 Dieser Artikel ist eine Übersicht über den Reiter
 *Abitur*. Konsultieren Sie das Tutorial *Komplette Abiturberechnungen
 durchführen* für eine detaillierte Erklärung der Verwendung dieses
 Reiters beziehungsweise der zugehörigen Gruppenprozesse.
 
-:::
+
 
 Der Ablauf ist, dass-   zuerst über **Leistungsdaten holen** die Leistungsdaten gehol
 
@@ -49,19 +49,18 @@ stattfindet.Auf der linken Seite kann eine **Besondere Lernleistung** eingebrach
 werden. Hier wären *Art der Arbeit* (*Projektkurs* oder *externe
 Arbeit*) sowie deren *Titel* und die *Note* einzugeben.
 
-::: warning
+
 
 Beachten Sie, dass ein Klick auf *Leistungsdaten holen*
 oder *Zulassung berechnen* alle schon später gemachten Eingaben zu den
 Prüfungen ohne weitere Warnung löscht.
 
-:::
 
-::: warning
+
+
 
 Die algorithmische Markierung von Kursen und die
 Berechnung von Zulassung und Abiturergebnis ist als reine Unterstützung
 ohne Gewähr zu verstehen. Die Gewähr der Korrektheit der Ergebnisse
 entsprechend der geltenden Vorgaben obliegt der Schule.
 
-:::

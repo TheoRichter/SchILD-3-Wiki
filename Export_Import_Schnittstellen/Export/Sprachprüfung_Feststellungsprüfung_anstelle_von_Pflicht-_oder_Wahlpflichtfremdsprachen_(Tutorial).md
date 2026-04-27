@@ -174,13 +174,13 @@ Einträge sollen auch als Beispiel verstanden werden.-   **ASD-Bezeichnung**: SR
     Abschlussjahrgang stattfinden, sollte der Haken bei *Abgeschlossene
     Fächer holen* gesetzt werden.Legen Sie das Fach mit dem Haken in der Kopfzeile über den Fächern an.
 
-::: warning
+
 
 Nach Anlegen des Faches sollte SchILD-NRW neu gestartet
 werden, damit die Kataloge vollständig neu eingelesen
 werden.
 
-:::  
+  
 
 ### SprachenfolgeTragen Sie das Fach in die Sprachenfolge auf dem Reiter *Schüler* ➜
 **Laufbahninfo** unter **Sprachprüfungen - Feststellungsprüfungen** ein.Fügen Sie die Prüfung mit einem **+** hinzu und wählen Sie

@@ -1,6 +1,6 @@
 # Abschnittsdaten löschen (Gruppenprozesse Lernabschnitte, Versetzung)
 
-::: warning
+
 
 **
 
@@ -13,7 +13,7 @@ D.h.: Löschen Sie jahrgangsweise oder sogar über mehrere Jahrgänge
 hinweg, müssen die Schüler einzeln den Klassen neu zugeordnet
 werden!
 
-:::
+
 
 ![SchILD_Gruppenprozesse_AbschnittsdatenLoeschen.png](../../graphics/SchILD_Gruppenprozesse_AbschnittsdatenLoeschen.png)
 
@@ -22,9 +22,8 @@ löschenden Abschnitt* ausgewählt werden.Klicken auf `OK` bewirkt dann, dass be
 Schülern der gesamte Inhalt dieses Abschnittes, inklusive aller
 Leistungsdaten wie Fächerzuordnungen mit ihren Noten, gelöscht wird.
 
-::: warning
+
 
 Wie bei allen anderen Löschoperationen auch sollte zuvor
 eine Datensicherung durchgeführt werden.
 
-:::

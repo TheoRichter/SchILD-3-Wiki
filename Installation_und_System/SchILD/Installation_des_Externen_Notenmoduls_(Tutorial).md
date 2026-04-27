@@ -5,7 +5,7 @@ Download zur Verfügung. Laden Sie es über
 <https://github.com/SVWS-NRW/ExternesNotenmodul/releases> herunter.Sofern es nicht mehr im Beta-Stadium ist, wird es über www.svws.nrw.de
 angeboten werden.
 
-::: warnin
+ warnin
 
 g
  Bei dem externen Notenmodul handelt es sich um ein
@@ -13,7 +13,7 @@ Programm ausschließlich für **MS Windows**, das installiert wird.Eine Lösung,
 **WebNotenManager** angeboten werden.Bitte verteilen Sie das Notenmodul direkt über Ihre Schule und verlinken
 Sie nicht auf für alle Lehrkräfte auf die Seite des MSB.
 
-:::
+
 
 Das Programm wird nicht im SchILD-NRW-3-Verzeichnis, sondern in ein
 
@@ -21,14 +21,14 @@ eigenes Verzeichnis installiert. In diesem gibt es auch das eigenen
 ENM3-Arbeitsverzeichnis, in dem die Notendaten abgelegt werden.Wählen Sie das Installationsverzeichnis, per Standard wird der Desktop
 vorgeschlagen.
 
-::: warning
+
 
 Installieren Sie das ENM3 in der Schule, beachten Sie,
 dass die Nutzer im Installationsverzeichnis von SchILD-NRW-3 keine
 Schreibrechte mehr haben. Überlegen Sie, ob Sie das ENM3 in Ihr
 SVWS-Arbeitsverzeichnis installieren möchten.
 
-:::
+
 
 # InstallationSie können die ausführbare Datei fest auf ihrem System installieren oder
 
@@ -37,13 +37,13 @@ werden bei Ihnen also eventuell nicht angezeigt. Achten Sie hier auf die
 Icons: Ist das Icon ein kleiner Reißverschluss an einem Ordner-Symbol,
 dann haben Sie es mit der gepackten .zip-Datei zu tun.
 
-::: warning
+
 
 Nach Möglichkeit sollten Schulen die .zip-Datei
 verteilen, da die Installation auf MS Windows-Systemen einfacher ist und
 keine erhöhten Benutzerrechte benötigt.
 
-:::
+
 
 ## Entpacken der .zip
 
@@ -110,14 +110,14 @@ Geben Sie nun den **Pfad der Installation** ein. Hier wird ein
 Verzeichnis gewählt, bei dem das Notenmodul alphabetisch direkt unter
 dem Verzeichnis für SchILD-NRW-3 anzeigt wird.Wählen Sie einen Pfad, der für Sie Sinn macht.
 
-::: warning
+
 
 Installieren Sie in der Schulumgebung, denken Sie daran,
 dass Nutzer im SchILD-NRW-3-Verzeichnis selbst keine Schreibrechte haben
 und dass im Notenmodul-Verzeichnis das ENM3-Arbeitsverzeichnis genutzt
 werden muss.
 
-:::
+
 
 Klicken Sie dann auf `Weiter`
 

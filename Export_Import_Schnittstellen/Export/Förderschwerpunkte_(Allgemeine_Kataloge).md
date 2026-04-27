@@ -14,7 +14,7 @@ Förderschwerpunkte werden dann unter dem Karteireiter *Schüler ➜
 Aktuelles Halbjahr* bei *Allgemeine Angaben* eingetragen.Zuerst steht der Hauptförderschwerpunkt, dann folgt eventuell noch ein
 weiterer Förderschwerpunkt.
 
-::: warning
+
 
 Beachten Sie hierzu die Schlüsseltabellen von IT.NRW in
 Bezug auf zulässige Einträge als Hauptförderschwerpunkt und auf
@@ -22,11 +22,11 @@ zulässige Kombinationen. Sie finden die Schlüsseltabellen auf der
 Downloadseite des Ministeriums für Schulverwaltungssoftware zur
 Statistik.
 
-:::
+
 
 ![Schueler_Akt.Halbjahr_AllgemeineAngaben.png](../../graphics/Schueler_Akt.Halbjahr_AllgemeineAngaben.png)
 
-::: warning
+
 
 Alle Schülerinnen und Schüler, die ein AO-SF-Verfahren
 durchlaufen haben und dies dann genehmigt wurde, bekommen einen Haken
@@ -36,7 +36,7 @@ diese Schüler dann nicht mehr nach dem Bildungsgang der jeweiligen
 Schulform unterrichtet werden, sondern eben nach dem Bildungsgang
 *Lernen* oder *Geistige Entwicklung*.
 
-:::  
+  
 
 ![Individual-Daten_II_aktuelle_Foerderung.png](../../graphics/Individual-Daten_II_aktuelle_Foerderung.png)
 

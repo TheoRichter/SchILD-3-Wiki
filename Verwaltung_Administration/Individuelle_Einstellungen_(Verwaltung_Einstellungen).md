@@ -100,7 +100,7 @@ eventuell nützlich sein, weitere Felder zu aktivieren.Standardmäßig sind *Nam
 
 ![SchILD_Einstellungen_GlobaleEinstellungen_Schnellzugriff_Ausschnitt.png](../graphics/SchILD_Einstellungen_GlobaleEinstellungen_Schnellzugriff_Ausschnitt.png)
 
-::: warning
+
 
 Diese Einstellung wird nicht in den Individuelle
 Einstellungen vorgenommen:Nachdem Sie in *Verwaltung ➜ Einstellungen* ➜ **Reporteinstellungen**
@@ -108,7 +108,7 @@ den Report-Schnellzugriff grundsätzlich aktiviert haben, kann in den
 **Individuelle Einstellungen** für den jeweiligen Nutzer der
 Schnellzugriff mit Reports befüllt werden.
 
-:::  
+  
 
 ![SchILD_Einstellungen_IndividuelleEinstellungen_Schnellzugriff_Reiter.png](../graphics/SchILD_Einstellungen_IndividuelleEinstellungen_Schnellzugriff_Reiter.png)
 

@@ -2,14 +2,14 @@
 
 ![SchILD_Gruppenprozesse_Abitur_Freischalten.png](../../graphics/SchILD_Gruppenprozesse_Abitur_Freischalten.png)
 
-::: warning
+
 
 Wurde über den Filter nur der **Jahrgang Q2** im
 Schülercontainer ausgewählt, stehen unter *Gruppenprozesse* nun über die
 Schaltfläche *Abitur* die Prozesse zum Abitur zur
 Verfügung.
 
-:::
+
 
 -   Leistungsdaten holen
 

@@ -2,14 +2,14 @@
 mit dem eine zuvor angelegte Sicherung der Datenbank wieder eingelesen
 werden kann.
 
-::: warning
+
 
 **Hierbei wird die aktuelle Datenbank überschrieben.**Beachten Sie weiterhin, dass sich alle anderen Nutzer in SchILD-NRW
 abmelden müssen. Bitten Sie andere Nutzer Ihr SchILD-NRW zu schließen.
 Sie finden aktuell angemeldete Benutzer über *Verwaltung ➜ Benutzer ➜
 Aktuelle Datenbanknutzer zeigen*.
 
-:::
+
 
 Um diese Funktion anzustoßen, ist lediglich in SchILD-NRW-Administrator
 
@@ -32,7 +32,7 @@ SchILD-NRW mit einem Klick auf `OK` geschlossen wird.
 Die Sicherung wird nun vom Datenbankserver eingelesen... bitte warten
 Sie einen Moment.
 
-::: warning
+
 
 **Technische Hintergrundinformation:** Bei den
 Funktionen *Datenbank sichern* und *Datenbank wiederherstellen* handelt
@@ -41,4 +41,3 @@ Datenbankdump. Daher kann der Prozess auch ein paar Minuten dauern,
 anstatt wie bei einem reinen DB-Dump in Sekunden abzulaufen. Haben Sie
 einen Moment Geduld.
 
-:::

@@ -16,7 +16,7 @@ PLZ, Ort, Schulnummer oder benutzerdefiniert).Klickt man auf das Plus **+**, wir
 angezeigt, aus der man weitere gewünschte Schule übernehmen kann. Man
 kann an dieser Stelle nach Schulnummer, Name, Ort oder PLZ filtern.
 
-::: warning
+
 
 Beim Nutzen dieser Filterbedingung und nach Eingabe
 eines Ortes, Schulnummer o.ä. bitte nicht unten auf den Button
@@ -24,4 +24,3 @@ eines Ortes, Schulnummer o.ä. bitte nicht unten auf den Button
 Eingabefeldern. Danach die Schule auswählen und dann mit *Übernehmen*
 dem Katalog hinzufügen.
 
-:::

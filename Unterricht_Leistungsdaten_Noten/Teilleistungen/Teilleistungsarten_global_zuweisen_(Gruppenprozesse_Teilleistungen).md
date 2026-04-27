@@ -14,7 +14,7 @@ hinzugefügt.Im Beispiel hier wird also die Teilleistungsart "KA 3" (für
 "Klassenarbeit 3") auch bei mündlichen Fächern mit angelegt. Eine
 hinzugefügte Teilleistung muss nicht ausgefüllt werden.
 
-::: warning
+
 
 Berücksichtigen Sie, dass bei diesem Gruppenprozess
 nicht nach Fächern oder Kursarten unterschieden wird, es wird jedem Fach
@@ -22,4 +22,3 @@ in den Leistungsdaten der Schüler die entsprechende Teilleistungsart
 zugewiesen. Die Teilleistungen lassen sich global nicht so einfach
 wieder entfernen.
 
-:::

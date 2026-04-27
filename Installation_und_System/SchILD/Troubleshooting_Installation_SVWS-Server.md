@@ -24,13 +24,13 @@ DEADLINK: Batch-Datei - Medium:Delete_SVWS-Server_and_SchILD-NRW_3.zip.md
 
 aus. Klären Sie den Bedarf durch einen Blick in die Batch-Datei.
 
-::: warning
+
 
 Sollte der Server schon einmal im Produktiveinsatz
 gelaufen sein, stellen Sie vor dem Löschen sicher, dass die Datenbank
 als Sicherung vorliegt.
 
-:::
+
 
 ## Migration schlägt fehl, danach startet der SVWS-Server nichtNach einer fehlgeschlagenen Migration kann es dazu kommen, dass der
 Server nicht mehr startet.In diesem Fall kann das Schema manuell aus der *svwsconfig.json*

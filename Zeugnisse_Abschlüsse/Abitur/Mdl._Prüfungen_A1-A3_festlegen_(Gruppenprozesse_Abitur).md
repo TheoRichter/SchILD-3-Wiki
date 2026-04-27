@@ -10,12 +10,12 @@ und sofern das Abitur noch nicht bestanden wurden, werden die drei
 möglichen mündlichen Prüfungen angehakt. Es wird ein Protokoll
 angezeigt, welche Schüler verarbeitet wurden.
 
-::: warning
+
 
 Eventuell schon vorgenommene Einstellungen zu mündlichen
 Prüfungen werden hierbei überschrieben.
 
-:::
+
 
 Es ist nun noch von Hand die Reihenfolge der Prüfungen zu setzen, die
 

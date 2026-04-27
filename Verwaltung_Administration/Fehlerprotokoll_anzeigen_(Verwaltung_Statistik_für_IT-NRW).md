@@ -9,12 +9,12 @@ Fehlerprotokoll in Form einer PDF-Datei erfolgreich im Ordner
 *Statistik* des Schild-NRW-Arbeitsverzeichnis gespeichert, kann man es
 sich über diesen Menüpunkt anzeigen lassen.
 
-::: warning
+
 
 Bitte beachten Sie, dass dafür ein Programm zum Anzeigen
 von PDF-Dateien auf dem Rechner installiert sein muss.
 
-:::
+
 
 In diesem Protokoll werden die Schüler mit den Fehler spezifizierenden
 
@@ -37,7 +37,7 @@ den dazugehörigen Fehlern anzeigen lassen.
 Bitte beachten Sie, dass diese Fehlerprüfung nur ein erster Schritt sein
 kann, grobe Fehler zu finden, die in SchILD-NRW auffallen können.
 
-::: warning
+
 
 Eine komplette Plausibilitätsprüfung, wie in ASDPC32,
 ist hier nicht möglich, da die Daten in ASDPC zusätzlich zueinander in
@@ -46,4 +46,3 @@ Eventuell sind auch nicht alle in SchILD-NRW gefundenen Fehler für die
 Erstellung der jeweils individuellen Statistik relevant.Es kann sich in Ihrem individuellen Fall lohnen, die Exportdateien trotz
 einiger Fehler zu erstellen.
 
-:::

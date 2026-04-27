@@ -1,12 +1,12 @@
 # Installation von SchILD-NRW
 
-::: warning
+
 
 Um eine funktionierende Umgebung für SchILD 3 zu
 installieren, müssen sowohl der SVWS-Server als auch der SchILD-3-Client
 installiert werden.
 
-:::
+
 
 **Eine Übersicht, wie der SVWS-Server und SchILD 3 zusammenspielen:**  
 
@@ -41,21 +41,21 @@ möchten. Hier in diesem Beispiel wird SchILD auf Laufwerk D installiert.
 In diesem Verzeichnis werden sich später ausschließlich die
 Programmdateien für SchILD befinden.
 
-::: warning
+
 
 Daher besteht kein Grund, reinen Nutzern Schreibrechte
 auf diesem Pfad zu geben.
 
-:::
 
-::: warning
+
+
 
 Sollten Sie planen, SchILD in einer Netzwerkumgebung als
 reine Serverinstallation zu nutzen, muss dieser Pfad dann von den
 Klienten im Netzwerk erreichbar sein. Kontaktieren Sie hier bei
 Nachfragen Ihre Netzwerkadministration.
 
-:::  
+  
 
 ![SchILD_Installation_4.png](../../graphics/SchILD_Installation_4.png)
 
@@ -63,12 +63,12 @@ Nachfragen Ihre Netzwerkadministration.
 Verzeichnis werden alle Dateien abgelegt, die in Tagesgeschäft
 geschrieben werden müssen. Zum Beispiel finden sich hier die Reports.
 
-::: warning
+
 
 Auf diesem Verzeichnis benötigen die Nutzer
 Schreibrechte.
 
-:::  
+  
 
 ![SchILD_Installation_5.png](../../graphics/SchILD_Installation_5.png)
 
@@ -106,7 +106,7 @@ gibt hier drei Möglichkeiten:-   SchILD kann zusammen mit dem SVWS-Server auf e
     werden.Weiterhin kann über einen Expertenmodus die manuelle Einstellung vieler
 Optionen vorgenommen werden.
 
-::: warning
+
 
 Führen Sie die Migration einer bislang verwendeten
 SchILD-2-Datenbank schon bei der Installation des SVWS-Servers aus
@@ -114,7 +114,7 @@ beziehungsweise erstellen Sie bei der Installation des SVWS-Servers ein
 neues Datenbank-Schema. Dieses nun existierende Schema wird dann bei der
 folgenden Installation von SchILD 3 ausgewählt.
 
-:::  
+  
 
 ### Installation auf einem Einzelplatzrechner
 
@@ -127,12 +127,12 @@ verwendenden Datenbank, gewählt werden. Bei der Installation des
 SVWS-Servers wurde der Standard beibehalten, daher lautet der Name hier
 "svwsdb".
 
-::: warning
+
 
 Bei einer lokalen Installation wird über den lokalen
 Rechner auf die Datenbank zugegriffen, den "localhost".
 
-:::
+
 
 Weiterhin können Name und Ort der Konfigurationsdatei angegeben werden.
 
@@ -167,25 +167,25 @@ in Ihrem Netzwerk erreichbar ist. Weiterhin müssen Sie hier auch
 Nutzernamen und Passwort für den SVWS-Server angeben. Diese wurden bei
 dessen Installation gesetzt.
 
-::: warning
+
 
 Auf das SchILD-Programmverzeichnis reichen für Nutzer
 Leserechte aus. In das SVWS-Arbeitsverzeichnis muss auch geschrieben
 werden können.
 
-:::  
+  
 
 ![SchILD_Installation_2.png](../../graphics/SchILD_Installation_2.png)
 
 2
 
-::: warning
+
 
 Um SchILD einfacher zu starten kann eine Verknüpfung auf
 dem Desktop eines Nutzers angelegt werden, welche auf das Programm im
 Netzwerkpfad verweist.
 
-:::
+
 
 Hierzu muss mit der rechten Maustaste auf das Programm geklickt werden,
 
@@ -197,13 +197,13 @@ dann kann "Kopieren" gewählt werden.
 Nutzers mit "Verknüpfung einfügen" eine anklickbare Verknüpfung erzeugt
 werden.
 
-::: warning
+
 
 Klicken Sie nicht auf "Einfügen", dies fügt eine Kopie
 des Programms ein und führt nicht zu einer funktionierenden
 Verknüpfung.
 
-:::  
+  
 
 ### UpdateWurde SchILD einmal auf einem Rechner installiert, kann ein Update durch
 ein Anklicken eines aktuellen Installationsprogramms gestartet werden.

@@ -42,12 +42,12 @@ Wiedervorlage* ➜ **Wiedervorlage bei Programmstart prüfen** gesetzt,
 geschieht genau dies und Wiedervorlagen mit verstrichenem Datum werden
 angezeigt.Stellen Sie auch die Verfallszeiten für Wiedervorlagen ein.
 
-::: warning
+
 
 Denken Sie daran, dass Wiedervorlagen über Schulferien
 verfallen können.
 
-:::
+
 
 ## Fehlerhafte Eingabe abbrechen
 

@@ -41,24 +41,24 @@ SchILD-NRW aus erzeugen und wieder einlesen.
 Die Backups lassen sich auch in anderen SchILD-NRW-Installationen
 einlesen.
 
-::: warning
+
 
 Technisch gesehen handelt es sich hierbei um
 Datenbank-Migrationen.
 
-:::
+
 
 ### Kein Master-ZugangEs gibt in SchILD-NRW 3 keinen Master-Zugang, eine sogenannte
 "Backdoor", zu Datenbanken oder zu SchILD-NRW. Dieses Konzept ist nicht
 mehr zeitgemäß.
 
-::: warning
+
 
 Achten Sie daher bitte auf Ihre Kennwörter. Nehmen Sie
 hierzu den Bereich zu den Nutzerarten in den FAQ zur
 Kenntnis.
 
-:::
+
 
 ### Klare Trennung der OrdnerIm SchILD-NRW3-Installationsverzeichnis ist keinerlei Nutzertätigkeit
 mehr vorgesehen. In diesem Verzeichnis schreibt einzig der
@@ -86,7 +86,7 @@ kann es zu Problemen mit SchILD-NRW3 führen. Dies gilt besonders, wenn
 eigene Datenquellen definiert wurden.Grundsätzlich sind die Reports von SchILD-NRW 2 mit SchILD-NRW3
 kompatibel und können verwendet werden.
 
-::: warning
+
 
 **Kompatibilität von SchILD-NRW 2 und SchILD-NRW 3:**1.  Wenn Sie einen Report aus SchILD-NRW 2 weiterverwenden möchten, ist
     dies grundsätzlich möglich. Es kann in manchen Fällen aus
@@ -108,9 +108,9 @@ kompatibel und können verwendet werden.
     umsetzen.
 4.  Beachten Sie hier den folgenden Tipp.
 
-:::
 
-::: warning
+
+
 
 Für SchILD-NRW 3 wurde die Basisreportsammlung und die
 Reports für unterschiedliche Schulformen/Abteilungen vollständig
@@ -121,7 +121,7 @@ SchILD-NRW 3 sich auch so viel wie möglich in der neuen Reportsammlung
 zu orientieren und gegebenenfalls Arbeitsprozesse umzustellen.Beachten Sie bei neuen Downloads der Basisreportsammlung, dass
 mittlerweile eine Version für SchILD-NRW-3 angeboten wird.
 
-:::
+
 
 ### Datenquellen im ReportingGrundsätzlich funktionieren die Datenquellen im Reporting wie in
 SchILD-NRW-2. Es gibt unter Umständen an einigen Stellen leichte
@@ -136,7 +136,7 @@ Die Daten zum aktuellen Halbjahr der Schüler werden nicht mehr doppelt
 im *aktuellen Halbjahr* (Lernabschnitt) und in den *Individualdaten I*
 gespeichert, sondern nur noch im aktuellen Halbjahr.
 
-::: warning
+
 
 Wenn also das aktuelle Halbjahr bei einem Schüler
 gelöscht wird, sind die aktuellen Informationen zu Klasse, Jahrgang,
@@ -144,7 +144,7 @@ Prüfungsordnung usw. beim Schüler nicht mehr vorhanden und müssen
 anderweitig neu eingetragen beziehungsweise wiederhergestellt
 werden.
 
-:::
+
 
 Entsprechend sind die Anzeigen in den Individualdaten I und II der Daten
 
@@ -181,15 +181,15 @@ Einstellungen* im Bereich *Ansicht* den Haken bei **Quartalsnoten
 zeigen** setzen.Dann wird in den Schüler-Leistungsdaten des *Aktuellen Lernabschnitts*
 einen weitere Spalte für *Quartalsnoten* anzeigt.
 
-::: warning
+
 
 Nutzen Sie alternativ oder zusätzlich *Teilleistungen*,
 um Elternsprechtagsnoten, Aufschlüssellungen in mündlich/schriftlich
 usw. zu erfassen.
 
-:::
 
-::: warning
+
+
 
 Bei der Migration einer Schule im Quartalsbetrieb werden
 die Noten der Quartale automatisch in die Spalte des zugehörigen
@@ -198,7 +198,7 @@ Halbjahres eingetragen.
 Die Migration einer Datenbank mit Quartalen dauert einige (!) Zeit
 länger als eine normale Migration.
 
-:::
+
 
 ### Ergebnisse der Versetzungs- und Abschlussberechnungen
 
@@ -241,26 +241,26 @@ Druckausgabe angestoßen, sondern wird über *Verwaltung ➜ Export* ➜
 die zum Export gewählten Felder als Word-Serienbriefdruck-Felder zur
 Verfügung.
 
-::: warning
+
 
 Nehmen Sie an dieser Stelle bitte unbedingt die komplett
 überarbeiteten **Basisreports** und die neue **Serienbriefsammlung** zur
 Kenntnis! Arbeiten Sie so viel wie möglich mit den neuen
 Standardreports.
 
-:::
+
 
 ### Neuer Gruppenprozess "Alle Vornamen anpassen"Durch den Gruppenprozess Alle Vornamen anpassen kann eine Korrektur für
 den Feldeintrag "Alle Vornamen" vorgenommen werden.Durch diesen Prozess wird der Rufname in das Feld "Alle Vornamen"
 übertragen, sofern das Feld "Alle Vornamen" nicht leer ist und der
 Rufname dort noch nicht vorhanden ist.
 
-::: warning
+
 
 Dieser ist besonders vor einer Migration
 interessant.
 
-:::
+
 
 ![SchILD_Gruppenprozesse_Individualdaten_Lernabschnitte.png](../../graphics/SchILD_Gruppenprozesse_Individualdaten_Lernabschnitte.png)
 

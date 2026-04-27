@@ -10,13 +10,13 @@ Schüler-Hauptbildschirm befinden.So können Sie unter **Individualdaten I** all
 verändern, die dort auch beim Schüler oder der Schülerin zur Verfügung
 stehen.
 
-::: warning
+
 
 Lernabschnittsdaten, inklusive der *Versetzungsvermerke*
 werden in SchILD-NRW3 über den Reiter *Lernabschnitte* in diesem
 Gruppenprozess bearbeitet.
 
-:::  
+  
 
 ![GP_Vermerk_eintragen.jpg](../../graphics/GP_Vermerk_eintragen.jpg)
 
@@ -44,7 +44,7 @@ werden.
 Angaben und Daten zu den einzelnen **Lernabschnitten** lassen sich auf
 dem entsprechenden Reiter auch für zurückliegende Jahre eintragen.
 
-::: warning
+
 
 Bitte beachten Sie, dass alle eingetragenen Werte auch
 bei *allen* Schüler\*innen, die sich in der Auswahl im Container
@@ -52,4 +52,3 @@ befinden, geändert werden.Eine gruppenweise Änderung der Individualdaten läss
 rückgängig machen! Sie sollten also vor größeren Arbeiten innhalten und
 nachdenken und im Zweifel eine Datensicherung anlegen.
 
-:::

@@ -28,7 +28,7 @@ Abschnitt eines ausgewählten Schülers durch Klick auf das **+** beim
 entsprechenden **Fach** im Reiter *Schüler ➜ Aktueller Abschnitt* ➜
 **Leistungsdaten**.
 
-::: warning
+
 
 Die Teilleistungen können in SchILD-NRW selbst nur
 funktionsbezogen eingegeben werden, das bedeutet, der SchILD-Benutzer
@@ -39,4 +39,3 @@ Schülerschaft auch über entsprechende Schnittstellen-Tools wie das
 externe Notenmodul oder SchILDweb erfasst und später in SchILD-NRW
 importiert werden.
 
-:::

@@ -22,10 +22,9 @@ Gruppenprozess mit einem Klick auf `Ankreuzkompetenzen eintragen`.Nun können di
 **Kompetenzen für Ankreuzzeugnisse** angehakt werden und über einen
 geeigneten Report gedruckt werden.
 
-::: warning
+
 
 Beachten Sie, dass Ankreuzkompetenzen über die
 entsprechenden Fach- und Schulkonferenzen festgelegt
 werden.
 
-:::

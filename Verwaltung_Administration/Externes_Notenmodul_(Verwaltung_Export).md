@@ -20,7 +20,7 @@ versenden.
 Im Anschluss an die Passwortgeneration wird eine Liste der Zugänge
 angezeigt.Existierende Kennwörter wurden überschrieben.
 
-::: warning
+
 
 Zu einem späteren Zeitpunkt können die Initialkennworte
 über **Verwaltung ➜ Export ➜ Lehrkräfte** mittels Anwahl des Feldes
@@ -29,7 +29,7 @@ Lehrkräfte das Kennwort geändert, ist das Kennwort nicht
 wiederherstellbar. In diesem Falle muss ein neues mit neuer Notendatei
 generiert werden.
 
-:::
+
 
 ## Notendateien exportieren
 
@@ -51,11 +51,10 @@ hierzu aktivieren und unter **E-Mail Text** wird der in der Email
 verwendete Text definiert.Schlussendlich ist ein **Exportverzeichnis** zu wählen.Klicken Sie auf `Export starten`, um die Dateien in das gewählte
 Verzeichnis zu schreiben.
 
-::: warning
+
 
 Eine Auswahl nach zu exportierenden Jahrgängen ist
 derzeit nicht möglich.Nehmen Sie hier sowohl die Artikel zum *Import der Notendateien* als
 auch das *Tutorial zum Externen Notenmodul 3* zur
 Kenntnis.
 
-:::

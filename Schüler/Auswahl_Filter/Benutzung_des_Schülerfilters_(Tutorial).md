@@ -49,7 +49,7 @@ denen der Reiter in SchILD-NRW:-   Bei den Listenfeldern der **Individualdaten I
 
 ![Auswahl_Filter_I_2.png](../../graphics/Auswahl_Filter_I_2.png)
 
-::: warning
+
 
 Wenn ein roter Pfeil wie in der Abbildung links zu sehen
 ist, kann man eine Mehrfachauswahl treffen. Nach jedem Auswählen eines
@@ -58,7 +58,7 @@ Durch das Klicken der rechten Maustaste kann man den Befehl *Eintrag
 löschen* wählen und somit einzelne ausgewählte Punkte wieder
 entfernen.
 
-:::  
+  
 
 ![Auswahl_Filter_I_4.png](../../graphics/Auswahl_Filter_I_4.png)
 

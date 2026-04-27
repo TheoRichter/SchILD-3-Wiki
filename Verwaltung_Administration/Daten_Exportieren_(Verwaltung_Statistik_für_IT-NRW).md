@@ -1,14 +1,14 @@
 # Daten Exportieren (Verwaltung Statistik für IT-NRW)Im Folgenden werden die Schritte beschrieben, welche die vier benötigten
 Exportdateien für ASDPC32 erstellen.
 
-::: warning
+
 
 Es ist sehr empfehlenswert, vor dem Export die
 *Gesamtprüfung der Daten* durchzuführen und alle für die Statistik
 relevanten von SchILD-NRW gefunden Fehler vor dem Export zu
 bereinigen.
 
-:::
+
 
 ![SchILD_Verwaltung_Statistikexport.png](../graphics/SchILD_Verwaltung_Statistikexport.png)
 
@@ -28,12 +28,12 @@ benötigt.
 Export gelangen.Wählen Sie nun einen Speicherort für die zu erzeugende Datei, hier im
 Beispiel wird die SIM.txt mit den Schülerdaten erzeugt.
 
-::: warning
+
 
 Benennen Sie die Dateien nicht um, obwohl dies hier
 möglich wäre.
 
-:::
+
 
 Klicken Sie dann auf `Speichern`
 

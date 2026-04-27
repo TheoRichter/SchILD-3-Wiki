@@ -14,7 +14,7 @@ das Merkmal **erhält Anschreiben** für diese Person(en).Letzterer Schalter ste
 Reporting beziehungsweise beim Export in externe
 Textverarbeitungsprogramme erzeugt werden.
 
-::: warning
+
 
 Hier ist zu beachten, dass jeder Eintrag zu *Art* zwei
 Personen enthalten kann. In der Regel werden hier also Mutter und Vater
@@ -22,7 +22,7 @@ erfasst. Sollte nur eine Person erfasst sein, beachten Sie bitte, diese
 als die *1. Person* eingetragen wird, da ansonsten Adressbereiche in
 Reports falsch formatiert sein können.
 
-:::
+
 
 ## Detaildaten
 
@@ -43,9 +43,8 @@ und eine *Bemerkung*.
 Die hier zur Verfügung stehenden *Telefonarten* werden ebenfalls über
 den entsprechenden *Katalog* eingestellt.
 
-::: warning
+
 
 Gesperrte Telefonnummern werden in der
 Telefon-Datenquelle für Reports nicht berücksichtigt.
 
-:::

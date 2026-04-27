@@ -28,11 +28,10 @@ abgelegten Dokumente direkt aufrufen.Mit der `Rechten Maustaste` kann das üblic
 geöffnet werden. So lässt sich zum Beispiel auch ein eigenes
 Explorer-Fenster öffnen.
 
-::: warning
+
 
 Wird die den Datenschutz unterstützende Funktion *auf
 Löschfristen prüfen* mit der Löschfunktion genutzt, wird die
 Dokumentenablage nach derzeitigem Stand der Vorschriften nach einer
 Frist von 10 Jahren gelöscht.
 
-:::

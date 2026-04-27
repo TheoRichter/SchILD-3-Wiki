@@ -48,7 +48,7 @@ ausgewählte Klasse" bearbeitet werden. Hier in der Tabelle kann die
 -   Unter **Klassenleitung** können Lehrkräfte mittels der in SchILD
     üblicherweise verwendeten Liste hinzugefügt und entfernt werden.
 
-::: warning
+
 -   Wurden Veränderungen bei einer Klasse durchgeführt, können dies
 
 e
@@ -57,4 +57,3 @@ e
 -   Sind einer Klasse noch Schüler zugeordnet, kann die Klasse nicht
     gelöscht werden.
 
-:::

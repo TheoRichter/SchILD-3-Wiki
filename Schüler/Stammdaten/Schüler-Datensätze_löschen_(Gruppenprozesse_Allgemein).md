@@ -22,10 +22,9 @@ den Vorgang noch ab.
 Die Löschaktion wird durchgeführt und die Schüler sind dauerhaft aus der
 Datenbank entfernt.
 
-::: warning
+
 
 Die automatische jährliche Prüfung, ob *Löschfristen*
 abgelaufen sind, prüft und leert gegebenenfalls auch den
 Papierkorb.
 
-:::

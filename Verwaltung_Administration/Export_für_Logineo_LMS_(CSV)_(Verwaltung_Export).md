@@ -11,13 +11,13 @@ geplant ist.Abschließend ist festzulegen, ob die **Schüler-** und/oder die
 **Lehrerdaten** exportiert werden sollen und ob für die Nutzer
 **Initialkennworte erzeugt** und dann **ausgegeben** werden.Konsultieren Sie hierzu bitte auch die Dokumentation von Logineo LMS.
 
-::: warning
+
 
 Beachten Sie den Unterschied von *Logineo NRW LMS* und
 *Logineo NRW*. Diese Angebote lesen jeweils unterschiedliche Exportdaten
 von SchILD-NRW ein.
 
-:::
+
 
 Konsultieren Sie zum Import die Dokumentation von Logineo LMS
 

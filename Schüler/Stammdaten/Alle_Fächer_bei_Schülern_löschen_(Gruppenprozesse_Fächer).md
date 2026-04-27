@@ -5,14 +5,14 @@
  Bei dem Gruppenprozess **Alle Fächer bei Schülern löschen**
 werden alle Fächer der selektierten Schülerinnen und Schüler gelöscht.
 
-::: warning
+
 
 Es sollte darauf geachtet werden, dass tatsächlich nur
 die Schülerinnen und Schüler ausgewählt sind, denen die Fächer entfernt
 werden sollen, da die Leistungsdaten im Anschluss nicht mehr
 vorliegen.
 
-:::
+
 
 Der übliche Anwendungsfall ist, dass bei der Zuweisung der Fächer zum
 

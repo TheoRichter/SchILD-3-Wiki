@@ -19,7 +19,7 @@ Beispiel Kurse, verarbeitet werden können.Grundsätzlich läuft das Abitur wie 
 
 ![SchILD_Schüler_Abitur_Gruppenprozesse.png](../../graphics/SchILD_Schüler_Abitur_Gruppenprozesse.png)
 
-::: warning
+
 
 Der Prozess wird für individuelle Schüler in *Schüler* ➜
 **Abitur** durchgeführt.
@@ -33,7 +33,7 @@ Die Gruppenprozesse werden in jeweils einem eigenen Wiki-Artikel
 erklärt. Alle Artikel zusammen geben auch ein Bild des
 Abiturdurchlaufs.
 
-:::  
+  
 
 ## Leistungsdaten holen und Zulassungsberechnung
 
@@ -132,14 +132,14 @@ angesetzt werden. Hierbei stehen zwei Optionen zur Verfügung-   **MBP**: Eine B
     zum Bestehen notwendigerweise zu erreichenden Punkte verändern.
 -   **MFP**: Freiwillige Meldung zu einer Prüfung
 
-::: warning
+
 
 Die drei hier relevanten Gruppenprozesse sind-   **Prüfungsergebnisse eingeben**,
 -   **Mündl. Prüfungen A1-A3 festlegen** und
 -   **Gesamtergebnis berechnen**,wobei die mündlichen Prüfungen häufig auch in der individuellen
 Betrachtung der jeweiligen Ergebnisse gesetzt werden.
 
-:::
+
 
 Bei der Verwendung der Gruppenprozesse wird in einer Textdatei
 
@@ -157,7 +157,7 @@ Prüfungsergebnisse mit ihrem Bekanntwerden ein und berechnen Sie jeweils
 oder per Gruppenprozess das Gesamtergebnis neu.Über die Druckausgabe und das passende Formular können im Anschluss die
 Informationen für die Fachprüfungsausschüsse ausgedruckt werden.
 
-::: warning
+
 
 Ein erneutes Ausführen der Prozesse, mit denen
 Leistungsdaten geholt, Prüfungen eingetragen oder das Gesamtergebnis
@@ -169,21 +169,21 @@ dem Eintritt der Prüfungsphase mit dem Eintragen der normalen
 Prüfungsergebnisse vom Ausführen der Gruppenprozesse
 abzusehen.
 
-:::
 
-::: warning
+
+
 
 Auch das Berechnen des Gesamtergebnisses ist als
 softwaregestützte Unterstützung ohne Gewähr zu verstehen.
 
-:::
+
 
 ## Nachbereitung und ZeugnisdruckKontrollieren Sie die Sprachenfolge. Tragen Sie dann ein, ob ein Latinum
 (Graecum, Hebraicum) erreicht wurde, und berechnen Sie die
 Referenzniveaus.Verwenden Sie hierzu die passenden Gruppenprozesse in der Gruppe
 *Abitur*.
 
-::: warning
+
 
 Denken Sie daran, dass die Sprachenfolge eigentlich vor
 dem Abitur überarbeitet werden musste und die Verwendung der
@@ -192,7 +192,7 @@ erzeugen könnte. Die Gruppenprozesse zum Setzen von Latinum, Graecum und
 Hebraicum sind harmlos, da hier alle Änderungen manuell eingegeben
 werden.
 
-:::
+
 
 Verwalten Sie nun die Schüler, indem Sie Abschluss- und Abgangsdaten
 

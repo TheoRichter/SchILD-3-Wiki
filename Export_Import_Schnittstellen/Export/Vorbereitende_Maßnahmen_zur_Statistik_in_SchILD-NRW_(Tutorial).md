@@ -70,7 +70,7 @@ von ASDPC verwendet wird.
 
 ## Vorbereitung der Statistik in SchILD-NRW
 
-::: warning
+
 
 **Pflege der zur Statistik verwendeten Software:**1.  Führen Sie bitte für das von IT.NRW angebotene ASDPC und für
     SchILD-NRW die jeweils aktuellen Updates aus, da in ihnen auch die
@@ -85,7 +85,7 @@ von ASDPC verwendet wird.
     werden und registriert sind - auf dem lokalen Rechner oder in der
     Netzwerkinstallation?
 
-:::
+
 
 ### Statistikrelevante Felder in SchILD-NRW
 
@@ -95,14 +95,14 @@ von ASDPC verwendet wird.
 relevant sind. Per Standard werden **statistikrelevante Felder\*** durch
 Fettdruck und ein Sternchen "**\***" gekennzeichnet.
 
-::: warning
+
 
 Über *Verwaltung ➜ Einstellungen ➜ Individuelle
 Einstellungen ➜ Benutzeroberfläche* ➜ **Farbe für statistikrelevante
 Felder** lassen sich diese Überschriften zusätzlich noch
 einfärben.
 
-:::
+
 
 Nicht alle statistikrelevanten Felder müssen auch ausgefüllt werden,
 
@@ -113,13 +113,13 @@ gesetzt zu werden.Felder, die korrekt ausgefüllt sind, sparen bei der Statistik
 und stehen auch im nächsten Jahr wieder zum korrekten Export zur
 Verfügung.
 
-::: warning
+
 
 Hierbei empfiehlt es sich, dass sich die mit der
 Dateneingabe und -pflege in SchILD befassten Personen mit der mit der
 Statistik beauftragten Person koordinieren.
 
-:::
+
 
 ### Haupt- und weitere Förderschwerpunkte
 
@@ -149,12 +149,12 @@ Die zu den aktuellen Laufbahndaten gehörenden *Individualdaten I* und
 die zur Förderung zum aktuellen Lernabschnitt gehörenden unter den
 *Individualdaten II* im Nur-Lesenmodus aufgeführt.
 
-::: warning
+
 
 Beachten Sie hierzu den Screenshot zu den
 *Förderschwerpunkten* oben.
 
-:::
+
 
 Konsultieren Sie hierzu das Tutorial zu 
 
@@ -200,20 +200,20 @@ das Abgangsdatum automatisch gesetzt.
 Schulbesuch* die zutreffenden Daten bei **Entlassung von eigener
 Schule** und **Wechsel zu aufnehmender Schule** ein.Beachten Sie zum *Abitur* den Gruppenprozess *Abitur-Jahr setzen*.
 
-::: warning
+
 
 Auch hier sind passende Gruppenprozesse hilfreich.In ASDPC müssen alle Schüler des Vorjahres in Jahrgängen mit möglichen
 Abschlüssen korrekt verbucht sein. Es empfiehlt sich, die Daten schon in
 SchILD-NRW vollständig aufzubereiten.
 
-:::
+
 
 Beachten Sie, dass die Felder **Entlassung am** und **Art des
 
 Abschlusses (bei erfüllter Schulpflicht erforderlich)**
 statistikrelevant sind.
 
-::: warning
+
 
 Für **alle Schulformen** gilt: Schüler mit dem Status
 *Abgang*, die sich zum Ende des laufenden Schuljahres abmelden, sollten
@@ -224,7 +224,7 @@ Ihrer Schule nie wahrnehmen.In **Grundschulen** haben Schüler nach der 4. Klass
 daran, in *Schüler ➜ Individualdaten II* die **Übergangsempfehlung für
 Jg. 5** zu setzen.
 
-:::
+
 
 Beachten Sie zu dieser Thematik den umfangreichen Artikel zu
 
@@ -259,7 +259,7 @@ werden könnten.-   Die Schülerdaten werden in die *SIM.txt* geschrieben.
 -   Die Unterrichtsverteilung in die *UVD.txt* geschrieben.
 -   Eventuelle Abiturdaten werden in die *ABI.txt* geschrieben.
 
-::: warning
+
 
 #Obwohl SchILD-NRW beim Export ein umbenennen der
 Dateien zulässt, müssen die Standardnamen beibehalten werden, da ASDPC
@@ -268,7 +268,7 @@ die Dateien ansonsten nicht einlesen kann.1.  Stellen Sie beim Einlesen in ASDPC
     etwa welche von einem vorherigen Export oder aus einem früheren
     Jahr.
 
-:::
+
 
 Beachten Sie den Artikel 
 

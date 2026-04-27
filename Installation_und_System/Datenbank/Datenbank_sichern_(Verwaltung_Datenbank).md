@@ -16,7 +16,7 @@ SVWS-Servers im eingestellten Unterordner als Kopie abgelegt wird.Hierbei werden
 Diese Kopien können dann im Menüpunkt *Datenbank wiederherstellen*
 erneut eingelesen werden.
 
-::: warning
+
 
 Es handelt sich um Sicherungen in der gleichen
 Ordnerstruktur, in der auch die übrigen Daten des SVWS-Servers liegen.
@@ -29,9 +29,9 @@ Hacker und so weiter.Es empfiehlt sich darüber nachzudenken, mit den IT-Verantw
 modernen Standards entsprechende Backup-Strategie für die verwendete
 IT-Infrastruktur zu klären.
 
-:::
 
-::: warning
+
+
 
 **Technische Hintergrundinformation:** Bei den
 Funktionen *Datenbank sichern* und *Datenbank wiederherstellen* handelt
@@ -40,4 +40,3 @@ Datenbankdump. Daher kann der Prozess auch ein paar Minuten dauern,
 anstatt wie bei einem reinen DB-Dump in Sekunden abzulaufen. Haben Sie
 einen Moment Geduld.
 
-:::

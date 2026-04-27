@@ -21,7 +21,7 @@ zur Kenntnis.
 Abhängig von der Schulform können weitere Abschnitte eingeblendet
 werden.
 
-::: warning
+
 
 Hier im Beispiel wird der *Grundschulbesuch* mit
 eingeblendet. Bei diesem ist zu beachten, dass der Verbleib in der
@@ -31,7 +31,7 @@ EP-Phase, in SchILD stehen aber die zwei als Standardangabe, wäre die
 automatische Berechnung des Schulpflicht-Endes um das eine Jahr
 fehlerhaft.
 
-:::
+
 
 Ebenso erscheinen hier an *Berufskollegs* ein Bereich für das
 

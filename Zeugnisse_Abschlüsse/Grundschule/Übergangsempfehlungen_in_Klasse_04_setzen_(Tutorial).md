@@ -1,7 +1,7 @@
 # Übergangsempfehlungen in Klasse 04 setzen (Tutorial)In diesem Tutorial wird erklärt, wie die *Übergangsempfehlung* zum Ende
 von Jahrgang 4 per *Gruppenprozess* gesetzt wird.
 
-::: warning
+
 
 Soll die Übergangsempfehlung bei einzelnen Schülern
 manuell gesetzt werden, findet sich dieses Feld unter *Individualdaten
@@ -15,7 +15,7 @@ sich die Verwendung des Gruppenprozesses nicht anbietet.
 Das Feld ist *statistikrelevant* und daher auch verpflichtend
 auszufüllen.
 
-:::
+
 
 Mögliche Einträge in diesem Feld sind-   *Hauptschule*
 

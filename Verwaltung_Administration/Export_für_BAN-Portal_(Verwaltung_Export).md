@@ -16,14 +16,14 @@ Dies nehmen Sie für individuelle Schüler unter *Schüler ➜ Akt. Halbjahr
 ➜ Allgemeine Angaben* mit dem gesetzten Haken bei **Für Meldung an
 BAN-Portal** vor.
 
-::: warning
+
 
 Hinweis 1: Tragen Sie bei den Schülern vor dem Export
 unbedingt den (vorläufigen) Abschluss ein.Hinweis 2: Beachten Sie hierbei, dass die Markierung für den jeweils
 gewählten **Lernabschnitt** gilt. In der Regel betrifft der BAN-Export
 nur den Abschluss-Lernabschnitt.
 
-:::  
+  
 
 **Den Haken per Gruppenprozess setzen**Für größere Gruppen lassen sich die Markierungen bei Bedarf komfortabel
 über einen *Gruppenprozess* setzen.Wählen Sie zuerst die Schülergruppe aus, für welche die BAN-Markierungen
@@ -52,7 +52,7 @@ als *zu exportieren* markiert sind, werden nun berücksichtigt.Klicken Sie auf `
 Der Export ist abgeschlossen. Die erzeugte Datei kann nun im BAN-Portal
 eingelesen werden.
 
-::: warning
+
 
 Da im Dateinamen der *BAN-Export.csv* selbst kein
 Lernabschnitt enthalten ist und diese daher von außen jedes Jahr gleich
@@ -60,7 +60,7 @@ aussieht, achten Sie bitte darauf, tatsächlich die jeweils aktuelle und
 gerade exportierte Datei beim folgenden Import auf dem BAN-Portal zu
 verwenden.
 
-:::
+
 
 ## Bedeutung der TabellenwerteSie erhalten eine Datei, in der spaltenweise die folgenden Daten
 enthalten sind:` Name, Vorname, Geburtsdatum, Geschlecht, Wohnort, PLZ, Straße, Hausnummer, voraussichtlich erreichter Abschluss`Hierbei können im Feld **Geschlecht** diese Werte auftreten:-   m - *männlich*

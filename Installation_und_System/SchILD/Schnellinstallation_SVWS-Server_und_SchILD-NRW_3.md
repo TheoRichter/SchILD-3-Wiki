@@ -1,12 +1,12 @@
 # Schnellinstallation SVWS-Server und SchILD-NRW 3
 
-::: warning
+
 
 Die Versionen des SVWS-Servers und von SchILD-NRW 3
 müssen zusammenpassen. Kontrollieren Sie vor Beginn der Installation,
 dass Sie die korrekten Installer vorliegen haben.
 
-:::
+
 
 Der folgenden Artikel beinhaltet Hinweise zur Installation des
 
@@ -38,16 +38,16 @@ Einstellungen durch Klick auf die Schaltflächen `Weiter`.
 
  Ändern Sie nur in den folgenden Fenstern die Angaben
 
-:::
 
-::: warning
+
+
 
 Geht das Root-Kennwort für die MariaDB verloren, laufen
 die Services noch, das Passwort kann aber weder ausgelesen noch
 verändert werden. Weiterhin können keine Schemas angelegt oder gelöscht
 werden.
 
-:::  ::: warning
+  
 
 Eine Migration dauert je nach verwendeter CPU und Umfang
 der Datenbank "einige mitunter lange Minuten". Wenn Sie eine Schule
@@ -62,7 +62,7 @@ aufzubewahrende Schuljahre mit den Leistungsdaten löschen zu lassen.Über die D
 In diesem Verzeichnis finden sich noch weitere logs, z.B. zu Fehlern des
 Servers.
 
-:::
+
 
 ![Installation_SVWS-Server_Zertifikat_Testkonfiguration.png](../../graphics/Installation_SVWS-Server_Zertifikat_Testkonfiguration.png)
 
@@ -90,7 +90,7 @@ sämtliche Vorschläge durch Klick auf die Schaltflächen `Weiter`.
 Konfigurationstool. Belassen Sie dort alle Einstellungen und klicken auf
 die Schaltfläche `Datei speichern`.
 
-::: warning
+
 
 Im Netzwerkbetrieb: Sofern Sie die Datenbank später
 konfigurieren oder bei der Installation der Prozess mit dem
@@ -102,7 +102,7 @@ Client aufrufen, der dann nur das SchILD-3-Installationsverzeichnis (nur
 lesen) und das SVWS-Arbeitsverzeichnis (lesen und schreiben) als
 Freigaben erhält.
 
-:::  
+  
 
 ## Start der ProgrammeSchILD-NRW 3 kann wie gewohnt über einen Doppelklick auf das
 Desktopsymbol oder über einen Einfachklick auf das Symbol im Startmenü

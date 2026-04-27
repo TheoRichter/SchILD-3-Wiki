@@ -25,14 +25,14 @@ das aktuelle Zeugnis relevante Fächer geholt werden sollen.-   **Noteneingabe d
     einen *Abschlussjahrgang* oder einen *"normalen" Jahrgang*
     durchführen wollen.
 
-::: warning
+
 
 Bei Jahrgängen, in denen ein Schulabschluss vergeben
 wird, können unter Umständen auch nicht gemahnte Defizite
 versetzungsrelevant sein. Richten Sie sich nach der jeweils geltenden
 APO.
 
-:::
+
 
 -   **Doppelte Fächer in Leistungsdaten vermeiden**: Durch Aktivierun
 
@@ -40,13 +40,13 @@ g
     dieser Option versucht Schild-NRW bei Importen von Fächern eine
     Erkennung von Doppelungen und versucht, diese zu vermeiden.
 
-::: warning
+
 
 Dieser Haken muss auch gesetzt sein, wenn der
 *Gruppenprozess* **Doppelte Fächer löschen** ausgeführt werden
 soll.
 
-:::
+
 
 -   **Erweiterte Noten in der Sek. I zulassen** erlaubt bei eine
 

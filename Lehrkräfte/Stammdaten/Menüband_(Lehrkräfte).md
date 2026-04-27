@@ -14,12 +14,12 @@ Funktion, Einträge neu anzulegen, zu löschen oder zu verändern.-   **Einfüge
 -   **Aktualisieren** liest die Liste der Lehrkräfte erneut ein.Sollen bestehende Einträge gelöscht werden, erscheinen mehrere
 Warnhinweise, die noch bestätigt werden müssen.
 
-::: warning
+
 
 Warnhinweise sollten genau gelesen werden, denn
 Änderungen können nicht rückgängig gemacht werden.
 
-:::
+
 
 Über **Aktionen** lassen sich Daten Im- und Exportieren sowie angebotene
 

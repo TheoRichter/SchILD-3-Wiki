@@ -2,7 +2,7 @@
 
 ## Das Programm SchILD-NRW 3
 
-::: warning
+
 
 SchILD-NRW 3 hat mit der der Version 3.2 und dem
 SVWS-Server Version 1.1.1 die Beta verlassen und ist damit für den
@@ -12,7 +12,7 @@ Diese wird beim Update nicht automatisch aktualisiert, bitte laden Sie
 die aktuelle Reportsammlung auf <https://svws.nrw.de>
 herunter.
 
-:::
+
 
 ## Was ändert sich im Vergleich zu SchILD-NRW 2
 
@@ -67,14 +67,14 @@ finden den Sie [hier](Reportdesigner.md).
 
 ## Tutorials
 
-::: warning
+
 
 In diesem Abschnitt finden sich zum einen knappe Artikel
 dazu, wie einige sehr spezielle Prozesse umsetzen sind, etwa die
 Aufnahme von Flüchtlingskindern. Zum anderen finden sich auch teils sehr
 umfangreiche Anleitungen, zum Beispiel zum Zeugnisdruck.
 
-:::
+
 
 Folgende Artikel verfügen über
 

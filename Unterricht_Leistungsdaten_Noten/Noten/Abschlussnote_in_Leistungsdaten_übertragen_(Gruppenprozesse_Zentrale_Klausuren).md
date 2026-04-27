@@ -6,13 +6,13 @@ wird die fertige und kontrollierte **Abschlussnote** aus dem Reiter
 Die Warnung, dass die Noten im aktuellen Halbjahr überschrieben werden,
 ist mit `OK` zu bestätigen.
 
-::: warning
+
 
 Wurden die alten Noten nicht als eine Teilleistung
 *Vornoten* und/oder im Reiter *ZP 10/ZK* als Vornote erfasst, sind diese
 anschließend in SchILD-NRW nicht mehr hinterlegt.
 
-:::
+
 
 Es wird ein **Protokollfenster** angezeigt, dieses Protokoll lässt sich
 

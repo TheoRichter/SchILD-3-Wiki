@@ -18,13 +18,13 @@ sollen.
 
 Die betrifft besonders die anzulegenden Gruppen.Schlussendlich ist das **Exportverzeichnis** anzugeben.
 
-::: warning
+
 
 Während des Exports kann es unter Umständen zu Fehlern
 kommen, zum Beispiel auf Grund von nicht oder falsch angelegter
 E-Mail-Adressen der Personen der Schule.
 
-:::  
+  
 
 ## Import in MS Teams/MNSProBitte nutzen Sie die Dokumentation und den Support Ihrer Lernplattform
 für den Import. Klären Sie bitte ebenfalls mit dem Anbieter, welche

@@ -5,17 +5,17 @@ alle definierten Vorlagen einsehen. Hier einige Beispiele:
 
 ### HinweiseSyntax:
 
-::: warning
+
 
 Dies ist ein Hinweistext
 
-:::
 
-::: warning
+
+
 
 Dies ist ein Hinweistext
 
-:::
+
 
 ### Roter RahmenSyntax:
 

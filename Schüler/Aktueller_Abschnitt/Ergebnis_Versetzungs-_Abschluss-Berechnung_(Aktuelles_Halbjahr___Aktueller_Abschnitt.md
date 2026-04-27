@@ -16,7 +16,7 @@ den *Gruppenprozess* ➜ **Versetzungs-/Abschluss-Berechnung** gestartet.
 Die Ergebnisse sind dann im Nachhinein über diesen Reiter *"Ergebnis
 Versetzungs-/Abschlussberechnung"* abrufbar.
 
-::: warning
+
 
 Die Verantwortung für die Korrektheit von Versetzungen
 und Abschlüssen trägt die Schule über Prüfungen durch die betreuende
@@ -24,7 +24,7 @@ Lehrkraft und Beschlüsse der Zeugniskonferenzen. Die automatische
 Prüfung über Schulverwaltungssoftware ist als Hilfestellung ohne Gewähr
 zu verstehen.
 
-:::  
+  
 
 ![SchILD_Schueler_AktHalbj_Leistungsdaten_13.png](../../graphics/SchILD_Schueler_AktHalbj_Leistungsdaten_13.png)
 
@@ -37,11 +37,10 @@ und *Abitur* eingeblendet.
  Unter *Gruppenprozesse* werden dann ebenfalls Felder für
 Abitur und FHR eingeblendet.
 
-::: warning
+
 
 Die Ergebnisse der Berechnungen werden für jeden
 Lernabschnitt gespeichert. Entsprechend ist es auch möglich,
 nachträglich für Lernabschnitte diese Berechnungen
 durchzuführen.
 
-:::

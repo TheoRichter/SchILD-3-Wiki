@@ -18,7 +18,7 @@ Schule ausgewertet, die im letzten Schuljahr noch nicht an der eigenen
 Schule waren. Das bedeutet bei allen Neuaufnahmen und den Schülern, die
 zu Schuljahresbeginn "zugezogen" sind.
 
-::: warning
+
 
 **Schulformspezifische Hinweise:**-   Eine Ausnahme bilden die **Grundschulen**: bei allen "Erstklässlern"
     bleibt dieser Bereich natürlich leer. Lediglich die **Herkunftsart**
@@ -35,7 +35,7 @@ DEADLINK: Eintragungsmodalitäten - Eintragung_Herkunft_am_BK/WBK_(Tutorial).md
 
 **!
 
-:::
+
 
 Um die Eintragungen für die Statistik näher zu erklären, dient die
 

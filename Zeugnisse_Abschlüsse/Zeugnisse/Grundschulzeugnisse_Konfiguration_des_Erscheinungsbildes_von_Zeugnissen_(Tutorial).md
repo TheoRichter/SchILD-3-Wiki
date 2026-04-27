@@ -49,7 +49,7 @@ Notenblock verändert werden, würde man` [Notenzeugnisreihenfolge_Links]`
 werden, wäre die Zeile` `*`NotenAbJahrgang=03`*so zu verändern, dass statt *03* eben *E1*, *E2* oder *04* steht.Hier ist zu sehen, dass die zur Eintragung zulässigen Werte immer in den
 Kommentaren direkt bei der Zeile stehen.
 
-::: warning
+
 
 Beachten Sie, dass Änderungen, die in einem Jahr
 vorgenommen werden, auch in allen Folgejahren in der dann neuen mit den
@@ -59,7 +59,7 @@ Felder, etwa mit welchen Namen unterzeichnet werden soll (Abschnitt 5)
 beziehungsweise in Sonderfällen in Bezug auf einzelne Felder an der
 eigenen Schule, kann der Standard belassen werden.
 
-:::
+
 
 ## Inhalte der Datei und Felder zur KonfigurationIn der Datei werden folgende Aspekte konfiguriert. Wird ein Feld über
 ein Semikolon ein- oder ausgeschaltet, ist das Semikolon hier in diesem

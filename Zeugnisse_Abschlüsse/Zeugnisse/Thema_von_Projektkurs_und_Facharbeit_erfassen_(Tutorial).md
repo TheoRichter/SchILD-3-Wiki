@@ -70,13 +70,13 @@ einem externen Blockungs- und Kursplanungsprogramm.Achten Sie darauf, den Kurs i
 Das Projektkursthema wird unter **Fachbez. Leistungsentw.** erfasst.
 Führen Sie einen `Doppelklick` auf das Feld aus.Im folgenden Fenster wird das Thema eingetragen.Bestätigen Sie mit einem Klick auf `OK`.Es reicht, das Thema in einem Halbjahr eintragen.
 
-::: warning
+
 
 Da die Arbeit im zweiten Halbjahr geschrieben wird,
 bietet es sich an, per Konvention die Arbeiten immer im 2. Halbjahr der
 Q1 zu erfassen.
 
-:::
+
 
 ### Im Abitur
 
@@ -96,9 +96,8 @@ zuweisen.Wählen Sie passend *Fach*, *Kursart* und die *Teilleistung*.Klicken Si
 Leistungsdaten* beim zugeordneten Fach mit der Note in einem
 Lernabschnitt hinzugefügt werden.
 
-::: warning
+
 
 Konsultieren Sie bei Bedarf die ausführlicheren Artikel
 zu *Teilleistungen* in diesem Wiki.
 
-:::

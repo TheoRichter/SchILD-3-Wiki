@@ -6,13 +6,13 @@ Die Module sind einheitlich vorgegeben und sind in SchILD-NRW bereits
 hinterlegt. Die zur Verfügung stehenden Module richten sich nach dem
 jeweils ausgewählten Jahrgang.
 
-::: warning
+
 
 Maßnahmen der beruflichen Orientierung im Rahmen von
 KAoA beginngen an den weiterführenden Schulen mit dem Jahrgang
 8.
 
-:::
+
 
 ## Anzeigen des KAoA-Reiters
 

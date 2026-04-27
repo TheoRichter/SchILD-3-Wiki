@@ -99,13 +99,13 @@ verwendet.-   **ASD-Bezeichnung**: Unterricht für Herkunftssprache - Spanisch
     Details und **Auf Zeugnis** und **Sichtbar** in der
     Fachübersichtsliste.
 
-::: warning
+
 
 Nach Anlegen des Faches sollte SchILD-NRW einmalig neu
 gestartet werden, damit die Kataloge vollständig neu eingelesen
 werden.
 
-:::  
+  
 
 ### Sprachenfolge und Sprachprüfungen
 

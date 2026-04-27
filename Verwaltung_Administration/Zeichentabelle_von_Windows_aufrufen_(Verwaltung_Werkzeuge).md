@@ -11,7 +11,7 @@ Windows aufrufen**.Um noch weitere Auswahlmöglichkeiten zu haben, lässt sich d
 *Erweiterte Ansicht* aktivieren.Suchen Sie nun Ihr Zeichen und fügen sie es ein beziehungsweise kopieren
 Sie es in den Zwischenspeicher.
 
-::: warning
+
 
 Überlegen Sie aber, ob es nicht zu viele Probleme macht,
 wenn Ħænsēl und ĠrĕţeȈ aus dem Märchenwald in ihrer tatsächlichen
@@ -20,4 +20,3 @@ Schul-E-Mailadressen generiert werden sollen?Möchte man ausprobieren, ob beim S
 "i" als "Ĩ", "ĩ", "Ī", "ī", "Ĭ", "ĭ", "Į", "į" oder "İ" geschrieben
 wurde?
 
-:::

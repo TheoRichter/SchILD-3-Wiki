@@ -4,7 +4,7 @@ erlaubt es zum Beispiel, eine existierende Datenbank auf in einen neuen
 MariaDB-Server einzuspielen oder ein System mit mehreren Datenbanken
 aufzusetzen.
 
-::: warning
+
 
 Nutzen Sie zum Wiederherstellen der aktiven Datenbank
 die Funktion Datenbank **Datenbank wiederherstellen**. Damit lässt sich
@@ -13,7 +13,7 @@ einspielen. Das Root-Kennwort der MariaDB wird hierbei nicht benötigt
 und somit ist ein SchILD-Nutzer mit SchILD-Administrationsrechten
 ausreichend.
 
-:::
+
 
 ![SchILD_Datenbank_Importieren_RootPasswort.png](../../graphics/SchILD_Datenbank_Importieren_RootPasswort.png)
 
@@ -30,19 +30,19 @@ für diesen Admin anzugeben.Hier im Beispiel wird der existierende Admin für de
 mit dessen existierendem Passwort gewählt. Es kann auch für die neue
 Datenbank ein neuer Admin mit neuem Passwort erstellt werden.
 
-::: warning
+
 
 In den FAQ findet sich eine Erläuterung zu dem
 Super-Administrator der MariaDB, dem Administrator für ein
 Datenbankschema und einem SchILD-NRW-Administrator.
 
-:::  ::: warning
+  
 
 **Wird eine existierende Datenbank gewählt, wird diese
 hierbei überschrieben!**Klären gegebenenfalls Sie auch mit anderen möglichen Datenbanknutzern,
 dass nun die existierende Datenbank neu aufgesetzt wird.
 
-:::
+
 
 Klicken Sie auf `Übernehmen` um den Import zu starten.Wollen Sie in eine existierende und laufende Datenbank importieren,
 

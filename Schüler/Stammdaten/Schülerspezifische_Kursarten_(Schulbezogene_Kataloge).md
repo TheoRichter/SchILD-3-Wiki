@@ -12,12 +12,12 @@ Die Kursarten sind deshalb schülerspezifisch, weil es unter Umständen
 eine übergeordnete Kursart zum Kurs geben kann, die dann beim
 Schülerdatensatz nochmals unterschieden werden muss.
 
-::: warning
+
 
 Bitte informieren Sie sich über das Schlüsselverzeichnis
 von IT.NRW zu den an Ihrer Schulform benötigten Kursarten!
 
-:::  
+  
 
 ![SchILD_Kataloge_SchuelerSpezKursart_2.png](../../graphics/SchILD_Kataloge_SchuelerSpezKursart_2.png)
 

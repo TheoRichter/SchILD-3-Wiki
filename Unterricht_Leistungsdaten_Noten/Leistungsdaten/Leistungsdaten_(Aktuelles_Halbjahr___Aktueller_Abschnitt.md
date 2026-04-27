@@ -42,7 +42,7 @@ ob eine Versetzung beziehungsweise welcher Abschluss erreicht wurde.
 
 ![SchILD_Schueler_AktHalbj_Leistungsdaten_6.png](../../graphics/SchILD_Schueler_AktHalbj_Leistungsdaten_6.png)
 
-::: warning
+
 
 In der Standardeinstellung werden nicht gemahnte
 Minderleistungen ignoriert. Ob dies zu tun ist oder nicht, hängt von der
@@ -53,7 +53,7 @@ lässt sich über *Verwaltung* ➜ *Einstellungen* ➜ *Fächer, Noten* und
 dann *Eine nicht gemahnte 5 oder 6 bei Versetzungs-/Abschlussberechnung
 ignorieren* steuern.
 
-:::  
+  
 
 ![SchILD_Schueler_AktHalbj_Leistungsdaten_5.png](../../graphics/SchILD_Schueler_AktHalbj_Leistungsdaten_5.png)
 

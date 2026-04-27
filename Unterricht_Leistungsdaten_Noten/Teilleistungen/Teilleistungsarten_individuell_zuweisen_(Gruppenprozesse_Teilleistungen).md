@@ -13,15 +13,15 @@ individuellen **Fächern** und **Kursarten** zugeordnet werden.Hier wurde die Ko
 Fach-/Kurskombination die entsprechende Teilleistungsart angelegt.Klicken Sie auf `Prozess` um den Gruppenprozess mit den gesetzten Haken
 zu starten.
 
-::: warning
+
 
 Das *Fach* und die *Kursart* müssen bei der
 Schülergruppe vorhanden sein. Ist dies nicht der Fall, werden auch keine
 Teilleistungen bei den Schülern angelegt.
 
-:::
 
-::: warning
+
+
 
 Im Gegensatz zum Gruppenprozess **Teilleistungsarten aus
 Vorlage zuweisen** kann hier frei für jede auftretende Kursart eine
@@ -30,7 +30,7 @@ erstellten Vorlage musste dagegen jede an der Schule vorkommende
 Kombination aus Fach und Kursart berücksichtigt werden, damit der hier
 genannte Gruppenprozess richtige Ergebnisse liefert.
 
-:::
+
 
 ![Schild_Gruppenprozesse_Teilleistungsarten_individuell_zuweisen_02.png](../../graphics/Schild_Gruppenprozesse_Teilleistungsarten_individuell_zuweisen_02.png)
 

@@ -2,7 +2,7 @@
 **BK-Abschluss** endgültig geprüft und festgelegt, lassen sich diese
 Noten in die Leistungsdaten zurück übertragen.
 
-::: warning
+
 
 Hierbei wird die **Note** unter *Schüler ➜ Akt.
 Halbjahr* mit der Abschlussnote überschrieben und ist bei einer vom von
@@ -11,4 +11,3 @@ geklickt, wird nun diese neue Abschlussnote als Note im Reiter
 *BK-Abschluss* eintragen. Damit wäre auch diese
 überschrieben.
 
-:::

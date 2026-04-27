@@ -1,6 +1,6 @@
 # Installation SchILD-NRW 3
 
-::: warning
+
 
 **SchILD-NRW 3 und der SVWS-Servermüssen zusammen
 installiert werden.**
@@ -12,7 +12,7 @@ die korrekten Installer vorliegen haben.**
 Die Dokumentation des SVWS-Servers inklusive der Installation finden
 Sie auf <https://doku.svws-nrw.de>**.
 
-:::
+
 
 Der folgenden Artikel beinhaltet Hinweise zur Installation des
 
@@ -75,7 +75,7 @@ Programms zur Einrichtung der Konfigurationsdatei.
 Konfigurationstool, mittels dem die Datei erstellt wird, die notwendig
 ist, damit SchILD3 auf das Datenbankschema zugreifen kann.
 
-::: warning
+
 
 Das Konfigurationstool kann bei Bedarf auch nachträglich
 aufgerufen werden, hierzu einfach die *SchILD_DBConfig.exe* im
@@ -83,7 +83,7 @@ Installationsverzeichnis von SchILD3 als Administrator ausführen. Führen
 Sie es im Netzwerkbetrieb auf dem Server aus, so dass die .con-Files für
 Clients zur Verfügung stehen.
 
-:::
+
 
 Im folgenden Fenster können Sie nun alle voreingetragenen Angaben
 

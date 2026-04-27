@@ -20,13 +20,13 @@ soll.In der **Kompetenzbeschreibung** ist die sprachliche Beschreibung der
 Kompetenz auszufüllen.Über die Zahlen in **Sortierung** wird festgelegt, in welcher
 Reihenfolge die Kompetenzen auf dem Zeugnis erscheinen.
 
-::: warning
+
 
 Die der Bewertung zugrunde liegenden Kompetenzen werden
 letztendlich über die entsprechenden Fach- und Schulkonferenzen
 festgelegt.
 
-:::
+
 
 ### Unterkategorien
 
@@ -62,13 +62,13 @@ Dieser erzwungene Zeilenumbruch funktioniert ebenfalls bei der
 Beschreibung der Kompetenz**stufen** - siehe unten - um diese zweizeilig
 ausfallen lassen.
 
-::: warning
+
 
 Werden keine Stufen benannt, werden nur vier Stufen zum
 Ankreuzen angezeigt. Benennen Sie alle fünf Stufen, stehen auch alle
 fünf zum Anklicken zur Auswahl.
 
-:::
+
 
 ![SchILD_Kataloge_Ankreuzkompetenzen_Zeilenumbruch_Beispiel.png](../../graphics/SchILD_Kataloge_Ankreuzkompetenzen_Zeilenumbruch_Beispiel.png)
 
@@ -105,7 +105,7 @@ Einzelreport für die Übergangsempfehlung wurden entsprechend angepasst,
 sodass die hier definierten Übergangskompetenzen für den Jahrgang 4 an
 der richtigen Stelle in der Anlage bzw. im Zeugnis abgebildet werden.
 
-::: warnin
+ warnin
 
 g
  Um die Begründung der Übergangsempfehlung mit
@@ -113,7 +113,7 @@ Ankreuzkompetenzen zu realisieren, muss in der
 Klassen-/Versetzungstabelle für die 4. Klassen der Haken bei "In dieser
 Klasse werden Ankreuzzeugnisse verwendet" gesetzt sein.
 
-:::
+
 
 Die Übergangskompetenzen können auch in weitere Unterkategorien
 
@@ -131,12 +131,12 @@ zugehörigen Beschreibungen.
 
 ## Nutzung von Ankreuzkompetenzen
 
-::: warning
+
 
 Nutzen Sie hierzu die Anleitung für Ankreuzzeugnisse in
 der Grundschule.
 
-:::
+
 
 **
 

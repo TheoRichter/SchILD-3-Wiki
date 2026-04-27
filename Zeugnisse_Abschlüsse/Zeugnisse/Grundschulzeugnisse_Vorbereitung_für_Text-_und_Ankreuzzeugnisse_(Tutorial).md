@@ -3,7 +3,7 @@ können, um *Textzeugnisse*, *Ankreuzzeugnisse* oder *Lernstandsberichte*
 mit den bereitgestellten Formularen erzeugt werden können, müssen in
 SchILD-NRW einige Vorbereitungen getroffen werden.
 
-::: warning
+
 
 Ein Nutzen für die Statistik ist, dass sofern die
 notwendigen Daten in SchILD hinterlegt wurden, die Unterrichtsverteilung
@@ -11,7 +11,7 @@ notwendigen Daten in SchILD hinterlegt wurden, die Unterrichtsverteilung
 Statistik exportiert werden können. Somit muss die Eingabe in ASDPC
 nicht (erneut) vorgenommen werden.
 
-:::
+
 
 Damit Schülern individuell Leistungsdaten eingetragen werden können,
 
@@ -55,7 +55,7 @@ Zeugnis* auf dem Zeugnisformular ausgegeben wird.
 -   Musik
 -   Kunst
 
-::: warning
+
 
 In Bezug auf das Fach **Deutsch** ist zu beachten, dass
 zusätzlich *Lesen*, *Rechtschreiben* und *Sprachgebrauch* auf dem
@@ -65,7 +65,7 @@ dem Bereich *Deutsch* zu, wenn Sie jeweils individuelle Lern- und
 Leistungsstände eintragen möchte. Ansonsten ordnen Sie diese drei
 Teilfächer der Fächergruppe *Sprache* zu.
 
-:::  
+  
 
 ### Fächerreihenfolge
 
@@ -79,7 +79,7 @@ schieben.Mit den *Doppelpfeilen* (**🠕🠕** beziehungsweise **🠗🠗**) wir
 jeweils um zehn Plätze verschoben.Sollte SchILD nachfragen, dass die Daten *reorganisiert* werden müssten,
 bestätigten Sie diese Nachfragen.
 
-::: warning
+
 
 Der Fächerkatalog muss nur einmal angelegt und dann
 lediglich bei Änderungen angepasst werden.
@@ -89,7 +89,7 @@ Leistungsdaten neu sortieren** kann die Neusortierung in einem zu
 wählenden Lernabschnitt bei größeren Schülergruppen, auch in der ganzen
 Schule, auf einmal durchgeführt werden.
 
-:::
+
 
 ## Stundentafeln einrichten
 
@@ -99,14 +99,14 @@ Schule, auf einmal durchgeführt werden.
 Lernabschnitt zugeordnet werden können, werden für diese Zuordnung
 Vorlagen erstellt. Diese heißen *Stundentafeln*.
 
-::: warning
+
 
 Es gilt wie bei dem Fächerkatalog: Eine einmal
 definierte Stundentafel kann für jeden Lernschabschnitt wiederverwendet
 werden und muss nur bei Änderungen einmalig angepasst
 werden.
 
-:::
+
 
 Hier im Beispiel wurde für jede Klasse eine Stundentafel mit den jeweils
 
@@ -114,20 +114,20 @@ im Lernabschnitt unterrichteten Fächerkombination angelegt.**WZE** steht hierbe
 Kursart bezeichnet, ob im Klassenverband (PUK) oder in Teilgruppen (PUT)
 auf Kursbasis unterrichtet wird.
 
-::: warning
+
 
 Je nachdem, wie der Unterricht organisiert ist, kann es
 ausreichen, Stundentafeln nicht wie im Beispiel *klassenweise*, sondern
 auch nur *jahrgangsweise* zu definieren.
 
-:::
+
 
 Legen Sie erst eine Stundentafel mit dem oberen **+** an.Bei der Neuanlage muss eingegeben werden, für welchen **Jahrgang** die
 
 Tafel gilt und es muss eine **Bezeichnung** gewählt werden.In der Stundentafel selbst legen Sie neue Fächer mit dem unteren **+**
 an.
 
-::: warning
+
 
 Um Fächer für ähnliche Stundentafeln nicht immer neu
 eingeben zu müssen, wählen Sie eine ähnliche Stundentafel als Vorlage
@@ -136,7 +136,7 @@ und klicken Sie mit der rechten Maustaste und wählen sie
 rechte Maustaste aufrufen und die gerade kopierten Fächer
 einfügen.
 
-:::
+
 
 ### Sonderfall Religion
 
@@ -165,13 +165,13 @@ Fall handelt es sich um *Gruppenprozesse ➜ Fächer* ➜ **Einzelne Fächer
 bei Schülern hinzufügen**.Im zweiten Fall wird *Gruppenprozesse ➜ Fächer* ➜ **Einzelne Fächer bei
 Schülern löschen** genutzt.
 
-::: warning
+
 
 In beiden Fällen werden erst *die Schüler im
 Schülercontainer ausgewählt*, für die der Gruppenprozess durchgeführt
 werden soll, dann wird der Prozess gestartet.
 
-:::  
+  
 
 ### Stundentafeln zuweisen
 
@@ -202,13 +202,13 @@ Die Stundentafel wurde verarbeitet.
  Grundsätzlich können nun Leistungsdaten in die vorhandenen
 Fächer eingetragen werden.
 
-::: warning
+
 
 **BETA**: Das Externe Notenmodul für SchILD3 befindet
 sich noch in der Entwicklung. Aussagen hierzu werden bei
 Veröffentlichung folgen.
 
-:::
+
 
 DEADLINK: `Kategorie: BETA` - Kategorie:_BETA.md
 
@@ -216,7 +216,7 @@ Es ist aber dennoch empfehlenswert, Lehrkräfte bei den Fächern
 
 einzutragen.
 
-::: warning
+
 
 Wenn Sie die Lehrkräfte hier bei den Unterrichtsfächern
 in SchILD-NRW für die Klassen eintragen und noch unter *Lehrkräfte* die
@@ -226,7 +226,7 @@ ASDPC einlesen.Zumindest die zeitabhängigen Daten müssen dann nicht jedes Jahr
 neu in ASDPC händisch eingetragen werden, sondern werden in SchILD-NRW
 nur jährlich aktualisiert und dann neu exportiert.
 
-:::
+
 
 Lehrkräfte werden klassenweise zugewiesen, denn in parallelen Klassen
 
@@ -264,14 +264,14 @@ DEADLINK: desMSB - https://www.svws.nrw.de%7CSchulverwaltungssofte
 Schild-Reports ➜ Zeugnisformulare* die für Ihre Schulform vorgesehenen
 Zeugnisformulare.
 
-::: warning
+
 
 Hier im Beispiel werden *Textzeugnisse* installiert.
 
 Die Installation der *Ankreuzzeugnisse* funktioniert genau gleich, nur
 dass eine andere .zip-Datei heruntergeladen wird.
 
-:::  
+  
 
 ![SchILD_Tutorials_GS_VorbereitungLeistungsD_Fächerkatalog_Reigenfolge.png](../../graphics/SchILD_Tutorials_GS_VorbereitungLeistungsD_Fächerkatalog_Reigenfolge.png)
 

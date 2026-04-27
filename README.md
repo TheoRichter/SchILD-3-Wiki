@@ -1,7 +1,5 @@
-# Dokumentation zu SchILD-NRW 3
+# Dokumentation zu SchILD 3 Wiki
 
-Hier ist eine Landing Page zu SchILD-NRW 3
+## Die Startseite (Login)
 
-Grundlegende Erklärungen aus anderen Artikeln.
-
-Erklärung zum SVWS-Server und zu dem Webclient.
+![Login.png](graphics/Login.png)

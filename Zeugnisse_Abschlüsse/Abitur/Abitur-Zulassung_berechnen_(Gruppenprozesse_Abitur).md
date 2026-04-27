@@ -10,13 +10,13 @@ dieser Gruppenprozess die Berechnung der Abiturzulassung.
 
 ![SchILD_Gruppenprozesse_Abitur_ZulassungBerechnen_Achtung.png](../../graphics/SchILD_Gruppenprozesse_Abitur_ZulassungBerechnen_Achtung.png)
 
-::: warning
+
 
 Schon vorhandene Daten werden überschrieben. Dies gilt
 auch für eventuell schon eingetragene Prüfungsergebnisse im späteren
 Verlauf des Abiturs.
 
-:::  
+  
 
 ![SchILD_Gruppenprozesse_Abitur_ZulassungBerechnen_ErgebnisText.png](../../graphics/SchILD_Gruppenprozesse_Abitur_ZulassungBerechnen_ErgebnisText.png)
 

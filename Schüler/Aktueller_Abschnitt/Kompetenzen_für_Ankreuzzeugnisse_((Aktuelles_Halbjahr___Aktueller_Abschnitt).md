@@ -26,7 +26,7 @@ Damit Ankreuzkompetenzen angezeigt werden, müssen1.  die Klassen erst - siehe o
     worden sein.Dann lassen sich die Kompetenzen wie im Screenshot gezeigt durch
 Anklicken setzen.
 
-::: warning
+
 
 Wenn das Fenster zu klein ist, ziehen Sie erst ganz oben
 die Spalte *Fach* breiter. Dann lässt sich die Kompetenzbeschreibung
@@ -34,12 +34,11 @@ ebenfalls breiter ziehen. Schlussendlich lassen sich dann alle Einträge
 in der Höhe verändern. SchILD-NRW speichert die hier vorgenommenen
 Einstellungen.
 
-:::
 
-::: warning
+
+
 
 Nehmen Sie hier bitte den Artikel *Kataloge*
 **Ankreuzkompetenzen** sowie das Tutorial zu **Grundschulzeugnis
 Ankreuzzeugnis** zur Kenntnis.
 
-:::

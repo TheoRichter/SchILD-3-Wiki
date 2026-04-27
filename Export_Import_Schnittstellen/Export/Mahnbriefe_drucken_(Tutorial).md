@@ -106,7 +106,7 @@ die Filterung ausgewertet. Sie können für jedes Mahnhäkchen das
 Mahndatum über das Kontextmenü (rechte Maustaste) setzen, korrigieren
 oder löschen.
 
-::: warning
+
 
 Sie können das Mahndatum auch später setzen, wenn der
 Ausdruck der Mahnschreiben abgeschlossen ist. Sie können z.B. im
@@ -114,7 +114,7 @@ Mahnbrief ein zukünftiges Datum angeben, um die Briefe etwas später zu
 verschicken. Hier bietet es sich dann an, erst zum Versanddatum das
 Mahndatum zu setzen.
 
-:::
+
 
 ## Serienbrief Mahnung gefährdete Versetzung
 

@@ -33,14 +33,14 @@ Kompetenz bewertbar sein soll.Weiterhin kann über die Zahl rechts die **Sortier
 festgelegt werden. Die Sortierung bestimmt, in welcher Reihenfolge die
 Kompetenzen auf dem Zeugnis ausgedruckt werden.
 
-::: warning
+
 
 \* Für den Jahrgang *E3* werden keine Kompetenzen
 angelegt. In diesem Jahrgang werden die für den Jahrgang *E2*
 definierten Kompetenzen verwendet.-   Obwohl *ASV - "Arbeits- und Sozialverhalten"* kein tatsächliches
     Fach ist, wird es hier wie eines behandelt.
 
-:::
+
 
 ### Import und Export
 
@@ -55,7 +55,7 @@ An gleicher Stelle finden Sie ebenfalls eine leere Excel-Datei, die für
 das Befüllen mit eigenen Einträgen vorbereitet wird.Entsprechend können Floskeln zur Weitergabe und -verarbeitung auch
 **exportiert** werden.Klicken Sie hierzu auf `Export` und wählen Sie einen Dateispeicherort.
 
-::: warning
+
 
 Um Ankreuzkompetenzen beziehungsweise Textbausteine für
 einen anderen Jahrgang einzugeben, können Sie die Arbeit sparen, indem
@@ -64,9 +64,9 @@ und in einem Tabellenverarbeitungsprogramm ihrer Wahl die Zeilen
 kopieren beziehungsweise den Jahrgang ändern. Dann nehmen Sie einen
 erneuten Export vor.
 
-:::
 
-::: warning
+
+
 
 \* Fachfloskeln und ähnliche Einträge werden für den
 Jahrgang *E3* nicht eingegeben. Hier werden die Floskeln des Jahrgangs
@@ -79,7 +79,7 @@ Jahrgang *E3* nicht eingegeben. Hier werden die Floskeln des Jahrgangs
     Platzhalters *$Vorname$* wird dann zum Vornamen, folgende Nennungen
     werden zu *er* oder *sie*.
 
-:::
+
 
 ### UnterkategorienZu Fächern können auch Unterkategorien gebildet werden. So könnten die
 Kompetenzen in *ASV* in die beiden Unterkategorien *"Lern- und
@@ -159,22 +159,22 @@ Ankreuzzeugnisse** fachweise gesetzt werden.Im Screenshot sind die Kompetenzen f
 Sozialverhalten* zu sehen. Öffnen und schließen Sie die Kompetenzen für
 jedes Fach mit einem Klick auf das "**-**" vor dem Fach.
 
-::: warning
+
 
 #Es ist möglich, auch mehrere Kompetenzstufen
 anzuklicken.1.  Wird bei einer Kompetenz kein Haken gesetzt, werden alle Checkboxen
     auf dem Zeugnis durchstrichen.
 
-:::
 
-::: warning
+
+
 
 Ist das Feld zu klein, ziehen sie das übergeordnete Feld
 *Fach* breiter, dann lässt sich auch der Bereich für die
 *kompetenzbeschreibung* breiter ziehen. SchILD-NRW speichert Ihre
 Feldbreiten für die Zukunft.
 
-:::  ::: warning
+  
 
 **Sonderfall Kind in der ersten Klasse im Jahrgang E2:**In Ausnahmefällen kann es vorkommen, dass ein Kind in der ersten Klasse
 schon im Jahrgang E2 ist, weil es einen Rücktritt in der
@@ -191,4 +191,3 @@ dann aber sehr wichtig, dass der Verbleib in der Schuleingangsphase
 korrekt erfasst und kommuniziert wird, da sich hiernach auch das Ende
 der Vollzeitschulpflicht verschieben könnte.
 
-:::

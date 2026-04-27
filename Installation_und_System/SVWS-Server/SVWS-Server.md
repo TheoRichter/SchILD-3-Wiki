@@ -14,11 +14,10 @@ Szenarien.
 
 ## Installationsanleitungen SVWS-Server hier im Wiki
 
-::: warning
+
 
 In diesem Abschnitt finden Sie einige Informationen zur
 Installation des SVWS-Servers. Die Anleitungen stammen aus der nicht
 öffentlichen Betaphase. Wir empfehlen die offizielle Dokumentationsseite
 zu nutzen.
 
-:::

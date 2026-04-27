@@ -1,13 +1,13 @@
 # Aufräumen (Verwaltung Werkzeuge)
 
-::: warning
+
 
 **Vor dieser Aktion sollte unbedingt eine Datensicherung
 erfolgen.**Nach der Löschung können keine Leistungsdaten der Lernabschnitte mehr
 abgerufen werden.Vor einer solchen Aufräum(en)-Aktion sollte man also abwägen, ob und wie
 weit man Schuljahre mit den Daten löscht.
 
-:::
+
 
 ![SchILD_Verwaltung_Werkzeuge_Aufräumen.png](../graphics/SchILD_Verwaltung_Werkzeuge_Aufräumen.png)
 

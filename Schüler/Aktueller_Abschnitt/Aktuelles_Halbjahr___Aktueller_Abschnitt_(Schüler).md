@@ -17,7 +17,7 @@ es sich um eine *Wiederholung* handelt. Diese Haken können hier in der
 Tabelle nicht verändert werden, die Veränderungen werden im jeweiligen
 Abschnitt unter *"Allgemeine Angaben"* vorgenommen.
 
-::: warning
+
 
 Tipp 1: Einen **Lernabschnitt manuell anzulegen** kann
 sinnvoll sein, wenn ein neuer Lernender neu an der Schule aufgenommen
@@ -30,7 +30,7 @@ Lernabschnitts auszugeben, muss der Haken *"gewertet"* gesetzt sein,
 damit Noten erscheinen. Der Haken kann nach dem Druck dann wieder
 entfernt werden.
 
-:::  
+  
 
 ### Allgemeine Angaben
 
@@ -40,7 +40,7 @@ entfernt werden.
 angezeigt, ob es sich um einen gewerteten Abschnitt handelt oder nicht.Zusätzlich wird mit "**2. Durchgang (oder höher)**" angegeben, ob es
 sich um eine Wiederholung handelt.
 
-::: warning
+
 
 Als Faustregel kann hier gelten: Bei einem normalen
 Abschnitt ist der Haken *"gewertet"* gesetzt. Bei einer Wiederholung
@@ -52,7 +52,7 @@ mit beiden Haken gekennzeichnet, der vorherige Abschnitt würde auf
 *nicht gewertet* geändert, bliebe aber nach wie vor ein *2. Durchgang
 (oder höher)*.
 
-:::
+
 
 Als Angaben folgen weiter das **Schuljahr** mit dem Abschnitt, der sich
 

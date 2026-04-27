@@ -51,14 +51,14 @@ dass es sich um ein Duplikat handelt.
 Dieses Attribut wird über den Haken **Ist Duplikat** unten rechts bei
 *Weitere Angaben* gesteuert.
 
-::: warning
+
 
 Damit der Schüler auch sichtbar ist, muss im Schüler der
 Status *Neuaufnahme* ebenfalls im Filter enthalten sein.Weiterhin bietet es sich an, die Sortierung auf "Name, Vorname, Klasse"
 zu ändern, damit das *Duplikat ohne Klasse* direkt beim *Original mit
 Klasse* einsortiert wird.
 
-:::
+
 
 #### Aufnahme 3: Bildungsgangwechsler mit Schüler-Online (oder anderen Verfahren)Exportiert man Schülerdaten aus Schüler-Online, wird der *Name* des
 Schülers in der zu erzeugten Schnittstellendatei
@@ -69,14 +69,14 @@ eingetragen.Bei Verwendung anderer Online-Anmeldungen (OSA,…) sollte man versu
 die zu übertragende Datei genauso zu strukturieren, um den gleichen
 Effekt beim Import zu erreichen.
 
-::: warning
+
 
 Damit der Schüler auch sichtbar ist, muss im Schüler der
 Status *Neuaufnahme* ebenfalls im Filter enthalten sein.Weiterhin bietet es sich an, die Sortierung auf "Name, Vorname, Klasse"
 zu ändern, damit das *Duplikat mit anderer Klasse* direkt beim *Original
 mit der alten Klasse* einsortiert wird.
 
-:::
+
 
 ## Schüler mit dem aktuellen Bildungsgang aktivierenUnabhängig davon, auf welchem Weg die Schülerdatensätze in SchILD-NRW
 aufgenommen wurden, ist der Name des neuen Schülers nun in der
@@ -104,13 +104,13 @@ Bildungsgang im **Status** *Abschluss*.Nachteile des Verschmelzens:-   beim akti
 -   Mitunter können Schüler parallel zwei Bildungsgänge belegen.In diesen Fällen könnten die Schüler dupliziert, aber nicht
 zusammengeführt werden.
 
-::: warning
+
 
 Eine Möglichkeit, um auf das alte Original zu verweisen
 wäre, einen *Vermerk* für den neuen Schüler zu verfassen, aus dem die
 Existenz der weiteren Schülerversion hervorgeht.
 
-:::
+
 
 ### Variante 2: Verschmelzen von Duplikat und ursprünglichem DatensatzIn der zweiten Variante werden die beiden Versionen des Schülers
 verschmolzen.Hierbei werden nun die aktuellen Daten beim *Original* eingetragen und
@@ -118,14 +118,14 @@ der **Status** wird von *Abschluss* wieder auf *Aktiv* geändert. Im
 Anschluss ist das nun überflüssige Platzhalter-Duplikat zu löschen.Der Vorteil bei diesem Vorgehen ist, dass die Laufbahn mit allen
 Anmerkungen, Eintragungen und Noten in einem Datensatz erhalten wird.
 
-::: warning
+
 
 Achten Sie darauf, dass im Duplikat vorhandene
 Leistungsdaten nicht übertragen werden. Lagen dort schon welche vor,
 sind diese nach dem Verschmelzen beim Original nicht
 vorhanden.
 
-:::
+
 
 Um die Verschmelzung durchzuführen, muss das *Original* mit den
 
@@ -145,9 +145,8 @@ Dann klicken Sie auf
 gewählten Daten werden übernommen.Hierbei können auch veränderte Kontaktdaten, Adressen und so weiter zur
 Aktualisierung ausgewählt werden.
 
-::: warning
+
 
 Fand der Abgleich statt, wird das *Duplikat* automatisch
 gelöscht.
 
-:::

@@ -20,14 +20,14 @@ Benutzername eingetragen.
 
 ## Bearbeiten von Schülergruppen
 
-::: warnin
+ warnin
 
 g
  Es können nur diejenigen Schülergruppen bearbeitet
 werden, die vom aktuell angemeldeten Benutzernamen selbst angelegt
 worden sind. Dies betrifft ebenfalls das Löschen einer Schülergruppe.
 
-:::
+
 
 Durch einen Doppelklick in das entsprechende Feld in der Spalte
 

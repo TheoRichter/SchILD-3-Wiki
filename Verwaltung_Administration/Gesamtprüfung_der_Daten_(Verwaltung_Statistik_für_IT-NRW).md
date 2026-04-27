@@ -70,7 +70,7 @@ zeigen** kann die Arbeit nahtlos am letzten Stand fortgesetzt werden.Es kann jed
 Bereinigte Fehler werden damit nicht mehr gefunden, die alten Fehler
 erneut und neu hinzugekommene ebenfalls.
 
-::: warning
+
 
 Es kann sich empfehlen, zu unterschiedlichen Zeiten des
 Schuljahres die Gesamtprüfung laufen zu lassen, auch wenn die Statistik
@@ -79,4 +79,3 @@ jährlichen Neuaufnahmeprozesses kurz nach Beginn des neuen Schuljahres,
 um dann schon eventuell fehlende oder fehlerhafte Daten bei Schülern
 oder Lehrkräften aufzuspüren.
 
-:::

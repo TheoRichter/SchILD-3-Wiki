@@ -19,11 +19,10 @@ Die für den Schüler vergebenen Zertifikate können über dieses Feld auch
 angesehen werden.In Reports können die Zertifikate über die Datenquelle
 *SchuelerZertifikate* ausgegeben werden.
 
-::: warning
+
 
 Der eigentliche Druck der Zertifikate findet in der
 Regel nicht über SchILD-NRW statt, sondern über die extern von der
 jeweiligen Zertifikatstelle bereitgestellten Vorlagen, die dann in für
 Textverarbeitung üblichen Formaten vorliegen.
 
-:::

@@ -8,11 +8,10 @@ verwendeten Programmen und den Schulformen orientieren.Beachten Sie bitte die Su
 
 ![SchILD_Verwaltung_Hilfe_Forum.png](../graphics/SchILD_Verwaltung_Hilfe_Forum.png)
 
-::: warning
+
 
 Es empfiehlt sich, nach Ihrem Problem im Forum
 beziehungsweise einem passenden Unterforum über die Suchfunktion zu
 suchen. Oft wurde ein aktuelles Problem schon besprochen.Sollte Sie Ihr Problem nicht finden, melden Sie sich an und schildern
 Sie den Sachverhalt.
 
-:::

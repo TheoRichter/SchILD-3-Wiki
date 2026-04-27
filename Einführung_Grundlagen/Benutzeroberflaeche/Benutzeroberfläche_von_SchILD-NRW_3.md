@@ -14,13 +14,13 @@ der Oberfläche und hilft Ihnen, sich schnell zu orientieren.
 -   Jeder Karteireiter besitzt eine eigene **Ribbon-Struktur**
 -   Die verfügbaren Aktionen hängen von der **aktuellen Auswahl** ab
 
-::: warning
+
 
 Welche Schaltflächen aktiv sind, hängt immer davon ab,
 ob und was aktuell ausgewählt ist (z. B. ein Schüler oder eine
 Klasse).
 
-:::
+
 
 ## Die Karteireiter in SchILD-NRW 3
 
@@ -61,12 +61,12 @@ DEADLINK: Auswahl - Auswahl.md
 
 DEADLINK: Gruppenprozesse - Gruppenprozesse.md
 
-::: warning
+
 
 Gruppenprozesse wirken immer auf die aktuell ausgewählte
 Menge. Prüfen Sie die Auswahl vor dem Start sorgfältig.
 
-:::
+
 
 ### KatalogePflege der grundlegenden Daten, die in SchILD-NRW 3 verwendet werden.Typische Inhalte:-   Fächer
 -   Klassenarten
@@ -75,13 +75,13 @@ Menge. Prüfen Sie die Auswahl vor dem Start sorgfältig.
 
 DEADLINK: Kataloge - Kataloge.md
 
-::: warning
+
 
 Viele Eingabefelder und Funktionen stehen erst zur
 Verfügung, wenn die entsprechenden Kataloge korrekt gepflegt
 sind.
 
-:::
+
 
 ### ReportverwaltungErstellung und Ausgabe von Berichten und Formularen.Typische Inhalte:-   Zeugnisdruck
 -   Serienbriefe
@@ -96,12 +96,12 @@ möglich sind.Merkmale der Ribbon-Leiste:-   Die Schaltflächen sind thematisch 
 -   Die verfügbaren Funktionen ändern sich beim Wechsel des
     Karteireiters
 
-::: warning
+
 
 Wenn eine Schaltfläche grau dargestellt ist, fehlt meist
 eine passende Auswahl (z. B. kein Schüler markiert).
 
-:::
+
 
 ## Zusammenspiel von Auswahl und AktionenEin zentrales Konzept in SchILD-NRW 3 ist das Zusammenspiel von:-   **Auswahl** (z. B. ein oder mehrere Schüler)
 -   **Karteireiter**

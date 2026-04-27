@@ -48,7 +48,7 @@ Knopfdruck ermittelt werden.
     muss dann im Katalog der Schulen ein Kürzel haben!
 -   **allg. Kursart**: Hier wird die Kursart des Kurses festgelegt.
 
-::: warning
+
 
 Diese allgemeine Kursart kann sich von den beim Schüler
 eingetragenen Kursarten unterscheiden. Z.B. wäre ein Grundkurs (GK) in
@@ -57,7 +57,7 @@ der Oberstufe beim Schüler dann mit *"Grundkurs schriftlich (GKS)"* oder
 (DK) an den Schulformen GE und SK würden bei den Schülern dann mit der
 jeweiligen Differenzierungsebene E oder G eingetragen.
 
-:::
+
 
 -   **ZE/Woche insges.**: Zeiteinheit der Wochenstunden bei de
 
@@ -91,12 +91,12 @@ n
         Abschnitt geführt. Beim Schuljahreswechsel wird der Jahrgang
         erhöht.
 
-::: warning
+
 
 Beachten Sie, dass die Fortschreibungsart bei jedem
 Abschnittswechsel berücksichtigt wird!
 
-:::  
+  
 
 \* **Sortierung**: Hier können Sortiernummern für die Kurse gegeben
 werden. Links oben im Fenster kann bei den Filtern über das
@@ -110,13 +110,13 @@ Drop-Down-Menü entsprechend sortiert werden.-   **Schienen**': Hier wird nach I
     Kurs belegt ist. Diese Spalte wird angezeigt, wenn Sie den Haken in
     der Kopfzeile bei dem entsprechenden Feld gesetzt haben.
 
-::: warning
+
 
 Beachten Sie, dass SchILD-NRW neu gestartet werden muss,
 damit die Kurstabelle komplett neu eingelesen wird und alle Felder in
 den Leistungsdaten zur Verfügung stehen.
 
-:::
+
 
 ## Optionen über die rechte Maustaste
 
@@ -126,12 +126,12 @@ den Leistungsdaten zur Verfügung stehen.
     Auswahl befinden.
 -   '''Markiere Kurse löschen": Löscht alle markierten Kurse.
 
-::: warning
+
 
 Dieser Menüpunkt kann nützlich sein, wenn Sie z.B. eine
 Blockung für alle Schüler eines Jahrgangs löschen wollen.
 
-:::
+
 
 -   **Markierte Kurse kopieren**
 
@@ -139,25 +139,25 @@ Blockung für alle Schüler eines Jahrgangs löschen wollen.
     einmal der Button *"Kurse neu laden"* genutzt werden. Mit diese
     Funktion können Sie Kurse in einen neuen Abschnitt einfügen.
 
-::: warning
+
 
 Dies ist sehr nützlich, wenn man vergessen hat, bei der
 Versetzung die Fächer mit in den neuen Abschnitt zu
 übertragen.
 
-:::
+
 
 -   **Kurse einfügen (in gleichen Abschnitt)**: Nach dieser Funktio
 
 n
     muss einmal der Button *"Kurse neu laden"* genutzt werden.
 
-::: warning
+
 
 Es liegt dann eine exakte Kopie des Kurses vor,
 "**Kursbez.**" usw. sollten anschließend geändert werden.
 
-:::
+
 
 -   **Weitere Lehrkräfte zuweisen**: Wenn Teamteaching aktiviert ist
 
@@ -167,12 +167,12 @@ Es liegt dann eine exakte Kopie des Kurses vor,
     können hier weitere Lehrkräfte zugewiesen werden, die auch
     unterschiedliche Wochenstunden bekommen können.
 
-::: warning
+
 
 Diese Funktion kann erst ausgeführt werden, wenn der
 Kurs einmal gespeichert wurde.
 
-:::
+
 
 -   **Jahrgänge zuweisen**: Hier können nachträglich Eintragungen i
 

@@ -7,7 +7,7 @@ Schule im *2. Halbjahr* befindet und weiterhin *exklusiv* Schüler eines
 Jahrgangs ausgewählt wurden, in denen Zentrale Klausuren geschrieben
 werden.
 
-::: warning
+
 
 Der Ablauf einer ZP 10 wird im Wikiartikel zum Reiter
 *Schüler ➜ ZP 10/ZK* detailliert erläutert.
@@ -15,7 +15,7 @@ Der Ablauf einer ZP 10 wird im Wikiartikel zum Reiter
 Die notwendigen Vorbereitungen, um die ZP 10/Zentrale Klausuren in
 SchILD-NRW zu erfassen, finden sich in einem *Tutorial*.
 
-:::  
+  
 
 ![SchILD_Gruppenprozesse_ZK_GPs.png](../../graphics/SchILD_Gruppenprozesse_ZK_GPs.png)
 

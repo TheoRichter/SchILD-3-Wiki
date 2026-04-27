@@ -18,7 +18,7 @@ können über "Transaktionsprotokoll zeigen" sichtbar gemacht werden.
 ersichtlich, dass vor *Transaktionsprotokoll* nun ein "**+**" steht.Weiterhin wird nun *Transaktionsprotokoll zeigen* zur Verfügung
 gestellt, in dem nun eventuell erzeugte Fehler abgelegt werden.
 
-::: warning
+
 
 Bei einem Aufruf von "Transaktionsprotokoll zeigen",
 wird anschließend das Transaktionsprotokoll automatisch gelöscht, damit
@@ -26,7 +26,7 @@ der Speicher nicht irgendwann überläuft.Man kann sich ein Protokoll nur einmal
 benötigt, muss es separat aus dem Protokollfenster abgespeichert werden.Es kann bei einem reprodzierbar auftretenden Fehler über diesen ein
 neues Protokoll erzeugt werden.
 
-:::
+
 
 Soll ein weiteres Transaktionsprotokoll erzeugt werden, muss die
 

@@ -17,12 +17,12 @@ entsprechende Kriterium bereits abgefragt wurde. Die Nutzung dieses
 Hakens ist insbesondere für neue Schülerinnen und Schüler sinnvoll, da
 so fehlende Abfragen schnell gefunden werden können.Liegt eine Zustimmung vor, so kann dort der Haken gesetzt werden.
 
-::: warning
+
 
 Der Reiter kann auch zur Verwaltung von Einwilligungen
 verwendet werden, die nicht mit der DSGVO zusammenhängen.
 
-:::  
+  
 
 ### LernplattformenEbenso wie für die Einwilligungen kann auch für die von der Schule
 verwendeten Lernplattformen die individuelle Einwilligung verwaltet

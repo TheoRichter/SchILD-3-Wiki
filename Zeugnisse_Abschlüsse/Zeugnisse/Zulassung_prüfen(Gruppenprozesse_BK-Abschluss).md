@@ -9,9 +9,8 @@ oder *Nein* aus.Es wird ein Protokoll der Prüfung angezeigt.Sinnvolle Ergebniss
 eine Schülergruppe ausgewählt wurde, für die nach ihrer Prüfungsordnung
 eine Prüfung mit einer Zulassung vorgesehen ist.
 
-::: warning
+
 
 Wird ein Abitur als Abschluss angestrebt, ist das
 Verfahren hierzu im Reiter *Schüler ➜ Abitur* durchführen.
 
-:::

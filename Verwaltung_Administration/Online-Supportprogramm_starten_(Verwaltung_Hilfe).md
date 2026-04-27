@@ -1,13 +1,13 @@
 # Online-Supportprogramm starten (Verwaltung Hilfe)
 
-::: warning
+
 
 Eventuell nutzen die Fachberatungen der
 Bezirksregierungen ein von dem mitgelieferten abweichendes Tool. In
 diesem Fall wäre das Vorgehen direkt im Telefonat/Videochat mit der
 Fachberatung zu klären.
 
-:::
+
 
 ![SchILD_Verwaltung_OnlineSupportprogramm.png](../graphics/SchILD_Verwaltung_OnlineSupportprogramm.png)
 
@@ -27,7 +27,7 @@ werden.
 **Passwort** angezeigt werden. Diese Daten müssen der Fachberatung
 mitgeteilt werden, dann wird Ihr Desktop mit dem Gegenüber geteilt.Auch eine Fernsteuerung Ihres Geräts wird über TeamViewer ermöglicht.
 
-::: warning
+
 
 Achten Sie bitte darauf, nicht auf eventuelle
 Phishingangriffe hereinzufallen, d.h. dass sich jemand Fremdes als
@@ -35,7 +35,7 @@ berechtigte Person ausgibt. Teilen Sie diese Daten nur mit
 vertrauenswürdigen Gesprächspartnern im Kontext einer
 Beratungssituation.
 
-:::
+
 
 Über das Zahnrad oben rechts lassen sich auch
 

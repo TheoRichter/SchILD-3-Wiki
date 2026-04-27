@@ -28,13 +28,13 @@ Rechner betrieben werden.Hierbei ist aber zu beachten, dass jeweils nur eine Sta
 (jeweils *schulver.mdb* und die *ASDTABS.mdb*) verwendet werden kann!Beide Dateien liegen im Unterordner *\IT-NRW\\* im
 SchILD-NRW-Installationsverzeichnis.
 
-::: warning
+
 
 Es wird von allen SchILD-NRW-Installationen die .dll
 genutzt, *die zuletzt auf dem verwendeten Windows-Client registriert
 wurde*.
 
-:::
+
 
 Dies gilt auch für eventuell mehrere Installationen von SchILD-NRW2 oder
 
@@ -43,14 +43,14 @@ automatisch registriert.Sind alle .dlls aktuell, ist kein Problem zu erwarten.Wi
 vom immer aktuellen Stand von SchILD-NRW3 dauerhaft die veraltete Datei
 aus dem SchILD-NRW-2-Verzeichnis genutzt werden und zu Fehlern führen.
 
-::: warning
+
 
 Diese Ausführungen gelten auch, wenn SchILD-NRW als
 Netzwerkinstallation neben einer lokalen Einzelplatzinstallation auf dem
 Windows-Rechner verwendet wird - auf dem Windows-Rechner kann nur eine
 .dll registriert sein!
 
-:::
+
 
 Führen Sie aus einer Installation von SchILD-NRW das nachträgliche
 

@@ -5,7 +5,7 @@
 ## Starten nach einer InstallationZum ersten Start sieht das Notenmodul wie folgt aus:Hier bemerken wir, dass natürlich noch keine **Notendateien** im
 Arbeitsverzeichnis liegen.
 
-::: warning
+
 
 Wird in einem Folgejahr eine neue Version des
 Notenmoduls verteilt, installieren Sie dieses **Update** genauso wie
@@ -13,11 +13,11 @@ Notenmoduls verteilt, installieren Sie dieses **Update** genauso wie
 WIKILINK: Installation_des_Externen_Notenmoduls_(Tutorial)
 vorgenommen wurde.
 
-:::  
+  
 
 ## Ablegen der Notendatei im Notenverzeichnis
 
-::: warning
+
 
 Bevor Sie die Notendateien aus SchILD-NRW exportieren
 sollte die Korrektheit der Leistungsdaten - also Lehrkraftzuordnungen,
@@ -26,7 +26,7 @@ hier in die Notendateien exportiert werden und auch Lerngruppen bei
 nicht mehr aktuellen Lehrkräften in die Datei geschrieben
 werden.
 
-:::
+
 
 ![ENM3_Notendateien.png](../../graphics/ENM3_Notendateien.png)
 
@@ -46,14 +46,14 @@ im Ordner `NM3-Arbeitsverzeichnis\Noten` ab.
 
 ## Öffnen der Notendatei
 
-::: warning
+
 
 Eventuell liegen noch alte Notendateien vorheriger
 Lernabschnitte in dem Ordner. Achten Sie bitte darauf, dass Sie
 tatsächlich die aktuelle Notendatei in den Ordner Noten einkopiert
 haben!
 
-:::
+
 
 ![ENM3_starten.png](../../graphics/ENM3_starten.png)
 

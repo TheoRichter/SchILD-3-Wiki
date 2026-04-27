@@ -57,10 +57,9 @@ Dateinamen oder noch weitere Details angezeigt werden sollen.-   **Details** zei
 Das Dropdown-Menü *Schuljahr/Abschnitt* lässt den Abschnitt wählen, der
 für den im Folgenden erzeugten Report als Datengrundlage dient.
 
-::: warning
+
 
 Stellen Sie im Anschluss wieder auf den aktuellen
 Abschnitt zurück, ansonsten sind weitere erzeugte Reports mitunter
 fehlerhaft.
 
-:::

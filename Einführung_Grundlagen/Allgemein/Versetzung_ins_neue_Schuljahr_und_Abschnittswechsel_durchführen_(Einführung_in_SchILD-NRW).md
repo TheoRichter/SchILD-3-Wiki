@@ -39,14 +39,14 @@ Wählen Sie einen Haken ab, werden daher alle folgenden Haken ebenfalls
 abgewählt.Bitte kontrollieren Sie, ob der Haken zur Mitnahme der Fächer wie
 gewünscht gesetzt ist.
 
-::: warning
+
 
 **Hinweise zum Schuljahreswechsel:**1.  In der Regel ist die Mitnahme der Fächer gewünscht.
 2.  Die Angaben zu Beginn und Ende sind optional.
 3.  Sind Schritte in der Übersicht ausgegraut, wurde der entsprechende
     Schritt schon ausgeführt.
 
-:::  
+  
 
 ![SchILD_Schueler_Versetzung_3.png](../../graphics/SchILD_Schueler_Versetzung_3.png)
 

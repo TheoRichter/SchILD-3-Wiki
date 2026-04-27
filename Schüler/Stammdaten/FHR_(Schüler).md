@@ -15,9 +15,9 @@ die Schnittoptimierung günstige zwei aufeinander folgende Halbjahre
 markiert und der FHR wird berechnet.  
 Hier blendet SchILD-NRW folgenden Hinweis ein
 
-:::
 
-::: warning
+
+
 
 *Gegenanzeige: In äußerst seltenen Fällen – Wiederholung
 der Jahrgangsstufe 13/Q2 nach nicht bestandener Abiturprüfung, wenn in
@@ -31,7 +31,7 @@ oder den Schüler optimale Punktzahl der FHR ermittelt. Wir bitten Sie,
 in solchen Fällen um eine manuelle Kontrolle des von SchILD gelieferten
 Vorschlags.*
 
-:::
+
 
 Eine Ausgabe könnte so aussehen:` Altmann, Lena`  
 
@@ -48,7 +48,7 @@ steht unter *Gruppenprozesse ➜ Allgemein* der Gruppenprozess
 **Fachhochschulreife prüfen** zur Verfügung, über den für die ganze
 Gruppe die Leistungsdaten geholt, markiert und geprüft werden.
 
-::: warning
+
 
 An BKs findet sich der FHR einmal im Reiter **FHR** und
 im Reiter **BK-Abschluss**. Über den Reiter FHR wird für Schüler des
@@ -58,12 +58,11 @@ sie den Bildungsgang verlassen. Aus Sicht des BK wird hier also ein
 BK-Bildungsgang einen "vollen FHR", aus Sicht des BK also den
 *FHR*.
 
-:::
 
-::: warning
+
+
 
 Die automatische Berechnung durch SchILD-NRW ist als
 Unterstützung ohne Gewähr zu verstehen. Die Verantwortung für die
 Korrektheit der Berechnungen trägt die Schule.
 
-:::

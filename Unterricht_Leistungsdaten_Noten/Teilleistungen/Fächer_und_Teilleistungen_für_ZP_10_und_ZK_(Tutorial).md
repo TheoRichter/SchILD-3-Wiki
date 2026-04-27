@@ -1,12 +1,12 @@
 # Fächer und Teilleistungen für ZP 10 und ZK (Tutorial)
 
-::: warning
+
 
 Bitte nehmen Sie das generelle Tutorial zur Einrichtung
 von Teilleistungen zur Kenntnis.Der generelle Ablauf der ZP wird im Wiki-Artikel zum Reiter **Schüler ➜
 ZP 10/ZK** detailliert erläutert.
 
-:::
+
 
 Sollen ZP 10 und Zentrale Klausuren über SchILD-NRW erfasst und mittels
 
@@ -53,13 +53,13 @@ Unterrichts im Klassenverband handelt sich sich um *PUK*. Auch eine
 "leere" Kursart kann gewählt werden.Setzen Sie nun die *Haken* bei den Teilleistungsarten, die für die ZP 10
 oder die Zentrale Klausur definiert wurden.Klicken Sie auf `Übernehmen`.
 
-::: warning
+
 
 Wiederholen Sie diesen Vorgang für alle relevanten
 Fächer, bei der ZP 10 sind dies Deutsch, Mathematik und
 Englisch.
 
-:::
+
 
 ## Die Teilleistungsarten den Leistungsdaten bei den Schülern zuordnenNun sind die Fächer und Teilleistungsarten für die Schule vorbereitet,
 sie müssen jedoch noch den Schülern konkret in ihren Leistungsdaten

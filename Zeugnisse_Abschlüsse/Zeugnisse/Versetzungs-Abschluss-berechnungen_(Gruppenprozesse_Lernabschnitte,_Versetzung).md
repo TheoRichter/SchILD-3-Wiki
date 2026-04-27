@@ -15,11 +15,10 @@ Abschlüssen oder Nachprüfungsmöglichkeiten.Der Inhalt des Fensters kann als T
 werden. Die Funktion *Drucken* sendet direkt einen Druckauftrag an den
 Standarddrucker.
 
-::: warning
+
 
 Man sollte vorher unter *Gruppenprozesse ➜ Noten,
 Zeugnisvorbereitung* den Gruppenprozess **Fächer ohne Noten suchen**
 durchführen, um Fehlermeldungen aufgrund fehlender Noteneinträge zu
 vermeiden.
 
-:::

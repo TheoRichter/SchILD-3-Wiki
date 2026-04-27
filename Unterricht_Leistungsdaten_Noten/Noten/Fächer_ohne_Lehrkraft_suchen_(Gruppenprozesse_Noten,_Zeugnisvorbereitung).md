@@ -13,7 +13,7 @@ fehlt.
 Diese Angaben werden direkt in einer Liste bereitgestellt. Diese kann
 gespeichert oder ausgedruckt werden.
 
-::: warning
+
 
 Sinnvoll ist dieser Gruppenprozess, bevor Sie die
 Dateien für das externe Notenmodul bereitstellen. Fehlt beim Unterricht
@@ -21,4 +21,3 @@ eines Schülers der Eintrag des Lehrers, wird dieser Unterricht dem
 eigentlich zuständigen Kollegen auch nicht in seine Notendatei
 exportiert.
 
-:::

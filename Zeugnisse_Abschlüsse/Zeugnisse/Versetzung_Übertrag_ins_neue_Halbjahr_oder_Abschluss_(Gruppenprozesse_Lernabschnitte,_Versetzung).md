@@ -1,6 +1,6 @@
 # Versetzung/Übertrag ins neue Halbjahr oder Abschluss (Gruppenprozesse Lernabschnitte, Versetzung)
 
-::: warning
+
 
 Dieser Artikel erklärt den Abschnittswechsel in
 Sonderfällen.
@@ -9,7 +9,7 @@ Diese Vorgehensweise ist nur notwendig, wenn Schülergruppen zu
 verschiedenen Zeitpunkten oder von verschiedenen Abteilungsleitungen
 versetzt werden müssen.
 
-:::
+
 
 ![SchILD_Gruppenprozesse_Versetzung_1_GP.png](../../graphics/SchILD_Gruppenprozesse_Versetzung_1_GP.png)
 
@@ -29,13 +29,13 @@ Wiki-Artikel.1.  Setzen Sie zuerst das **Konferenz-** und bei Bedarf das
     **Versetzungs-/Abschlussberechnung** aus *Gruppenprozesse ➜
     Lernabschnitte, Versetzung* für die gewählte Schülermenge.
 
-::: warning
+
 
 Achten Sie darauf, dass alle notwendigen Leistungsdaten
 geholt, Mahnungen und Fehlstunden passend eingetragen sind und
 eventuelle Lernbereichsnoten gebildet wurden.
 
-:::  
+  
 
 3\. Anschließend drucken Sie eventuelle Zeugnisse entsprechend der
 Prüfungsordnung und individuell unterschiedliche Abgangs- oder

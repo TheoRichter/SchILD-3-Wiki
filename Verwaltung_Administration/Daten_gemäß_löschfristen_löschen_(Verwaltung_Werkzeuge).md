@@ -33,14 +33,14 @@ behalten, so dass die Zuordnungen bei den Leistungsdaten weiterhin
 erhalten bleiben.Schlussendlich bietet SchILD-NRW an, die *Dokumentenverwaltung* trotz
 des Ablaufs der Löschfristen zu erhalten.
 
-::: warning
+
 
 Beachten Sie, dass es sich hierbei auch um die als .pfd
 archivierten Zeugnisse handelt.Beachten Sie weiterhin, dass es sich bei .pdfs um digitale Daten
 handelt, die ebenfalls unter eventuelle DVO-Bestimmungen
 fallen.
 
-:::  
+  
 
 ![SchILD_Verwaltung_Werkzeuge_Löschfristen_4_Datenliste.png](../graphics/SchILD_Verwaltung_Werkzeuge_Löschfristen_4_Datenliste.png)
 

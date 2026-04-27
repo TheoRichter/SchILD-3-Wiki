@@ -19,7 +19,7 @@ DEADLINK: Kategorie - Spezial:Kategorien.md
     Eine Übersicht über alle Kategorien finden Sie auf der linke Seite
     unter *Mediawiki*.
 
-::: warning
+
 
 Beachten Sie bitte, dass sich das konkrete
 Erscheinungsbild im Detail von SchILD-NRW an die jeweils gewählte
@@ -27,7 +27,7 @@ Schulform anpassen kann und dass auch je nach gewählter Jahrgangstufe
 andere Reiter und auch Gruppenprozesse zur Verfügung stehen
 können.
 
-:::
+
 
 Die Erklärungen in allen **Reitern** sind in der Regel so ausgelegt,
 
@@ -45,13 +45,13 @@ Lesbarkeit in Ausdrucken verbessern.Gleiches gilt, um eine vergrößerte Ansicht
 bekommen. Ein Klick drauf öffnet die vergrößerte Ansicht, kehren Sie
 dann über den `Zurück`-Button des Browers zum Artikel zurück.
 
-::: warning
+
 
 In diesem Wiki wird SchILD-NRW entsprechend die
 Schreibvarinate *Schüler* oder *Lehrer* verwendet. Es sind hierbei immer
 alle Geschlechter und Identitäten gemeint.
 
-:::
+
 
 Folgende Artikel verfügen über
 

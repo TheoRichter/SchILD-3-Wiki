@@ -12,14 +12,14 @@ Schüler angegeben werden:-   Hat die Schülerin oder der Schüler keine weitere
     Personalausweis) in das Feld "Alle Vornamen" eingetragen – sofern
     der Rufname nicht bereits alle Vornamen umfasst.
 
-::: warning
+
 
 In älteren SchILD-Versionen findet sich noch das Feld
 *Vorname*, dieses wurde in *Rufename* umbenannt. Steht bei Ihnen noch
 *Vorname*, führen Sie bitte ein Update auf die aktuelle SchILD-Version
 durch.
 
-:::
+
 
 ## Beispiele**Beispiel 1**  
 Offizieller Name laut Personalausweis: Anton Max Theo  

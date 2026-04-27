@@ -34,12 +34,12 @@ Mausklick eingefügt werden.Der Artikel
 WIKILINK: Floskeln_bearbeiten_(Schulbezogene_Kataloge)
 listet die zur Verwendung von Floskeln notwendigen Informationen auf.
 
-::: warning
+
 
 Die endgültig zu verwendenden Floskeln beschließt die
 Schulkonferenz.
 
-:::
+
 
 ## Die Zeugnisphase in SchILD
 
@@ -258,9 +258,8 @@ WIKILINK: SchILD-NRW_3#Tutorials*.
 
 ## Häufige Fehler beim Zeugnisdruck
 
-::: warning
+
 
 Nehmen Sie das Tutorial zu den *Häufigen Fehlern bei
 Zeugnisdruck* zur Kenntnis.
 
-:::

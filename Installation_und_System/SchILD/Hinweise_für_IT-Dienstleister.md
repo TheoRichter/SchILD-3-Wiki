@@ -57,7 +57,7 @@ dann anderen Schulen gehören oder gar nichts mit Schulen zu tun haben.
     Benutzeroberfläche von SchILD-NRW bereitgestellte
     Datenbankoperationen ausgeführt werden können.
 
-::: warning
+
 
 Über SchILD-NRW lassen sich Benutzergruppen mit Rechten
 definieren und SchILD-Nutzern zuweisen. Hierüber lassen sich auch sehr
@@ -65,7 +65,7 @@ hohe Rechte vergeben. Achten Sie bitte darauf, dass Sie auch über
 Benutzergruppen nur Rechte an Nutzer vergeben, die diese benötigen und
 haben sollen!
 
-:::
+
 
 ### Die OrdnerstrukturUm die Sicherheit des Betriebssystems zu gewährleisten, stattet Windows
 die unterschiedlichen Ordner mit unterschiedlichen Rechten aus. Der
@@ -135,13 +135,13 @@ Zertifikat erstellt werden, welches in MS Windows hinzuzufügen ist.
 Die Klienten greifen entweder über die Weboberfläche oder ein
 Klient-Programm wie SchILD-NRW 3 auf den Server zu.
 
-::: warning
+
 
 Achten Sie darauf, dass der SVWS-Server weder vom
 *pädagogischen Netzwerk* der Schule noch direkt von außen über das
 Internet zu erreichen ist!
 
-:::
+
 
 In kleinen Schulen sind auch Einzelplatzinstallationen möglich, bei
 
@@ -210,14 +210,14 @@ und von SchILD-NRW genutzt, um technisch auf die Datenbank zuzugreifen.Hinweise 
 (das Schema) zugegriffen werden, um im Bedarf ein
 SchILD-Administrator-Kennwort (SchILD-Nutzer) zurückzusetzen.
 
-::: warning
+
 
 Beachten Sie, dass für eigenmächtig veränderte
 Datenbanken unter Umständen kein Support mehr übernommen werden kann.
 Kontaktieren Sie bitte in einem solchen Fall unbedingt die Fachberatung
 der betroffenen Schule.
 
-:::
+
 
 ### SchILD-Nutzer (Administrator)**SchILD-Nutzer mit ihren Rechten** sind für Schulträger/IT nur bedingt
 relevant. In der Regel dürfte sich die IT einen Administrator-Nutzer in
